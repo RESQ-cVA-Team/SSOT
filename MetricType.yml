@@ -146,6 +146,7 @@
     el: "Ηλικία κατά την έναρξη του εγκεφαλικού επεισοδίου."
     cs: "Věk v době vzniku cévní mozkové příhody."
   data_type: Numeric
+  statistics_enum: AGE
   Numeric:
     unit: years
     range_min: 0
@@ -444,6 +445,7 @@
     el: "Βαθμολογίες NIH Stroke Scale που λαμβάνονται κατά την εισαγωγή."
     cs: "Hodnoty NIH Stroke Scale zaznamenané při přijetí."
   data_type: Numeric
+  statistics_enum: ADMISSION_NIHSS
   Numeric:
     unit: score
     range_min: 0
@@ -458,6 +460,7 @@
     el: "Βαθμολογία στην τροποποιημένη κλίμακα Rankin πριν από την έναρξη του εγκεφαλικού επεισοδίου."
     cs: "Skóre na škále Modified Rankin před vznikem cévní mozkové příhody."
   data_type: Numeric
+  statistics_enum: PRESTROKE_MRS
   Numeric:
     unit: score
     range_min: 0
@@ -472,6 +475,7 @@
     el: "Αρχικές τιμές γλυκόζης αίματος σε mg/dl, αρχική μέτρηση."
     cs: "Výchozí hodnoty glykémie v mg/dl, počáteční měření."
   data_type: Numeric
+  statistics_enum: GLUCOSE
   Numeric:
     unit: mg/dl
     range_min: 0
@@ -486,6 +490,7 @@
     el: "Αρχικές τιμές LDL χοληστερόλης σε mg/dl, αρχική μέτρηση."
     cs: "Výchozí hodnoty LDL cholesterolu v mg/dl, počáteční měření."
   data_type: Numeric
+  statistics_enum: CHOLESTEROL
   Numeric:
     unit: mg/dl
     range_min: 0
@@ -500,6 +505,7 @@
     el: "Αρχικές τιμές συστολικής αρτηριακής πίεσης σε mmHg, αρχική μέτρηση."
     cs: "Výchozí hodnoty systolického krevního tlaku v mmHg, počáteční měření."
   data_type: Numeric
+  statistics_enum: SYSTOLIC_PRESSURE
   Numeric:
     unit: mmHg
     range_min: 0
@@ -514,6 +520,7 @@
     el: "Αρχικές τιμές διαστολικής αρτηριακής πίεσης σε mmHg, αρχική μέτρηση."
     cs: "Výchozí hodnoty diastolického krevního tlaku v mmHg, počáteční měření."
   data_type: Numeric
+  statistics_enum: DIASTOLIC_PRESSURE
   Numeric:
     unit: mmHg
     range_min: 0
@@ -672,6 +679,7 @@
     el: "Όγκος του πυρήνα του perfusion deficit σε ml."
     cs: "Objem jádra perfuzního deficitu v ml."
   data_type: Numeric
+  statistics_enum: PERFUSION_CORE_VOLUME
   Numeric:
     unit: ml
     range_min: 0
@@ -686,6 +694,7 @@
     el: "Όγκος υποαιμάτωσης σε ml."
     cs: "Objem hypoperfuze v ml."
   data_type: Numeric
+  statistics_enum: HYPOPERFUSION_VOLUME
   Numeric:
     unit: ml
     range_min: 0
@@ -837,6 +846,7 @@
     el: "Χρόνος door-to-needle σε λεπτά."
     cs: "Door-to-needle čas v minutách."
   data_type: Numeric
+  statistics_enum: DOOR_TO_NEEDLE
   Numeric:
     unit: minutes
     range_min: 0
@@ -851,6 +861,7 @@
     el: "Χρόνος door-to-groin σε λεπτά στο πρωτογενές θεραπευτήριο νοσοκομείο."
     cs: "Door-to-groin čas v minutách v primární léčící nemocnici."
   data_type: Numeric
+  statistics_enum: DOOR_TO_GROIN
   Numeric:
     unit: minutes
     range_min: 0
@@ -879,6 +890,7 @@
     el: "Χρόνος door-in-door-out όταν ο ασθενής διακομίζεται για θεραπεία."
     cs: "Door-in-door-out čas při překladu pacienta k další léčbě."
   data_type: Numeric
+  statistics_enum: DOOR_TO_DOOR
   Numeric:
     unit: minutes
     range_min: 0
@@ -893,6 +905,7 @@
     el: "Χρόνος door-to-reperfusion σε λεπτά."
     cs: "Door-to-reperfusion čas v minutách."
   data_type: Numeric
+  statistics_enum: DOOR_TO_REPERFUSION
   Numeric:
     unit: minutes
     range_min: 0
@@ -1047,6 +1060,7 @@
     el: "Δόση του θρομβολυτικού φαρμάκου."
     cs: "Dávky trombolytického léčiva."
   data_type: Numeric
+  statistics_enum: IVT_DRUG_DOSE
   Numeric:
     unit: mg
     range_min: 0
@@ -1173,6 +1187,7 @@
     el: "Ποσότητα αίματος σε ml που συσσωρεύτηκε στον εγκεφαλικό ιστό ως αποτέλεσμα ενδοεγκεφαλικής αιμορραγίας."
     cs: "Množství krve v ml nahromaděné v mozkové tkáni v důsledku intracerebrálního krvácení."
   data_type: Numeric
+  statistics_enum: BLEEDING_VOLUME
   Numeric:
     unit: ml
     range_min: 0
@@ -1187,6 +1202,7 @@
     el: "Τιμές προγνωστικού ICH score υπολογισμένες για ασθενείς με ενδοεγκεφαλική αιμορραγία."
     cs: "Hodnoty prediktivního skóre ICH vypočítaného u pacientů s intracerebrálním krvácením."
   data_type: Numeric
+  statistics_enum: ICH_SCORE
   Numeric:
     unit: score
     range_min: 0
@@ -1367,6 +1383,7 @@
     el: "Τιμές της κλίμακας Hunt-Hess που χρησιμοποιούνται για την εκτίμηση της βαρύτητας της υπαραχνοειδούς αιμορραγίας."
     cs: "Hodnoty skóre Hunt-Hess používané k posouzení závažnosti subarachnoidálního krvácení."
   data_type: Numeric
+  statistics_enum: HUNT_HESS_SCORE
   Numeric:
     unit: score
     range_min: 0
@@ -1755,6 +1772,7 @@
     el: "Πόσες φορές μετρήθηκε η θερμοκρασία την 1η ημέρα της μετα-οξείας φροντίδας."
     cs: "Počet měření tělesné teploty v 1. dni postakutní péče."
   data_type: Numeric
+  statistics_enum: DAY_1_FEVER_CHECKS
   Numeric:
     unit: count
     range_min: 0
@@ -1769,6 +1787,7 @@
     el: "Πόσες φορές μετρήθηκε η θερμοκρασία τη 2η ημέρα της μετα-οξείας φροντίδας."
     cs: "Počet měření tělesné teploty ve 2. dni postakutní péče."
   data_type: Numeric
+  statistics_enum: DAY_2_FEVER_CHECKS
   Numeric:
     unit: count
     range_min: 0
@@ -1783,6 +1802,7 @@
     el: "Πόσες φορές μετρήθηκε η θερμοκρασία την 3η ημέρα της μετα-οξείας φροντίδας."
     cs: "Počet měření tělesné teploty ve 3. dni postakutní péče."
   data_type: Numeric
+  statistics_enum: DAY_3_FEVER_CHECKS
   Numeric:
     unit: count
     range_min: 0
@@ -1811,6 +1831,7 @@
     el: "Πόσες φορές ελέγχθηκε το σάκχαρο αίματος την 1η ημέρα της μετα-οξείας φροντίδας."
     cs: "Počet měření glykémie v 1. dni postakutní péče."
   data_type: Numeric
+  statistics_enum: DAY_1_HYPERGLYCEMIA_CHECKS
   Numeric:
     unit: count
     range_min: 0
@@ -1825,6 +1846,7 @@
     el: "Πόσες φορές ελέγχθηκε το σάκχαρο αίματος τη 2η ημέρα της μετα-οξείας φροντίδας."
     cs: "Počet měření glykémie ve 2. dni postakutní péče."
   data_type: Numeric
+  statistics_enum: DAY_2_HYPERGLYCEMIA_CHECKS
   Numeric:
     unit: count
     range_min: 0
@@ -1839,6 +1861,7 @@
     el: "Πόσες φορές ελέγχθηκε το σάκχαρο αίματος την 3η ημέρα της μετα-οξείας φροντίδας."
     cs: "Počet měření glykémie ve 3. dni postakutní péče."
   data_type: Numeric
+  statistics_enum: DAY_3_HYPERGLYCEMIA_CHECKS
   Numeric:
     unit: count
     range_min: 0
@@ -2087,6 +2110,7 @@
     el: "Βαθμολογία στην τροποποιημένη κλίμακα Rankin κατά το εξιτήριο."
     cs: "Skóre na škále Modified Rankin zaznamenané při propuštění."
   data_type: Numeric
+  statistics_enum: DISCHARGE_MRS
   Numeric:
     unit: score
     range_min: 0
@@ -2132,6 +2156,7 @@
     el: "Βαθμολογία στην τροποποιημένη κλίμακα Rankin τρεις μήνες μετά την έναρξη του εγκεφαλικού επεισοδίου."
     cs: "Skóre na škále Modified Rankin zaznamenané tři měsíce po vzniku iktu."
   data_type: Numeric
+  statistics_enum: THREE_M_MRS
   Numeric:
     unit: score
     range_min: 0
@@ -2146,6 +2171,7 @@
     el: "Διάρκεια νοσηλείας στο νοσοκομείο."
     cs: "Délka hospitalizace."
   data_type: Numeric
+  statistics_enum: DOOR_TO_DISCHARGE
   Numeric:
     unit: days
     range_min: 0
@@ -2160,6 +2186,7 @@
     el: "Βαθμολογίες NIH Stroke Scale που λαμβάνονται κατά το εξιτήριο."
     cs: "Hodnoty NIH Stroke Scale zaznamenané při propuštění."
   data_type: Numeric
+  statistics_enum: DISCHARGE_NIHSS
   Numeric:
     unit: score
     range_min: 0
@@ -2174,6 +2201,7 @@
     el: "Χρόνος door-to-imaging σε λεπτά."
     cs: "Door-to-imaging čas v minutách."
   data_type: Numeric
+  statistics_enum: DOOR_TO_IMAGING
   Numeric:
     unit: minutes
     range_min: 0
@@ -2188,6 +2216,7 @@
     el: "Χρόνος από την έναρξη του εγκεφαλικού επεισοδίου έως την πρώτη πόρτα του θεράποντος νοσοκομείου."
     cs: "Čas od začátku iktu k prvnímu dveřnímu kontaktu v léčící nemocnici."
   data_type: Numeric
+  statistics_enum: ONSET_TO_DOOR
   Numeric:
     unit: minutes
     range_min: 0
