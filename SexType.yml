@@ -1,9 +1,9 @@
 - canonical: MALE
-  synonyms: [man, men, m]
+  synonyms: [man, men, m, male, males, gentleman, gentlemen, boy, boys]
   description: Description for MALE
-
+ 
 - canonical: FEMALE
-  synonyms: [woman, women, f]
+  synonyms: [woman, women, f, female, females, lady, ladies, girl, girls]
   description: Description for FEMALE
 
 - canonical: OTHER
