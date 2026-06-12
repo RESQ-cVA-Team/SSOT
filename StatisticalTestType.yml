@@ -1,30 +1,9 @@
 - canonical: MANN_WHITNEY_U_TEST
   synonyms:
-    en:
-      [
-        mann whitney u test,
-        mann whitney,
-        mann-whitney u test,
-        mann whitney u,
-        mann whitney u-test,
-      ]
-    el:
-      [
-        δοκιμασία mann whitney u,
-        mann whitney,
-        δοκιμασία mann-whitney u,
-        mann whitney u,
-        δοκιμασία mann whitney u,
-      ]
-    cs:
-      [
-        Mann-Whitneyův U test,
-        Mann-Whitney,
-        Mann-Whitneyův U test,
-        Mann-Whitney U,
-        Mann-Whitneyův U test,
-      ]
-  description:
-  en: A non-parametric test used to compare differences between two independent groups when the dependent variable is either ordinal or continuous, but not normally distributed.
-  el: Μια μη παραμετρική δοκιμασία που χρησιμοποιείται για να συγκρίνει τις διαφορές μεταξύ δύο ανεξάρτητων ομάδων όταν η εξαρτημένη μεταβλητή είναι είτε τακτική είτε συνεχής, αλλά δεν είναι κανονικά κατανεμημένη.
-  cs: Neparametrický test používaný k porovnání rozdílů mezi dvěma nezávislými skupinami, když závislá proměnná je buď ordinální nebo kontinuální, ale není normálně rozdělená.
+    en: [mann whitney u test, mann whitney, mann-whitney u test, mann whitney u, mann whitney u-test]
+    el: [mann whitney u test, mann whitney, mann-whitney u test, mann whitney u, mann whitney u-test]
+    cs: [mann whitney u test, mann whitney, mann-whitney u test, mann whitney u, mann whitney u-test]
+  description: 
+    en: A non-parametric test used to compare differences between two independent groups when the dependent variable is either ordinal or continuous, but not normally distributed.
+    el: Ένα μη παραμετρικό τεστ που χρησιμοποιείται για να συγκρίνει τις διαφορές μεταξύ δύο ανεξάρτητων ομάδων όταν η εξαρτημένη μεταβλητή είναι είτε τακτική είτε συνεχής, αλλά δεν είναι κανονικά κατανεμημένη.
+    cs: Neparametrický test používaný k porovnání rozdílů mezi dvěma nezávislými skupinami, když závislá proměnná je buď ordinální nebo kontinuální, ale není normálně rozdělená.

@@ -1,8 +1,8 @@
 - canonical: MALE
   synonyms:
-    en: [man, men, m]
-    el: [άνδρας, άνδρες, μ]
-    cs: [muž, muži, m]
+    en: [man, men, m, male, males, gentleman, gentlemen, boy, boys]
+    el: [άνδρας, άνδρες, μ, αρσενικό, αρσενικά, κύριος, κύριοι, αγόρι, αγόρια]
+    cs: [muž, muži, m, mužský, mužské, pán, pánové, chlapec, chlapci]
   description:
     en: Description for MALE
     el: Περιγραφή για ΑΡΡΑΣ
@@ -10,9 +10,9 @@
 
 - canonical: FEMALE
   synonyms:
-    en: [woman, women, f]
-    el: [γυναίκα, γυναῖκες, f]
-    cs: [žena, ženy, f]
+    en: [woman, women, f, female, females, lady, ladies, girl, girls]
+    el: [γυναίκα, γυναῖκες, f, γυναικείο, γυναικεία, κυρία, κυρίες, κορή, κορές]
+    cs: [žena, ženy, f, ženský, ženské, paní, paní, dívka, dívky]
   description:
     en: Description for FEMALE
     el: Περιγραφή για ΓΥΝΑΪΚΟ
