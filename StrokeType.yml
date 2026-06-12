@@ -1,27 +1,111 @@
 - canonical: ISCHEMIC
-  synonyms: [ischemic stroke, clot stroke, blockage stroke]
-  description: Description for ISCHEMIC
+  synonyms:
+    en: [ischemic stroke, clot stroke, blockage stroke]
+    el: [ισχαιμικό εγκεφαλικό, εγκεφαλικό από θρόμβο, εγκεφαλικό από απόφραξη]
+    cs: [ischemická mrtvice, mrtvice z krevní sraženiny, mrtvice z ucpání]
+  description:
+    en: Description for ISCHEMIC
+    el: Περιγραφή για ISCHEMIC
+    cs: Popis pro ISCHEMIC
 
 - canonical: INTRACEREBRAL_HEMORRHAGE
-  synonyms: [ich, brain bleed, intracerebral bleeding, intraparenchymal hemorrhage]
-  description: Description for INTRACEREBRAL_HEMORRHAGE
+  synonyms:
+    en: [ich, brain bleed, intracerebral bleeding, intraparenchymal hemorrhage]
+    el:
+      [
+        ich,
+        αιμορραγία εγκεφάλου,
+        ενδοεγκεφαλική αιμορραγία,
+        ενδοπαρεγχυματική αιμορραγία,
+      ]
+    cs:
+      [
+        ICH,
+        krvácení do mozku,
+        intrakraniální krvácení,
+        intraparenchymální krvácení,
+      ]
+  description:
+    en: Description for INTRACEREBRAL_HEMORRHAGE
+    el: Περιγραφή για INTRACEREBRAL_HEMORRHAGE
+    cs: Popis pro INTRACEREBRAL_HEMORRHAGE
 
 - canonical: TRANSIENT_ISCHEMIC
-  synonyms: [tia, mini stroke, transient ischemic attack]
-  description: Description for TRANSIENT_ISCHEMIC
+  synonyms:
+    en: [tia, mini stroke, transient ischemic attack]
+    el: [tia, μικρό εγκεφαλικό, παροδική ισχαιμική προσβολή]
+    cs: [TIA, mini mrtvice, přechodný ischemický záchvat]
+  description:
+    en: Description for TRANSIENT_ISCHEMIC
+    el: Περιγραφή για TRANSIENT_ISCHEMIC
+    cs: Popis pro TRANSIENT_ISCHEMIC
 
 - canonical: SUBARACHNOID_HEMORRHAGE
-  synonyms: [sah, aneurysm rupture, subarachnoid bleed]
-  description: Description for SUBARACHNOID_HEMORRHAGE
+  synonyms:
+    en: [sah, aneurysm rupture, subarachnoid bleed]
+    el: [sah, ρήξη ανευρύσματος, αιμορραγία υποαραχνοειδούς χώρου]
+    cs: [SAH, ruptura aneurysmatu, krvácení do subarachnoidálního prostoru]
+  description:
+    en: Description for SUBARACHNOID_HEMORRHAGE
+    el: Περιγραφή για SUBARACHNOID_HEMORRHAGE
+    cs: Popis pro SUBARACHNOID_HEMORRHAGE
 
 - canonical: CEREBRAL_VENOUS_THROMBOSIS
-  synonyms: [cvt, venous stroke, cerebral vein clot]
-  description: Description for CEREBRAL_VENOUS_THROMBOSIS
+  synonyms:
+    en: [cvt, venous stroke, cerebral vein clot]
+    el: [cvt, φλεβικό εγκεφαλικό, θρόμβος εγκεφαλικής φλέβας]
+    cs: [CVT, žilní mrtvice, krevní sraženina v mozkové žíle]
+  description:
+    en: Description for CEREBRAL_VENOUS_THROMBOSIS
+    el: Περιγραφή για CEREBRAL_VENOUS_THROMBOSIS
+    cs: Popis pro CEREBRAL_VENOUS_THROMBOSIS
 
 - canonical: STROKE_MIMICS
-  synonyms: [mimics, stroke-like symptoms, not a real stroke, conversion disorder]
-  description: Description for STROKE_MIMICS
+  synonyms:
+    en: [mimics, stroke-like symptoms, not a real stroke, conversion disorder]
+    el:
+      [
+        mimics,
+        συμπτώματα που μοιάζουν με εγκεφαλικό,
+        όχι πραγματικό εγκεφαλικό,
+        διαταραχή μετατροπής,
+      ]
+    cs:
+      [
+        mimics,
+        příznaky podobné mrtvici,
+        není skutečná mrtvice,
+        konverzní porucha,
+      ]
+  description:
+    en: Description for STROKE_MIMICS
+    el: Περιγραφή για STROKE_MIMICS
+    cs: Popis pro STROKE_MIMICS
 
 - canonical: UNDETERMINED
-  synonyms: [unknown stroke type, unspecified stroke, unclear diagnosis, undetermined stroke type]
-  description: Description for UNDETERMINED
+  synonyms:
+    en:
+      [
+        unknown stroke type,
+        unspecified stroke,
+        unclear diagnosis,
+        undetermined stroke type,
+      ]
+    el:
+      [
+        αγνωστο εγκεφαλικό τύπο,
+        ανένδεικτο εγκεφαλικό,
+        ασαφής διάγνωση,
+        απροσδιόριστο εγκεφαλικό τύπο,
+      ]
+    cs:
+      [
+        neurčený typ mrtvice,
+        neurčená mrtvice,
+        nejasná diagnóza,
+        neurčený typ mrtvice,
+      ]
+  description:
+    en: Description for UNDETERMINED
+    el: Περιγραφή για UNDETERMINED
+    cs: Popis pro UNDETERMINED

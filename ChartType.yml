@@ -1,35 +1,89 @@
 - canonical: LINE
-  synonyms: [line chart, line graph, time series]
-  description: Description for LINE
+  synonyms:
+    en: [line chart, line graph, time series]
+    el: [γραμμή, γραφική παράσταση γραμμής, χρονοσειρά]
+    cs: [čárový graf, čára, časová řada]
+  description:
+    en: Description for LINE
+    el: Περιγραφή για ΓΡΑΜΜΗ
+    cs: Popis pro ČÁROVÝ_GRAF
 
 - canonical: BAR
-  synonyms: [bar chart, bar graph, column chart]
-  description: Description for BAR
+  synonyms:
+    en: [bar chart, bar graph, column chart]
+    el: [στήλη, γραφική παράσταση στήλης, κολώνα]
+    cs: [sloupcový graf, sloupec, časová řada]
+  description:
+    en: Description for BAR
+    el: Περιγραφή για ΣΤΗΛΗ
+    cs: Popis pro SLLOPCOVÝ_GRAF
 
 - canonical: BOX
-  synonyms: [box plot, box-and-whisker plot, box-and-whisker chart]
-  description: Description for BOX
+  synonyms:
+    en: [box plot, box-and-whisker plot, box-and-whisker chart]
+    el: [κουτί, γραφική παράσταση κουτιού, κουτί με ράβδους]
+    cs: [box plot, box-and-whisker plot, box-and-whisker chart]
+  description:
+    en: Description for BOX
+    el: Περιγραφή για ΚΟΥΤΙ
+    cs: Popis pro BOX
 
 - canonical: HISTOGRAM
-  synonyms: [histogram, frequency distribution, data distribution]
-  description: Description for HISTOGRAM
+  synonyms:
+    en: [histogram, frequency distribution, data distribution]
+    el: [ιστόγραμμα, κατανομή συχνότητας, κατανομή δεδομένων]
+    cs: [histogram, frekvenční rozdělení, rozdělení dat]
+  description:
+    en: Description for HISTOGRAM
+    el: Περιγραφή για ΙΣΤΟΓΡΑΜΜΑ
+    cs: Popis pro HISTOGRAM
 
 - canonical: SCATTER
-  synonyms: [scatter plot, scatter chart, XY plot]
-  description: Description for SCATTER
+  synonyms:
+    en: [scatter plot, scatter chart, XY plot]
+    el: [διασπορά, γραφική παράσταση διασποράς, γραφική παράσταση XY]
+    cs: [scatter plot, scatter chart, XY plot]
+  description:
+    en: Description for SCATTER
+    el: Περιγραφή για ΔΙΑΣΠΟΡΑ
+    cs: Popis pro SCATTER
 
 - canonical: PIE
-  synonyms: [pie chart, pie graph, circular chart]
-  description: Description for PIE
+  synonyms:
+    en: [pie chart, pie graph, circular chart]
+    el: [πίτα, γραφική παράσταση πίτας, κυκλική γραφική παράσταση]
+    cs: [koláčový graf, koláč, kruhový graf]
+  description:
+    en: Description for PIE
+    el: Περιγραφή για ΠΊΤΑ
+    cs: Popis pro KOLÁČOVÝ_GRAF
 
 - canonical: RADAR
-  synonyms: [radar chart, spider chart, web chart]
-  description: Description for RADAR
+  synonyms:
+    en: [radar chart, spider chart, web chart]
+    el: [radar chart, spider chart, web chart]
+    cs: [radar chart, spider chart, web chart]
+  description:
+    en: Description for RADAR
+    el: Περιγραφή για RADAR
+    cs: Popis pro RADAR
 
 - canonical: WATERFALL
-  synonyms: [waterfall chart, bridge chart, cascade chart]
-  description: Description for WATERFALL
+  synonyms:
+    en: [waterfall chart, bridge chart, cascade chart]
+    el: [waterfall chart, bridge chart, cascade chart]
+    cs: [waterfall chart, bridge chart, cascade chart]
+  description:
+    en: Description for WATERFALL
+    el: Περιγραφή για WATERFALL
+    cs: Popis pro WATERFALL
 
 - canonical: AREA
-  synonyms: [area chart, area graph, stacked area chart]
-  description: Description for AREA
+  synonyms:
+    en: [area chart, area graph, stacked area chart]
+    el: [περιοχή, γραφική παράσταση περιοχής, στοίβα περιοχών]
+    cs: [area chart, area graph, stacked area chart]
+  description:
+    en: Description for AREA
+    el: Περιγραφή για ΠΕΡΙΟΧΗ
+    cs: Popis pro AREA

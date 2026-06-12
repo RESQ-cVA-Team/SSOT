@@ -1,15 +1,100 @@
 - canonical: EMS_PRENOTIFICATION
-  synonyms: [ems prenotification, ems notified, emergency pre-alert, ambulance notified]
-  description: Description for EMS_PRENOTIFICATION
+  synonyms:
+    en:
+      [
+        ems prenotification,
+        ems notified,
+        emergency pre-alert,
+        ambulance notified,
+      ]
+    el:
+      [
+        προειδοποίηση ΕΚΑΒ,
+        ΕΚΑΒ ενημερώθηκε,
+        προειδοποίηση έκτακτης ανάγκης,
+        ασθενοφόρο ενημερώθηκε,
+      ]
+    cs:
+      [
+        předběžné oznámení záchranné služby,
+        záchranná služba informována,
+        nouzové předběžné upozornění,
+        záchranná služba upozorněna,
+      ]
+  description:
+    en: Description for EMS_PRENOTIFICATION
+    el: Περιγραφή για EMS_PRENOTIFICATION
+    cs: Popis pro EMS_PRENOTIFICATION
 
 - canonical: FIRST_CONTACT_PLACE
-  synonyms: [first contact place, place of first contact, initial point of contact, first seen]
-  description: Description for FIRST_CONTACT_PLACE
+  synonyms:
+    en:
+      [
+        first contact place,
+        place of first contact,
+        initial point of contact,
+        first seen,
+      ]
+    el:
+      [
+        τόπος πρώτης επικοινωνίας,
+        τόπος πρώτης επικοινωνίας,
+        αρχικό σημείο επικοινωνίας,
+        πρώτη φορά που εμφανίστηκε,
+      ]
+    cs:
+      [
+        místo prvního kontaktu,
+        místo prvního kontaktu,
+        počáteční bod kontaktu,
+        první spatření,
+      ]
+  description:
+    en: Description for FIRST_CONTACT_PLACE
+    el: Περιγραφή για FIRST_CONTACT_PLACE
+    cs: Popis pro FIRST_CONTACT_PLACE
 
 - canonical: IVT_APPLICATION_DEPARTMENT
-  synonyms: [ivt department, thrombolysis department, tpa department, treatment department]
-  description: Description for IVT_APPLICATION_DEPARTMENT
+  synonyms:
+    en:
+      [
+        ivt department,
+        thrombolysis department,
+        tpa department,
+        treatment department,
+      ]
+    el: [τμήμα ivt, τμήμα θρομβολύσεων, τμήμα tpa, τμήμα θεραπείας]
+    cs:
+      [
+        oddělení ivt,
+        oddělení trombolytické terapie,
+        oddělení tpa,
+        oddělení léčby,
+      ]
+  description:
+    en: Description for IVT_APPLICATION_DEPARTMENT
+    el: Περιγραφή για IVT_APPLICATION_DEPARTMENT
+    cs: Popis pro IVT_APPLICATION_DEPARTMENT
 
 - canonical: INR_MODE
-  synonyms: [inr measurement method, coagulation mode, how inr was measured, inr method]
-  description: Description for INR_MODE
+  synonyms:
+    en:
+      [
+        inr measurement method,
+        coagulation mode,
+        how inr was measured,
+        inr method,
+      ]
+    el:
+      [
+        μέθοδος μέτρησης inr,
+        λειτουργία συνάρτησης αιμοπετρών,
+        πώς μετρήθηκε το inr,
+        μέθοδος inr,
+      ]
+    cs: [metoda měření INR, režim koagulace, jak bylo měřeno INR, metoda INR]
+  description:
+    en: Description for INR_MODE
+    el: Περιγραφή για INR_MODE
+    cs: Popis pro INR_MODE
+

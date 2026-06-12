@@ -1,15 +1,39 @@
 - canonical: MALE
-  synonyms: [man, men, m]
-  description: Description for MALE
+  synonyms:
+    en: [man, men, m]
+    el: [άνδρας, άνδρες, μ]
+    cs: [muž, muži, m]
+  description:
+    en: Description for MALE
+    el: Περιγραφή για ΑΡΡΑΣ
+    cs: Popis pro MUŽ
 
 - canonical: FEMALE
-  synonyms: [woman, women, f]
-  description: Description for FEMALE
+  synonyms:
+    en: [woman, women, f]
+    el: [γυναίκα, γυναῖκες, f]
+    cs: [žena, ženy, f]
+  description:
+    en: Description for FEMALE
+    el: Περιγραφή για ΓΥΝΑΪΚΟ
+    cs: Popis pro ŽENU
 
 - canonical: OTHER
-  synonyms: [non-binary]
-  description: Description for OTHER
+  synonyms:
+    en: [non-binary]
+    el: [μη δυοφυλο]
+    cs: [jiný]
+  description:
+    en: Description for OTHER
+    el: Περιγραφή για ΑΛΛΟ
+    cs: Popis pro JINÝ
 
 - canonical: UNKNOWN
-  synonyms: [not provided, n/a, na, sex unknown, gender unknown]
-  description: Description for UNKNOWN
+  synonyms:
+    en: [not provided, n/a, na, sex unknown, gender unknown]
+    el: [δεν παρέχεται, α/α, άγνωστο φύλο]
+    cs: [neposkytnuto, n/a, na, pohlaví neznámé]
+  description:
+    en: Description for UNKNOWN
+    el: Περιγραφή για ΑΓΝΩΣΤΟ
+    cs: Popis pro NEZNÁMÝ

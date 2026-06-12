@@ -1,79 +1,199 @@
 - canonical: THROMBECTOMY
-  synonyms: [clot removal, mechanical thrombectomy, embolectomy]
-  description: Description for THROMBECTOMY
+  synonyms:
+    en: [clot removal, mechanical thrombectomy, embolectomy]
+    el: [αφαίρεση θρόμβου, μηχανική θρομβεκτομή, εμβολεκτομή]
+    cs: [odstranění sraženiny, mechanická trombektomie]
+  description:
+    en: Description for THROMBECTOMY
+    el: Περιγραφή για ΘΡΟΜΒΕΚΤΟΜΙΑ
+    cs: Popis pro TROMBECTOMII
 
 - canonical: THROMBOLYSIS
-  synonyms: [tpa, alteplase, clot-busting drug, lysis treatment]
-  description: Description for THROMBOLYSIS
+  synonyms:
+    en: [tpa, alteplase, clot-busting drug, lysis treatment]
+    el: [tpa, alteplase, φάρμακο απόκλωσης θρόμβου, θεραπεία λύσης]
+    cs: [tpa, alteplase, léčba rozkladu sraženiny, lysis treatment]
+  description:
+    en: Description for THROMBOLYSIS
+    el: Περιγραφή για ΘΡΟΜΒΟΛΥΣΗ
+    cs: Popis pro TROMBOLÝZU
 
 - canonical: BEFORE_ONSET_CILOSTAZOL
-  synonyms: [cilostazol before onset]
-  description: Description for BEFORE_ONSET_CILOSTAZOL
+  synonyms:
+    en: [cilostazol before onset]
+    el: [cilostazol πριν την έναρξη]
+    cs: [cilostazol před nástupem]
+  description:
+    en: Description for BEFORE_ONSET_CILOSTAZOL
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_CILOSTAZOL
+    cs: Popis pro PŘED_NÁSTUPEM_CILOSTAZOL
 
 - canonical: BEFORE_ONSET_CLOPIDOGREL
-  synonyms: [plavix, clopidogrel before stroke]
-  description: Description for BEFORE_ONSET_CLOPIDOGREL
+  synonyms:
+    en: [plavix, clopidogrel before stroke]
+    el: [plavix, clopidogrel πριν το εγκεφαλικό]
+    cs: [plavix, clopidogrel před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_CLOPIDOGREL
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_CLOPIDOGREL
+    cs: Popis pro PŘED_NÁSTUPEM_CLOPIDOGREL
 
 - canonical: BEFORE_ONSET_TICAGRELOR
-  synonyms: [brilinta, ticagrelor pre-stroke]
-  description: Description for BEFORE_ONSET_TICAGRELOR
+  synonyms:
+    en: [brilinta, ticagrelor pre-stroke]
+    el: [brilinta, ticagrelor πριν το εγκεφαλικό]
+    cs: [brilinta, ticagrelor před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_TICAGRELOR
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_TICAGRELOR
+    cs: Popis pro PŘED_NÁSTUPEM_TICAGRELOR
 
 - canonical: BEFORE_ONSET_TICLOPIDINE
-  synonyms: [ticlopidine before stroke]
-  description: Description for BEFORE_ONSET_TICLOPIDINE
+  synonyms:
+    en: [ticlopidine before stroke]
+    el: [ticlopidine πριν το εγκεφαλικό]
+    cs: [ticlopidine před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_TICLOPIDINE
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_TICLOPIDINE
+    cs: Popis pro PŘED_NÁSTUPEM_TICLOPIDINE
 
 - canonical: BEFORE_ONSET_PRASUGREL
-  synonyms: [prasugrel before stroke]
-  description: Description for BEFORE_ONSET_PRASUGREL
+  synonyms:
+    en: [prasugrel before stroke]
+    el: [prasugrel πριν το εγκεφαλικό]
+    cs: [prasugrel před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_PRASUGREL
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_PRASUGREL
+    cs: Popis pro PŘED_NÁSTUPEM_PRASUGREL
 
 - canonical: BEFORE_ONSET_DIPYRIDAMOLE
-  synonyms: [dipyridamole pre-stroke]
-  description: Description for BEFORE_ONSET_DIPYRIDAMOLE
+  synonyms:
+    en: [dipyridamole pre-stroke]
+    el: [dipyridamole πριν το εγκεφαλικό]
+    cs: [dipyridamole před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_DIPYRIDAMOLE
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_DIPYRIDAMOLE
+    cs: Popis pro PŘED_NÁSTUPEM_DIPYRIDAMOLE
 
 - canonical: BEFORE_ONSET_OTHER_ANTIPLATELET
-  synonyms: [other antiplatelet used, unknown antiplatelet]
-  description: Description for BEFORE_ONSET_OTHER_ANTIPLATELET
+  synonyms:
+    en: [other antiplatelet used, unknown antiplatelet]
+    el: [άλλο αντιαιμοπεταλιακό, άγνωστο αντιαιμοπεταλιακό]
+    cs: [jiný použitý antiplatelet, neznámý antiplatelet]
+  description:
+    en: Description for BEFORE_ONSET_OTHER_ANTIPLATELET
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_OTHER_ANTIPLATELET
+    cs: Popis pro PŘED_NÁSTUPEM_OTHER_ANTIPLATELET
 
 - canonical: BEFORE_ONSET_ANY_ANTIPLATELET
-  synonyms: [on any antiplatelet, antiplatelet therapy]
-  description: Description for BEFORE_ONSET_ANY_ANTIPLATELET
+  synonyms:
+    en: [on any antiplatelet, antiplatelet therapy]
+    el: [σε οποιοδήποτε αντιαιμοπεταλιακό, θεραπεία αντιαιμοπεταλιακή]
+    cs: [na jakémkoli antiplateletu, antiplateletová terapie]
+  description:
+    en: Description for BEFORE_ONSET_ANY_ANTIPLATELET
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_ANY_ANTIPLATELET
+    cs: Popis pro PŘED_NÁSTUPEM_ANY_ANTIPLATELET
 
 - canonical: BEFORE_ONSET_WARFARINS
-  synonyms: [warfarin, coumadin]
-  description: Description for BEFORE_ONSET_WARFARINS
+  synonyms:
+    en: [warfarin, coumadin]
+    el: [warfarin, coumadin]
+    cs: [warfarin, coumadin]
+  description:
+    en: Description for BEFORE_ONSET_WARFARINS
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_WARFARINS
+    cs: Popis pro PŘED_NÁSTUPEM_WARFARINS
 
 - canonical: BEFORE_ONSET_DABIGATRAN
-  synonyms: [pradaxa, dabigatran before stroke]
-  description: Description for BEFORE_ONSET_DABIGATRAN
+  synonyms:
+    en: [pradaxa, dabigatran before stroke]
+    el: [pradaxa, dabigatran πριν το εγκεφαλικό]
+    cs: [pradaxa, dabigatran před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_DABIGATRAN
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_DABIGATRAN
+    cs: Popis pro PŘED_NÁSTUPEM_DABIGATRAN
 
 - canonical: BEFORE_ONSET_RIVAROXABAN
-  synonyms: [xarelto, rivaroxaban pre-stroke]
-  description: Description for BEFORE_ONSET_RIVAROXABAN
+  synonyms:
+    en: [xarelto, rivaroxaban pre-stroke]
+    el: [xarelto, rivaroxaban πριν το εγκεφαλικό]
+    cs: [xarelto, rivaroxaban před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_RIVAROXABAN
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_RIVAROXABAN
+    cs: Popis pro PŘED_NÁSTUPEM_RIVAROXABAN
 
 - canonical: BEFORE_ONSET_APIXABAN
-  synonyms: [eliquis, apixaban before stroke]
-  description: Description for BEFORE_ONSET_APIXABAN
+  synonyms:
+    en: [eliquis, apixaban before stroke]
+    el: [eliquis, apixaban πριν το εγκεφαλικό]
+    cs: [eliquis, apixaban před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_APIXABAN
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_APIXABAN
+    cs: Popis pro PŘED_NÁSTUPEM_APIXABAN
 
 - canonical: BEFORE_ONSET_EDOXABAN
-  synonyms: [lixiana, edoxaban pre-stroke]
-  description: Description for BEFORE_ONSET_EDOXABAN
+  synonyms:
+    en: [lixiana, edoxaban pre-stroke]
+    el: [lixiana, edoxaban πριν το εγκεφαλικό]
+    cs: [lixiana, edoxaban před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_EDOXABAN
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_EDOXABAN
+    cs: Popis pro PŘED_NÁSTUPEM_EDOXABAN
 
 - canonical: BEFORE_ONSET_OTHER_ANTICOAGULANT
-  synonyms: [other anticoagulant used, unknown blood thinner]
-  description: Description for BEFORE_ONSET_OTHER_ANTICOAGULANT
+  synonyms:
+    en: [other anticoagulant used, unknown blood thinner]
+    el: [άλλο αντιαιμοπεταλιακό, άγνωστο αντιαιμοπεταλιακό]
+    cs: [jiný použitý anticoagulant, neznámý krevní zředění]
+  description:
+    en: Description for BEFORE_ONSET_OTHER_ANTICOAGULANT
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_OTHER_ANTICOAGULANT
+    cs: Popis pro PŘED_NÁSTUPEM_OTHER_ANTICOAGULANT
 
 - canonical: BEFORE_ONSET_ANY_ANTICOAGULANT
-  synonyms: [on any anticoagulant, any blood thinner]
-  description: Description for BEFORE_ONSET_ANY_ANTICOAGULANT
+  synonyms:
+    en: [on any anticoagulant, any blood thinner]
+    el: [σε οποιοδήποτε αντιαιμοπεταλιακό, οποιοδήποτε αντιαιμοπεταλιακό]
+    cs: [na jakémkoli anticoagulanci, jakémkoli krevním zředění]
+  description:
+    en: Description for BEFORE_ONSET_ANY_ANTICOAGULANT
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_ANY_ANTICOAGULANT
+    cs: Popis pro PŘED_NÁSTUPEM_ANY_ANTICOAGULANT
 
 - canonical: BEFORE_ONSET_STATIN
-  synonyms: [on statin, statin before stroke, lipid lowering]
-  description: Description for BEFORE_ONSET_STATIN
+  synonyms:
+    en: [on statin, statin before stroke, lipid lowering]
+    el: [σε statin, statin πριν το εγκεφαλικό, μείωση λιπιδίων]
+    cs: [na statinu, statin před mrtvicí, snížení lipidů]
+  description:
+    en: Description for BEFORE_ONSET_STATIN
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_STATIN
+    cs: Popis pro PŘED_NÁSTUPEM_STATIN
 
 - canonical: BEFORE_ONSET_HEPARIN
-  synonyms: [on heparin, heparin before stroke]
-  description: Description for BEFORE_ONSET_HEPARIN
+  synonyms:
+    en: [on heparin, heparin before stroke]
+    el: [σε heparin, heparin πριν το εγκεφαλικό]
+    cs: [na heparinu, heparin před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_HEPARIN
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_HEPARIN
+    cs: Popis pro PŘED_NÁSTUPEM_HEPARIN
 
 - canonical: BEFORE_ONSET_CONTRACEPTION
-  synonyms: [on birth control, hormonal contraception, contraceptives before stroke]
-  description: Description for BEFORE_ONSET_CONTRACEPTION
+  synonyms:
+    en: [on birth control, hormonal contraception, contraceptives before stroke]
+    el: [σε μεθόδους αναπαραγωγής, ορμονική πρόληψη, αντικοιλιακά πριν το εγκεφαλικό]
+    cs: [na náhradních prostředcích, hormonální antikoncepce, antikoncepce před mrtvicí]
+  description:
+    en: Description for BEFORE_ONSET_CONTRACEPTION
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_CONTRACEPTION
+    cs: Popis pro PŘED_NÁSTUPEM_CONTRACEPTION

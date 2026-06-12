@@ -1,67 +1,30 @@
-- canonical: T_TEST
-  synonyms: [t test, student t test, t-test, ttest]
-  description: A statistical test used to compare the means of two groups.
-
-- canonical: CHI_SQUARED_TEST
-  synonyms: [chi squared test, chi2 test, chi-square test, chi2, chi square]
-  description: A statistical test used to determine if there is a significant association between two categorical variables.
-
-- canonical: FISHERS_EXACT_TEST
-  synonyms: [fisher's exact test, fisher exact, fisher test]
-  description: A statistical test used to determine if there are nonrandom associations between two categorical variables, especially useful for small sample sizes.
-
-- canonical: ANOVA
-  synonyms: [anova, analysis of variance, f test, f-test]
-  description: A statistical test used to compare the means of three or more groups.
-
 - canonical: MANN_WHITNEY_U_TEST
-  synonyms: [mann whitney u test, mann whitney, mann-whitney u test, mann whitney u, mann whitney u-test]
-  description: A non-parametric test used to compare differences between two independent groups when the dependent variable is either ordinal or continuous, but not normally distributed.
-
-- canonical: WILCOXON_SIGNED_RANK_TEST
-  synonyms: [wilcoxon signed rank test, wilcoxon test, wilcoxon signed-rank test, wilcoxon signed rank, wilcoxon signed-rank]
-  description: A non-parametric test used to compare two related samples, matched samples, or repeated measurements on a single sample to assess whether their population mean ranks differ.
-
-- canonical: KRUSKAL_WALLIS_H_TEST
-  synonyms: [kruskal wallis h test, kruskal wallis test, kruskal-wallis h test, kruskal wallis, kruskal-wallis]
-  description: A non-parametric method for testing whether samples originate from the same distribution. It is used for comparing two or more independent samples of equal or different sample sizes. It extends the Mann-Whitney U test when there are more than two groups.
-
-- canonical: FRIEDMAN_TEST
-  synonyms: [friedman test, friedman, friedman two-way anova, friedman two-way anova test]
-  description: A non-parametric test used to detect differences in treatments across multiple test attempts. It is the non-parametric equivalent of the two-way ANOVA.
-
-- canonical: PEARSON_CORRELATION
-  synonyms: [pearson correlation, pearson's r, pearson's correlation, pearson correlation coefficient]
-  description: A measure of the linear correlation between two variables, giving a value between +1 and -1 inclusive.
-
-- canonical: SPEARMAN_RANK_CORRELATION
-  synonyms: [spearman rank correlation, spearman's rho, spearman correlation, spearman's rank]
-  description: A non-parametric measure of rank correlation (statistical dependence between the rankings of two variables). It assesses how well the relationship between two variables can be described using a monotonic function.
-
-- canonical: KENDALL_TAU
-  synonyms: [kendall tau, kendall's tau, kendall rank correlation, kendall's tau coefficient]
-  description: A measure of ordinal association between two measured quantities. It assesses the strength and direction of association that exists between two variables measured on at least an ordinal scale.
-
-- canonical: LOGISTIC_REGRESSION
-  synonyms: [logistic regression, logit model, logit regression, logistic model]
-  description: A statistical model that in its basic form uses a logistic function to model a binary dependent variable.
-
-- canonical: LINEAR_REGRESSION
-  synonyms: [linear regression, ordinary least squares, ols regression, linear model]
-  description: A linear approach to modeling the relationship between a dependent variable and one or more independent variables.
-
-- canonical: COX_PROPORTIONAL_HAZARDS_REGRESSION
-  synonyms: [cox regression, cox proportional hazards, cox model, proportional hazards model]
-  description: A regression model commonly used for investigating the association between the survival time of patients and one or more predictor variables.
-
-- canonical: SHAPIRO_WILK_TEST
-  synonyms: [shapiro wilk test, shapiro-wilk, shapiro wilk, normality test]
-  description: A test for normality in a distribution.
-
-- canonical: LEVENE_TEST
-  synonyms: [levene's test, levene test, test for homogeneity of variance, homogeneity of variance test]
-  description: A test used to assess the equality of variances for a variable calculated for two or more groups.
-
-- canonical: MCNEMAR_TEST
-  synonyms: [mcnemar's test, mcnemar test, paired nominal test]
-  description: A test used on paired nominal data to determine whether the row and column marginal frequencies are equal.
+  synonyms:
+    en:
+      [
+        mann whitney u test,
+        mann whitney,
+        mann-whitney u test,
+        mann whitney u,
+        mann whitney u-test,
+      ]
+    el:
+      [
+        δοκιμασία mann whitney u,
+        mann whitney,
+        δοκιμασία mann-whitney u,
+        mann whitney u,
+        δοκιμασία mann whitney u,
+      ]
+    cs:
+      [
+        Mann-Whitneyův U test,
+        Mann-Whitney,
+        Mann-Whitneyův U test,
+        Mann-Whitney U,
+        Mann-Whitneyův U test,
+      ]
+  description:
+  en: A non-parametric test used to compare differences between two independent groups when the dependent variable is either ordinal or continuous, but not normally distributed.
+  el: Μια μη παραμετρική δοκιμασία που χρησιμοποιείται για να συγκρίνει τις διαφορές μεταξύ δύο ανεξάρτητων ομάδων όταν η εξαρτημένη μεταβλητή είναι είτε τακτική είτε συνεχής, αλλά δεν είναι κανονικά κατανεμημένη.
+  cs: Neparametrický test používaný k porovnání rozdílů mezi dvěma nezávislými skupinami, když závislá proměnná je buď ordinální nebo kontinuální, ale není normálně rozdělená.

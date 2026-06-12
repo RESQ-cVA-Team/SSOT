@@ -1,23 +1,87 @@
 - canonical: GE
-  synonyms: ["GTE", "≥", "=>", ">=", "greater than or equal", "at least", "no less than"]
-  description: Description for GE
+  synonyms:
+    en:
+      [
+        "GTE",
+        "≥",
+        "=>",
+        ">=",
+        "greater than or equal",
+        "at least",
+        "no less than",
+      ]
+    el:
+      [
+        "GTE",
+        "≥",
+        "=>",
+        ">=",
+        "μεγαλύτερο ή ίσο",
+        "τουλάχιστον",
+        "όχι λιγότερο από",
+      ]
+    cs: ["GTE", "≥", "=>", ">=", "větší nebo rovno", "alespoň", "ne méně než"]
+  description:
+    en: Description for GE
+    el: Description for GE in Greek
+    cs: Description for GE in Czech
 
 - canonical: LE
-  synonyms: ["LTE", "≤", "<=", "=<", "less than or equal", "at most", "no more than"]
-  description: Description for LE
+  synonyms:
+    en:
+      ["LTE", "≤", "<=", "=<", "less than or equal", "at most", "no more than"]
+    el:
+      [
+        "LTE",
+        "≤",
+        "<=",
+        "=<",
+        "μικρότερο ή ίσο",
+        "τουλάχιστον",
+        "όχι περισσότερο από",
+      ]
+    cs: ["LTE", "≤", "<=", "=<", "menší nebo rovno", "alespoň", "ne více než"]
+  description:
+    en: Description for LE
+    el: Description for LE in Greek
+    cs: Description for LE in Czech
 
 - canonical: LT
-  synonyms: ["<", "less than", "fewer than", "below"]
-  description: Description for LT
+  synonyms:
+    en: ["<", "less than", "fewer than", "below"]
+    el: ["<", "μικρότερο από", "λιγότερο από", "κάτω από"]
+    cs: ["<", "menší než", "méně než", "pod"]
+  description:
+    en: Description for LT
+    el: Description for LT in Greek
+    cs: Description for LT in Czech
 
 - canonical: GT
-  synonyms: [">", "greater than", "more than", "above"]
-  description: Description for GT
+  synonyms:
+    en: [">", "greater than", "more than", "above"]
+    el: [">", "μεγαλύτερο από", "περισσότερο από", "πάνω από"]
+    cs: [">", "větší než", "více než", "nad"]
+  description:
+    en: Description for GT
+    el: Description for GT in Greek
+    cs: Description for GT in Czech
 
 - canonical: EQ
-  synonyms: ["==", "=", "equal to", "equals", "is"]
-  description: Description for EQ
+  synonyms:
+    en: ["==", "=", "equal to", "equals", "is"]
+    el: ["==", "=", "ίσο με", "ισούται", "είναι"]
+    cs: ["==", "=", "rovno", "rovné", "je"]
+  description:
+    en: Description for EQ
+    el: Description for EQ in Greek
+    cs: Description for EQ in Czech
 
 - canonical: NE
-  synonyms: ["!=", "=!", "!!", "not equal to", "not equals", "is not"]
-  description: Description for NE
+  synonyms:
+    en: ["!=", "=!", "!!", "not equal to", "not equals", "is not"]
+    el: ["!=", "=!", "!!", "όχι ίσο με", "όχι ισούται", "δεν είναι"]
+    cs: ["!=", "=!", "!!", "nerovno", "nerovné", "není"]
+  description:
+    en: Description for NE
+    el: Description for NE in Greek
+    cs: Description for NE in Czech
