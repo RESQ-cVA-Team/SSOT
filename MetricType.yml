@@ -1,4 +1,5 @@
 - canonical: AA_DTN_LE60
+  index: 66
   synonyms:
     en: [thrombolysis ≤60 minutes, door-to-needle ≤60 minutes]
     el: [θρομβόλυση ≤60 λεπτά, door-to-needle ≤60 λεπτά]
@@ -21,6 +22,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_DTN_LE45
+  index: 67
   synonyms:
     en: [thrombolysis ≤45 minutes, door-to-needle ≤45 minutes]
     el: [θρομβόλυση ≤45 λεπτά, door-to-needle ≤45 λεπτά]
@@ -43,6 +45,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_DTG_LE120
+  index: 68
   synonyms:
     en: [thrombectomy ≤120 minutes, door-to-groin ≤120 minutes]
     el: [θρομβεκτομή ≤120 λεπτά, door-to-groin ≤120 λεπτά]
@@ -65,6 +68,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_DTG_LE90
+  index: 69
   synonyms:
     en: [thrombectomy ≤90 minutes, door-to-groin ≤90 minutes]
     el: [θρομβεκτομή ≤90 λεπτά, door-to-groin ≤90 λεπτά]
@@ -87,6 +91,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_RECANALIZATION
+  index: 70
   synonyms:
     en: [recanalization (awards metric)]
     el: [επανακαναλοποίηση (awards metric)]
@@ -109,6 +114,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_IMAGING
+  index: 0
   synonyms:
     en: [imaging at first hospital (awards metric)]
     el: [απεικόνιση at first hospital (awards metric)]
@@ -131,6 +137,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_SWALLOWING_SCREENING
+  index: 72
   synonyms:
     en: [swallowing screening (awards metric)]
     el: [έλεγχος κατάποσης (awards metric)]
@@ -153,6 +160,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_ANTICOAGULANTS
+  index: 0
   synonyms:
     en: [anticoagulants at discharge (awards metric)]
     el: [αντιπηκτικά κατά το εξιτήριο (awards metric)]
@@ -175,6 +183,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_ANTITHROMBOTICS
+  index: 0
   synonyms:
     en: [antithrombotics at discharge (awards metric)]
     el: [αντιθρομβωτικά κατά το εξιτήριο (awards metric)]
@@ -197,6 +206,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AA_STROKE_UNIT
+  index: 75
   synonyms:
     en: [stroke unit or intensive care (awards metric)]
     el: [μονάδα εγκεφαλικών or εντατική θεραπεία (awards metric)]
@@ -219,6 +229,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: AGE
+  index: 1
   synonyms:
     en: [age at stroke onset, age]
     el: [age at stroke onset, age]
@@ -236,6 +247,7 @@
     range_max: 120
     default_buckets: 12
 - canonical: WAKEUP_STROKE
+  index: 0
   synonyms:
     en: [wakeup stroke, stroke during sleep]
     el:
@@ -262,6 +274,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: INHOSPITAL_STROKE
+  index: 9
   synonyms:
     en: [in-hospital stroke, stroke during hospitalization]
     el: [in-hospital stroke, εγκεφαλικό επεισόδιο κατά τη νοσηλεία]
@@ -284,6 +297,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: ARRIVAL_MODE
+  index: 13
   synonyms:
     en: [arrival mode, arrival pathway]
     el: [τρόπος άφιξης, οδός άφιξης]
@@ -326,6 +340,7 @@
         el: [ιδιωτική μεταφορά from γενικός ιατρός]
         cs: [soukromá doprava from praktický lékař]
 - canonical: EMS_PRENOTIFICATION
+  index: 10
   synonyms:
     en: [ems prenotification, ems pre-alert]
     el: [ems prenotification, ems pre-alert]
@@ -348,6 +363,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: ADMISSION_DEPARTMENT
+  index: 15
   synonyms:
     en: [admission department]
     el: [τμήμα εισαγωγής]
@@ -385,6 +401,7 @@
         el: [άλλο]
         cs: [jiné]
 - canonical: FIRST_CONTACT_PLACE
+  index: 14
   synonyms:
     en: [first contact place]
     el: [τόπος πρώτης επαφής]
@@ -417,6 +434,7 @@
         el: [άλλο]
         cs: [jiné]
 - canonical: HOSPITALIZED_IN
+  index: 0
   synonyms:
     en: [monitoring intensity first day, first-day bed type]
     el: [ένταση παρακολούθησης first day, τύπος κλίνης της πρώτης ημέρας]
@@ -444,6 +462,7 @@
         el: [standard bed]
         cs: [standard bed]
 - canonical: SEX
+  index: 2
   synonyms:
     en: [biological sex, sex]
     el: [βιολογικό φύλο, sex]
@@ -471,6 +490,7 @@
         el: [unknown or other]
         cs: [unknown or other]
 - canonical: RISK_FACTORS_TYPE
+  index: 11
   synonyms:
     en: [risk factors type, previous medical risk factors]
     el: [τύπος παραγόντων κινδύνου, προηγούμενοι ιατρικοί παράγοντες κινδύνου]
@@ -543,6 +563,7 @@
         el: [risk covid, history of covid-19]
         cs: [risk covid, history of covid-19]
 - canonical: BEFORE_ONSET_MEDICATION
+  index: 16
   synonyms:
     en: [medication before onset]
     el: [φαρμακευτική αγωγή πριν από την έναρξη]
@@ -585,6 +606,7 @@
         el: [άλλη φαρμακευτική αγωγή πριν από την έναρξη]
         cs: [jiná medikace před vznikem]
 - canonical: BEFORE_ONSET_MEDICATION_AIS_TIA
+  index: 0
   synonyms:
     en: [medication before onset in ais or tia]
     el: [φαρμακευτική αγωγή πριν από την έναρξη in ais or tia]
@@ -627,6 +649,7 @@
         el: [άλλη φαρμακευτική αγωγή πριν από την έναρξη]
         cs: [jiná medikace před vznikem]
 - canonical: BEFORE_ONSET_MEDICATION_ICH
+  index: 0
   synonyms:
     en: [medication before onset in ich]
     el: [φαρμακευτική αγωγή πριν από την έναρξη in ich]
@@ -669,6 +692,7 @@
         el: [άλλη φαρμακευτική αγωγή πριν από την έναρξη]
         cs: [jiná medikace před vznikem]
 - canonical: BEFORE_ONSET_ANTIPLATELET_TYPE
+  index: 17
   synonyms:
     en: [antiplatelet type before onset]
     el: [αντιαιμοπεταλιακό type πριν από την έναρξη]
@@ -721,6 +745,7 @@
         el: [άλλο αντιαιμοπεταλιακό πριν από την έναρξη]
         cs: [jiné antiagregans před vznikem]
 - canonical: BEFORE_ONSET_ANTICOAGULANT_TYPE
+  index: 18
   synonyms:
     en: [anticoagulant type before onset]
     el: [αντιπηκτικό type πριν από την έναρξη]
@@ -768,6 +793,7 @@
         el: [άλλο αντιπηκτικό πριν από την έναρξη]
         cs: [jiné antikoagulans před vznikem]
 - canonical: ADMISSION_NIHSS
+  index: 3
   synonyms:
     en: [admission nihss, nihss at admission]
     el: [admission nihss, nihss at admission]
@@ -785,6 +811,7 @@
     range_max: 42
     default_buckets: 14
 - canonical: PRESTROKE_MRS
+  index: 8
   synonyms:
     en: [pre-stroke mrs, mrs before stroke]
     el: [pre-stroke mrs, mrs before stroke]
@@ -802,6 +829,7 @@
     range_max: 6
     default_buckets: 6
 - canonical: GLUCOSE
+  index: 6
   synonyms:
     en: [initial blood glucose, initial glucose]
     el: [initial blood glucose, initial glucose]
@@ -819,6 +847,7 @@
     range_max: 500
     default_buckets: 25
 - canonical: CHOLESTEROL
+  index: 7
   synonyms:
     en: [initial ldl cholesterol, initial cholesterol]
     el: [initial ldl cholesterol, initial cholesterol]
@@ -836,6 +865,7 @@
     range_max: 500
     default_buckets: 25
 - canonical: SYSTOLIC_PRESSURE
+  index: 4
   synonyms:
     en: [initial systolic blood pressure, systolic pressure]
     el: [initial systolic blood pressure, systolic pressure]
@@ -853,6 +883,7 @@
     range_max: 300
     default_buckets: 10
 - canonical: DIASTOLIC_PRESSURE
+  index: 5
   synonyms:
     en: [initial diastolic blood pressure, diastolic pressure]
     el: [initial diastolic blood pressure, diastolic pressure]
@@ -870,6 +901,7 @@
     range_max: 300
     default_buckets: 10
 - canonical: INR_MODE
+  index: 0
   synonyms:
     en: [inr measurement mode, inr device type]
     el: [inr measurement mode, inr device type]
@@ -897,6 +929,7 @@
         el: [δεν έγινε]
         cs: [neprovedeno]
 - canonical: IMAGING_DONE
+  index: 33
   synonyms:
     en: [brain imaging done, ct or mr imaging]
     el: [απεικόνιση εγκεφάλου done, απεικόνιση ct ή mr]
@@ -924,6 +957,7 @@
         el: [πραγματοποιήθηκε αλλού]
         cs: [provedeno jinde]
 - canonical: IMAGING_TYPE
+  index: 31
   synonyms:
     en: [brain imaging type]
     el: [απεικόνιση εγκεφάλου type]
@@ -966,6 +1000,7 @@
         el: [mr dwi or flair with mra and perfusion]
         cs: [mr dwi or flair with mra and perfusion]
 - canonical: OCCLUSION_FOUND
+  index: 0
   synonyms:
     en: [occlusion found on cta or mra]
     el: [occlusion found on cta or mra]
@@ -988,6 +1023,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: OCCLUSION_SITE
+  index: 32
   synonyms:
     en: [occlusion site]
     el: [occlusion site]
@@ -1040,6 +1076,7 @@
         el: [carotid internal occlusion]
         cs: [carotid internal occlusion]
 - canonical: OLD_INFARCTS_SEEN
+  index: 0
   synonyms:
     en: [old infarcts seen]
     el: [old infarcts seen]
@@ -1062,6 +1099,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: OLD_INFARCTS_TYPE
+  index: 0
   synonyms:
     en: [old infarcts type]
     el: [old infarcts type]
@@ -1089,6 +1127,7 @@
         el: [old brainstem infarcts]
         cs: [old brainstem infarcts]
 - canonical: PERFUSION_DEFICIT_TYPE
+  index: 0
   synonyms:
     en: [perfusion deficit territory]
     el: [perfusion deficit territory]
@@ -1126,6 +1165,7 @@
         el: [bilateral stenosis perfusion deficit]
         cs: [bilateral stenosis perfusion deficit]
 - canonical: PERFUSION_CORE
+  index: 35
   synonyms:
     en: [perfusion core volume]
     el: [perfusion core volume]
@@ -1143,6 +1183,7 @@
     range_max: 300
     default_buckets: 15
 - canonical: HYPOPERFUSION
+  index: 36
   synonyms:
     en: [hypoperfusion volume]
     el: [hypoperfusion volume]
@@ -1160,6 +1201,7 @@
     range_max: 300
     default_buckets: 15
 - canonical: STROKE_TYPE
+  index: 12
   synonyms:
     en: [stroke type, stroke diagnosis]
     el: [stroke type, stroke diagnosis]
@@ -1207,6 +1249,7 @@
         el: [undetermined stroke]
         cs: [undetermined stroke]
 - canonical: STROKE_MIMICS_DIAGNOSIS
+  index: 20
   synonyms:
     en: [stroke mimics diagnosis]
     el: [stroke mimics diagnosis]
@@ -1249,6 +1292,7 @@
         el: [άλλο]
         cs: [jiné]
 - canonical: THROMBOLYSIS
+  index: 39
   synonyms:
     en: [intravenous thrombolysis, ivt]
     el: [ενδοφλέβια θρομβόλυση, ivt]
@@ -1271,6 +1315,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: THROMBECTOMY
+  index: 0
   synonyms:
     en: [mechanical thrombectomy, mt]
     el: [μηχανική θρομβεκτομή, mt]
@@ -1293,6 +1338,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: THROMBECTOMY_ONLY
+  index: 42
   synonyms:
     en: [thrombectomy only]
     el: [μόνο θρομβεκτομή]
@@ -1315,6 +1361,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: THROMBOLYSIS_ONLY
+  index: 0
   synonyms:
     en: [thrombolysis only]
     el: [μόνο θρομβόλυση]
@@ -1337,6 +1384,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: THROMBOLYSIS_AND_THROMBECTOMY
+  index: 43
   synonyms:
     en: [thrombolysis and thrombectomy]
     el: [θρομβόλυση και θρομβεκτομή]
@@ -1359,6 +1407,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: RECANALIZATION
+  index: 71
   synonyms:
     en: [recanalization therapy]
     el: [θεραπεία επανακαναλοποίησης]
@@ -1381,6 +1430,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: DTN
+  index: 41
   synonyms:
     en:
       [
@@ -1425,6 +1475,7 @@
     range_max: 1440
     default_buckets: 24
 - canonical: DTG_PRIMARY
+  index: 44
   synonyms:
     en: [primary door to groin, primary dtg]
     el: [πρωτογενές door-to-groin, πρωτογενές dtg]
@@ -1442,6 +1493,7 @@
     range_max: 1440
     default_buckets: 24
 - canonical: DTG_SECONDARY
+  index: 45
   synonyms:
     en: [secondary door to groin, secondary dtg]
     el: [δευτερογενές door-to-groin, δευτερογενές dtg]
@@ -1458,6 +1510,7 @@
     range_max: 1440
     default_buckets: 24
 - canonical: DIDO
+  index: 46
   synonyms:
     en: [door in door out]
     el: [door-in-door-out]
@@ -1475,6 +1528,7 @@
     range_max: 1440
     default_buckets: 24
 - canonical: DOOR_TO_REPERFUSION
+  index: 0
   synonyms:
     en: [door to reperfusion time]
     el: [χρόνος door-to-reperfusion]
@@ -1492,6 +1546,7 @@
     range_max: 1440
     default_buckets: 24
 - canonical: MTICI_SCORE
+  index: 47
   synonyms:
     en: [mtici score]
     el: [mtici score]
@@ -1539,6 +1594,7 @@
         el: [occlusion not confirmed]
         cs: [occlusion not confirmed]
 - canonical: NO_THROMBOLYSIS_REASON
+  index: 56
   synonyms:
     en: [reason for no thrombolysis]
     el: [λόγος μη θρομβόλυση]
@@ -1596,6 +1652,7 @@
         el: [άλλος λόγος]
         cs: [jiný důvod]
 - canonical: NO_THROMBECTOMY_REASON
+  index: 0
   synonyms:
     en: [reason for no thrombectomy]
     el: [λόγος μη θρομβεκτομή]
@@ -1673,6 +1730,7 @@
         el: [άλλος λόγος]
         cs: [jiný důvod]
 - canonical: MT_COMPLICATIONS_TYPE
+  index: 0
   synonyms:
     en: [thrombectomy complications type]
     el: [θρομβεκτομή complications type]
@@ -1710,6 +1768,7 @@
         el: [άλλη επιπλοκή]
         cs: [jiná komplikace]
 - canonical: MT_COMPLICATIONS
+  index: 48
   synonyms:
     en: [thrombectomy complications, mt complications present]
     el: [θρομβεκτομή complications, mt complications present]
@@ -1732,6 +1791,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: THROMBOLYSIS_DRUGS
+  index: 0
   synonyms:
     en: [thrombolysis drugs, ivt drugs]
     el: [θρομβόλυση drugs, ivt drugs]
@@ -1764,6 +1824,7 @@
         el: [staphylokinase]
         cs: [staphylokinase]
 - canonical: THROMBOLYSIS_DRUG_DOSE
+  index: 0
   synonyms:
     en: [thrombolysis drug dose, ivt dose]
     el: [θρομβόλυση drug dose, ivt dose]
@@ -1781,6 +1842,7 @@
     range_max: 200
     default_buckets: 20
 - canonical: THROMBOLYSIS_APPLICATION_DEPARTMENT
+  index: 0
   synonyms:
     en: [thrombolysis application department]
     el: [θρομβόλυση application department]
@@ -1813,6 +1875,7 @@
         el: [άλλο]
         cs: [jiné]
 - canonical: POST_RECANALIZATION_FINDINGS
+  index: 0
   synonyms:
     en: [post-recanalization findings present]
     el: [post-επανακαναλοποίηση findings present]
@@ -1835,6 +1898,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: POST_RECANALIZATION_FINDING_TYPE
+  index: 0
   synonyms:
     en: [post-recanalization finding type]
     el: [post-επανακαναλοποίηση finding type]
@@ -1862,6 +1926,7 @@
         el: [post-treatment αιμορραγική μετατροπή]
         cs: [post-treatment hemoragická transformace]
 - canonical: HEMORRHAGIC_TRANSFORMATION
+  index: 0
   synonyms:
     en: [hemorrhagic transformation type]
     el: [αιμορραγική μετατροπή type]
@@ -1894,6 +1959,7 @@
         el: [ph type 2]
         cs: [ph type 2]
 - canonical: TIA_CLINICAL_SYMPTOMS
+  index: 0
   synonyms:
     en: [tia clinical symptoms]
     el: [tia clinical symptoms]
@@ -1921,6 +1987,7 @@
         el: [άλλο]
         cs: [jiné]
 - canonical: TIA_SYMPTOMS_DURATION
+  index: 0
   synonyms:
     en: [tia symptoms duration]
     el: [tia symptoms duration]
@@ -1948,6 +2015,7 @@
         el: [60 λεπτά or more]
         cs: [60 minut or more]
 - canonical: BLEEDING_SOURCE_FOUND
+  index: 23
   synonyms:
     en: [bleeding source found]
     el: [bleeding source found]
@@ -1970,6 +2038,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: ICH_BLEEDING_VOLUME
+  index: 21
   synonyms:
     en: [intracerebral hemorrhage bleeding volume, ich bleeding volume]
     el: [ενδοεγκεφαλική αιμορραγία bleeding volume, ich bleeding volume]
@@ -1987,6 +2056,7 @@
     range_max: 300
     default_buckets: 15
 - canonical: ICH_SCORE
+  index: 25
   synonyms:
     en: [intracerebral hemorrhage score, ich score]
     el: [ενδοεγκεφαλική αιμορραγία score, ich score]
@@ -2004,6 +2074,7 @@
     range_max: 10
     default_buckets: 10
 - canonical: ICH_TREATMENT
+  index: 0
   synonyms:
     en: [intracerebral hemorrhage treatment performed, ich treatment performed]
     el: [ενδοεγκεφαλική αιμορραγία treatment performed, ich treatment performed]
@@ -2026,6 +2097,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: ICH_TREATMENT_TYPE
+  index: 26
   synonyms:
     en: [intracerebral hemorrhage treatment type, ich treatment type]
     el: [ενδοεγκεφαλική αιμορραγία treatment type, ich treatment type]
@@ -2053,6 +2125,7 @@
         el: [craniectomy]
         cs: [craniectomy]
 - canonical: BLEEDING_REASON_FOUND
+  index: 0
   synonyms:
     en: [bleeding reason found]
     el: [bleeding reason found]
@@ -2075,6 +2148,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: BLEEDING_REASON_TYPE
+  index: 28
   synonyms:
     en: [bleeding reason type]
     el: [bleeding reason type]
@@ -2117,6 +2191,7 @@
         el: [other bleeding reason]
         cs: [other bleeding reason]
 - canonical: BLEEDING_ANTIDOTE_TO_ANTICOAGULANTS
+  index: 0
   synonyms:
     en: [antidote to anticoagulants]
     el: [antidote to αντιπηκτικά]
@@ -2159,6 +2234,7 @@
         el: [no antidote]
         cs: [no antidote]
 - canonical: INTRAVENTRICULAR_HEMORRHAGE
+  index: 0
   synonyms:
     en: [intraventricular hemorrhage]
     el: [intraventricular hemorrhage]
@@ -2181,6 +2257,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: INFRATENTORIAL_HEMORRHAGE
+  index: 22
   synonyms:
     en: [infratentorial hemorrhage]
     el: [infratentorial hemorrhage]
@@ -2203,6 +2280,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: SAH_TREATMENT
+  index: 0
   synonyms:
     en: [subarachnoid hemorrhage treatment performed, sah treatment performed]
     el: [υπαραχνοειδής αιμορραγία treatment performed, sah treatment performed]
@@ -2225,6 +2303,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: SAH_TREATMENT_TYPE
+  index: 27
   synonyms:
     en: [subarachnoid hemorrhage treatment type, sah treatment type]
     el: [υπαραχνοειδής αιμορραγία treatment type, sah treatment type]
@@ -2262,6 +2341,7 @@
         el: [other sah treatment]
         cs: [other sah treatment]
 - canonical: NIMODIPINE
+  index: 0
   synonyms:
     en: [nimodipine given]
     el: [nimodipine given]
@@ -2284,6 +2364,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: HUNT_HESS_SCORE
+  index: 30
   synonyms:
     en: [hunt-hess score]
     el: [hunt-hess score]
@@ -2301,6 +2382,7 @@
     range_max: 5
     default_buckets: 5
 - canonical: CVT_TREATMENT
+  index: 0
   synonyms:
     en:
       [cerebral venous thrombosis treatment performed, cvt treatment performed]
@@ -2325,6 +2407,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: CVT_TREATMENT_TYPE
+  index: 0
   synonyms:
     en: [cerebral venous thrombosis treatment type, cvt treatment type]
     el: [φλεβική θρόμβωση εγκεφάλου treatment type, cvt treatment type]
@@ -2357,6 +2440,7 @@
         el: [neurosurgery for cvt]
         cs: [neurosurgery for cvt]
 - canonical: POST_ACUTE_CARE
+  index: 0
   synonyms:
     en: [post-acute care in hospital]
     el: [post-acute care in hospital]
@@ -2379,6 +2463,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: CRANIECTOMY
+  index: 0
   synonyms:
     en: [decompressive craniectomy performed]
     el: [decompressive craniectomy performed]
@@ -2401,6 +2486,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: CRANIECTOMY_AGE_GT60
+  index: 49
   synonyms:
     en: [decompressive craniectomy age ≥60]
     el: [decompressive craniectomy age ≥60]
@@ -2423,6 +2509,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: CAROTID_ARTERIES_IMAGING
+  index: 37
   synonyms:
     en: [carotid arteries imaging performed]
     el: [carotid arteries απεικόνιση performed]
@@ -2445,6 +2532,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: CAROTID_STENOSIS
+  index: 0
   synonyms:
     en: [carotid stenosis present]
     el: [carotid stenosis present]
@@ -2467,6 +2555,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: CAROTID_STENOSIS_LEVEL
+  index: 38
   synonyms:
     en: [carotid stenosis level]
     el: [carotid stenosis level]
@@ -2499,6 +2588,7 @@
         el: [occlusion]
         cs: [occlusion]
 - canonical: CAROTID_ENDARTERECTOMY
+  index: 0
   synonyms:
     en: [carotid endarterectomy or stenting within two weeks]
     el: [carotid endarterectomy or stenting within two weeks]
@@ -2521,6 +2611,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: CAROTID_ENDARTERECTOMY_STENOSIS_GT70
+  index: 50
   synonyms:
     en: [carotid endarterectomy stenosis >70 percent]
     el: [carotid endarterectomy stenosis >70 τοις εκατό]
@@ -2543,6 +2634,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: ATRIAL_FIBRILATION_FLUTTER
+  index: 0
   synonyms:
     en: [atrial fibrillation or flutter status]
     el: [κολπική μαρμαρυγή or flutter status]
@@ -2575,6 +2667,7 @@
         el: [not screened for κολπική μαρμαρυγή]
         cs: [not screened for fibrilace síní]
 - canonical: STROKE_ETIOLOGY_KNOWN_AIS
+  index: 0
   synonyms:
     en: [stroke etiology known (ais)]
     el: [stroke etiology known (ais)]
@@ -2597,6 +2690,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: STROKE_ETIOLOGY_TYPE_AIS
+  index: 19
   synonyms:
     en: [stroke etiology type (ais)]
     el: [stroke etiology type (ais)]
@@ -2634,6 +2728,7 @@
         el: [lacunar stroke]
         cs: [lacunar stroke]
 - canonical: STROKE_ETIOLOGY_KNOWN_AIS_TIA
+  index: 0
   synonyms:
     en: [stroke etiology known (ais or tia)]
     el: [stroke etiology known (ais or tia)]
@@ -2656,6 +2751,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: STROKE_ETIOLOGY_TYPE_AIS_TIA
+  index: 0
   synonyms:
     en: [stroke etiology type (ais or tia)]
     el: [stroke etiology type (ais or tia)]
@@ -2693,6 +2789,7 @@
         el: [lacunar stroke]
         cs: [lacunar stroke]
 - canonical: VTE_INTERVENTION_AIS
+  index: 0
   synonyms:
     en:
       [
@@ -2727,6 +2824,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: VTE_INTERVENTION_ICH
+  index: 29
   synonyms:
     en:
       [
@@ -2761,6 +2859,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: VTE_INTERVENTION_TYPE_AIS
+  index: 0
   synonyms:
     en:
       [
@@ -2825,6 +2924,7 @@
         el: [other vte prevention]
         cs: [other vte prevention]
 - canonical: VTE_INTERVENTION_TYPE_ICH
+  index: 0
   synonyms:
     en:
       [
@@ -2889,6 +2989,7 @@
         el: [other vte prevention]
         cs: [other vte prevention]
 - canonical: POST_STROKE_COMPLICATIONS
+  index: 61
   synonyms:
     en: [post-stroke complications present]
     el: [μετά το εγκεφαλικό complications present]
@@ -2911,6 +3012,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: POST_STROKE_COMPLICATIONS_TYPE
+  index: 0
   synonyms:
     en: [post-stroke complications type]
     el: [μετά το εγκεφαλικό complications type]
@@ -2963,6 +3065,7 @@
         el: [other μετά το εγκεφαλικό complication]
         cs: [other po iktu complication]
 - canonical: DAY_1_TEMPERATURE_CHECKS
+  index: 0
   synonyms:
     en: [day 1 temperature checks]
     el: [day 1 έλεγχοι θερμοκρασίας]
@@ -2980,6 +3083,7 @@
     range_max: 24
     default_buckets: 8
 - canonical: DAY_2_TEMPERATURE_CHECKS
+  index: 0
   synonyms:
     en: [day 2 temperature checks]
     el: [day 2 έλεγχοι θερμοκρασίας]
@@ -2997,6 +3101,7 @@
     range_max: 24
     default_buckets: 8
 - canonical: DAY_3_TEMPERATURE_CHECKS
+  index: 0
   synonyms:
     en: [day 3 temperature checks]
     el: [day 3 έλεγχοι θερμοκρασίας]
@@ -3014,6 +3119,7 @@
     range_max: 24
     default_buckets: 8
 - canonical: PARACETAMOL_ON_FEVER
+  index: 51
   synonyms:
     en: [paracetamol on fever]
     el: [παρακεταμόλη σε πυρετό]
@@ -3036,6 +3142,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: DAY_1_HYPERGLYCEMIA_CHECKS
+  index: 0
   synonyms:
     en: [day 1 hyperglycemia checks]
     el: [day 1 έλεγχοι υπεργλυκαιμίας]
@@ -3053,6 +3160,7 @@
     range_max: 24
     default_buckets: 8
 - canonical: DAY_2_HYPERGLYCEMIA_CHECKS
+  index: 0
   synonyms:
     en: [day 2 hyperglycemia checks]
     el: [day 2 έλεγχοι υπεργλυκαιμίας]
@@ -3070,6 +3178,7 @@
     range_max: 24
     default_buckets: 8
 - canonical: DAY_3_HYPERGLYCEMIA_CHECKS
+  index: 0
   synonyms:
     en: [day 3 hyperglycemia checks]
     el: [day 3 έλεγχοι υπεργλυκαιμίας]
@@ -3087,6 +3196,7 @@
     range_max: 24
     default_buckets: 8
 - canonical: INSULIN_ON_HYPERGLYCEMIA
+  index: 52
   synonyms:
     en: [insulin on hyperglycemia]
     el: [ινσουλίνη σε υπεργλυκαιμία]
@@ -3109,6 +3219,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: SWALLOWING_SCREENING
+  index: 0
   synonyms:
     en: [swallowing screening performed]
     el: [έλεγχος κατάποσης performed]
@@ -3136,6 +3247,7 @@
         el: [δεν εφαρμόζεται]
         cs: [nelze použít]
 - canonical: SWALLOWING_SCREENING_TYPE
+  index: 57
   synonyms:
     en: [swallowing screening type]
     el: [έλεγχος κατάποσης type]
@@ -3168,6 +3280,7 @@
         el: [άλλο]
         cs: [jiné]
 - canonical: SWALLOWING_SCREENING_PERFORMER
+  index: 55
   synonyms:
     en: [swallowing screening performer]
     el: [έλεγχος κατάποσης performer]
@@ -3200,6 +3313,7 @@
         el: [άλλο]
         cs: [jiné]
 - canonical: PHYSIOTHERAPY
+  index: 53
   synonyms:
     en: [physiotherapy received]
     el: [φυσιοθεραπεία received]
@@ -3227,6 +3341,7 @@
         el: [δεν απαιτείται]
         cs: [není vyžadováno]
 - canonical: OCCUPATIONAL_THERAPY
+  index: 54
   synonyms:
     en: [occupational therapy received]
     el: [εργοθεραπεία received]
@@ -3254,6 +3369,7 @@
         el: [δεν απαιτείται]
         cs: [není vyžadováno]
 - canonical: SPEECH_THERAPY
+  index: 0
   synonyms:
     en: [speech therapy received]
     el: [λογοθεραπεία received]
@@ -3281,6 +3397,7 @@
         el: [δεν απαιτείται]
         cs: [není vyžadováno]
 - canonical: DISCHARGE_DESTINATION
+  index: 62
   synonyms:
     en: [discharge destination]
     el: [προορισμός εξιτηρίου]
@@ -3318,6 +3435,7 @@
         el: [θάνατος]
         cs: [úmrtí]
 - canonical: DISCHARGE_MEDICATIONS
+  index: 58
   synonyms:
     en: [medications at discharge]
     el: [φαρμακευτικές αγωγές κατά το εξιτήριο]
@@ -3360,6 +3478,7 @@
         el: [άλλες φαρμακευτικές αγωγές κατά το εξιτήριο]
         cs: [jiné léky při propuštění]
 - canonical: DISCHARGE_ANTICOAGULANTS_AFIB
+  index: 74
   synonyms:
     en: [anticoagulants at discharge in atrial fibrillation]
     el: [αντιπηκτικά κατά το εξιτήριο in κολπική μαρμαρυγή]
@@ -3382,6 +3501,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: DISCHARGE_ANTICOAGULANT_TYPE_AFIB
+  index: 60
   synonyms:
     en: [anticoagulant type at discharge in atrial fibrillation]
     el: [αντιπηκτικό type κατά το εξιτήριο in κολπική μαρμαρυγή]
@@ -3429,6 +3549,7 @@
         el: [άλλο αντιπηκτικό κατά το εξιτήριο]
         cs: [jiné antikoagulans při propuštění]
 - canonical: DISCHARGE_ANTIPLATELETS_NO_AFIB
+  index: 73
   synonyms:
     en: [antiplatelets at discharge without atrial fibrillation]
     el: [αντιαιμοπεταλιακά κατά το εξιτήριο without κολπική μαρμαρυγή]
@@ -3451,6 +3572,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: DISCHARGE_ANTIPLATELET_TYPE_NO_AFIB
+  index: 59
   synonyms:
     en: [antiplatelet type at discharge without atrial fibrillation]
     el: [αντιαιμοπεταλιακό type κατά το εξιτήριο without κολπική μαρμαρυγή]
@@ -3503,6 +3625,7 @@
         el: [άλλο αντιαιμοπεταλιακό κατά το εξιτήριο]
         cs: [jiné antiagregans při propuštění]
 - canonical: DISCHARGE_MRS
+  index: 63
   synonyms:
     en: [discharge Modified Rankin Scale, discharge mrs]
     el: [discharge τροποποιημένη κλίμακα rankin, mrs εξιτηρίου]
@@ -3520,6 +3643,7 @@
     range_max: 6
     default_buckets: 6
 - canonical: SMOKING_CESSATION
+  index: 0
   synonyms:
     en: [smoking cessation recommended]
     el: [smoking cessation recommended]
@@ -3542,6 +3666,7 @@
         el: [όχι]
         cs: [ne]
 - canonical: STROKE_MANAGEMENT_APPOINTMENT
+  index: 0
   synonyms:
     en: [stroke management appointment]
     el: [stroke management appointment]
@@ -3569,6 +3694,7 @@
         el: [δεν συνιστάται]
         cs: [nedoporučeno]
 - canonical: THREE_MONTH_MRS
+  index: 64
   synonyms:
     en: [three-month Modified Rankin Scale, three-month mrs, 3-month mrs]
     el: [τριών μηνών τροποποιημένη κλίμακα rankin, τριών μηνών mrs, 3-month mrs]
@@ -3586,6 +3712,7 @@
     range_max: 6
     default_buckets: 6
 - canonical: HOSPITAL_STAY
+  index: 0
   synonyms:
     en: [length of hospital stay]
     el: [διάρκεια νοσηλείας]
@@ -3603,6 +3730,7 @@
     range_max: 365
     default_buckets: 20
 - canonical: DISCHARGE_NIHSS
+  index: 65
   synonyms:
     en: [discharge NIH Stroke Scale, discharge NIHSS]
     el: [discharge nih stroke scale, nihss εξιτηρίου]
@@ -3620,6 +3748,7 @@
     range_max: 42
     default_buckets: 14
 - canonical: DTI
+  index: 34
   synonyms:
     en: [door to imaging, door to imaging time]
     el: [door to απεικόνιση, door to απεικόνιση time]
@@ -3637,6 +3766,7 @@
     range_max: 1440
     default_buckets: 24
 - canonical: ONSET_TO_DOOR
+  index: 40
   synonyms:
     en: [onset to door, time from onset to door]
     el: [έναρξη έως πόρτα, time from έναρξη έως πόρτα]
