@@ -98,3 +98,31 @@
     el: Περιγραφή για INR_MODE
     cs: Popis pro INR_MODE
 
+- canonical: SEX
+  synonyms:
+    en:
+      [
+        sex,
+        gender,
+        patient sex,
+        biological sex,
+      ]
+    el:
+      [
+        φύλο,
+        γένος,
+        φύλο ασθενούς,
+        βιολογικό φύλο,
+      ]
+    cs:
+      [
+        pohlaví,
+        gender,
+        pohlaví pacienta,
+        biologické pohlaví,
+      ]
+  description:
+    en: Description for SEX
+    el: Περιγραφή για SEX
+    cs: Popis pro SEX
+
