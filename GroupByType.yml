@@ -98,3 +98,62 @@
     el: Περιγραφή για INR_MODE
     cs: Popis pro INR_MODE
 
+- canonical: STROKE_TYPE
+  synonyms:
+    en: [stroke type, stroke classification, stroke category, stroke subtype]
+    el: [τύπος εγκεφαλικού, ταξινόμηση εγκεφαλικού, κατηγορία εγκεφαλικού, υποτύπος εγκεφαλικού]
+    cs: [typ mrtvice, klasifikace mrtvice, kategorie mrtvice, podtyp mrtvice]
+  description:
+    en: Description for STROKE_TYPE
+    el: Περιγραφή για STROKE_TYPE
+    cs: Popis pro STROKE_TYPE
+
+- canonical: SEX_TYPE
+  synonyms:
+    en: [sex type, gender classification, gender, sex]
+    el: [τύπος φύλου, ταξινόμηση φύλου, φύλο, σεξ]
+    cs: [typ pohlaví, klasifikace pohlaví, pohlaví, sex]
+  description:
+    en: Description for SEX_TYPE
+    el: Περιγραφή για SEX_TYPE
+    cs: Popis pro SEX_TYPE
+
+- canonical: MONTH
+  synonyms:
+    en: [month, calendar month, month of the year, monthly period]
+    el: [μήνας, ημερολογιακός μήνας, μήνας του έτους, μηνιαία περίοδος]
+    cs: [měsíc, kalendářní měsíc, měsíc v roce, měsíční období]
+  description:
+    en: Description for MONTH
+    el: Περιγραφή για MONTH
+    cs: Popis pro MONTH
+  
+- canonical: QUARTER
+  synonyms:
+    en: [quarter, fiscal quarter, quarter of the year, three-month period]
+    el: [τρίμηνο, οικονομικό τρίμηνο, τρίμηνο του έτους, τρίμηνη περίοδος]
+    cs: [čtvrtletí, fiskální čtvrtletí, čtvrtletí roku, tříměsíční období]
+  description:
+    en: Description for QUARTER
+    el: Περιγραφή για QUARTER
+    cs: Popis pro QUARTER
+
+- canonical: YEAR
+  synonyms:
+    en: [year, calendar year, year of the event, annual period]
+    el: [έτος, ημερολογιακό έτος, έτος του γεγονότος, ετήσια περίοδος]
+    cs: [rok, kalendářní rok, rok události, roční období]
+  description:
+    en: Description for YEAR
+    el: Περιγραφή για YEAR
+    cs: Popis pro YEAR
+
+- canonical: HOSPITAL
+  synonyms:
+    en: [hospital, medical center, healthcare facility, inpatient facility]
+    el: [νοσοκομείο, ιατρικό κέντρο, εγκατάσταση υγειονομικής περίθαλψης, εγκατάσταση για νοσηλεία]
+    cs: [nemocnice, lékařské centrum, zdravotnické zařízení, lůžkové zařízení]
+  description:
+    en: Description for HOSPITAL
+    el: Περιγραφή για HOSPITAL
+    cs: Popis pro HOSPITAL
