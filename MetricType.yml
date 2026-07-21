@@ -21,6 +21,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_DTN_LE45
   index: 67
   synonyms:
@@ -44,6 +45,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_DTG_LE120
   index: 68
   synonyms:
@@ -67,6 +69,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_DTG_LE90
   index: 69
   synonyms:
@@ -90,6 +93,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_RECANALIZATION
   index: 70
   synonyms:
@@ -113,6 +117,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_IMAGING
   index: 0
   synonyms:
@@ -136,6 +141,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_SWALLOWING_SCREENING
   index: 72
   synonyms:
@@ -159,6 +165,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_ANTICOAGULANTS
   index: 0
   synonyms:
@@ -182,6 +189,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_ANTITHROMBOTICS
   index: 0
   synonyms:
@@ -205,6 +213,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AA_STROKE_UNIT
   index: 75
   synonyms:
@@ -228,6 +237,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: AGE
   index: 1
   synonyms:
@@ -246,6 +256,7 @@
     range_min: 0
     range_max: 120
     default_buckets: 12
+  supported_by: api
 - canonical: WAKEUP_STROKE
   index: 0
   synonyms:
@@ -273,6 +284,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: INHOSPITAL_STROKE
   index: 9
   synonyms:
@@ -296,6 +308,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: ARRIVAL_MODE
   index: 13
   synonyms:
@@ -339,6 +352,7 @@
         en: [private transport from general practitioner]
         el: [ιδιωτική μεταφορά from γενικός ιατρός]
         cs: [soukromá doprava from praktický lékař]
+  supported_by: api
 - canonical: EMS_PRENOTIFICATION
   index: 10
   synonyms:
@@ -362,6 +376,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: ADMISSION_DEPARTMENT
   index: 15
   synonyms:
@@ -400,6 +415,7 @@
         en: [other]
         el: [άλλο]
         cs: [jiné]
+  supported_by: api
 - canonical: FIRST_CONTACT_PLACE
   index: 14
   synonyms:
@@ -433,6 +449,7 @@
         en: [other]
         el: [άλλο]
         cs: [jiné]
+  supported_by: api
 - canonical: HOSPITALIZED_IN
   index: 0
   synonyms:
@@ -461,6 +478,7 @@
         en: [standard bed]
         el: [standard bed]
         cs: [standard bed]
+  supported_by: api
 - canonical: SEX
   index: 2
   synonyms:
@@ -489,6 +507,7 @@
         en: [unknown or other]
         el: [unknown or other]
         cs: [unknown or other]
+  supported_by: api
 - canonical: RISK_FACTORS_TYPE
   index: 11
   synonyms:
@@ -562,6 +581,7 @@
         en: [risk covid, history of covid-19]
         el: [risk covid, history of covid-19]
         cs: [risk covid, history of covid-19]
+  supported_by: api
 - canonical: BEFORE_ONSET_MEDICATION
   index: 16
   synonyms:
@@ -605,6 +625,7 @@
         en: [other medication before onset]
         el: [άλλη φαρμακευτική αγωγή πριν από την έναρξη]
         cs: [jiná medikace před vznikem]
+  supported_by: api
 - canonical: BEFORE_ONSET_MEDICATION_AIS_TIA
   index: 0
   synonyms:
@@ -648,6 +669,7 @@
         en: [other medication before onset]
         el: [άλλη φαρμακευτική αγωγή πριν από την έναρξη]
         cs: [jiná medikace před vznikem]
+  supported_by: api
 - canonical: BEFORE_ONSET_MEDICATION_ICH
   index: 0
   synonyms:
@@ -691,6 +713,7 @@
         en: [other medication before onset]
         el: [άλλη φαρμακευτική αγωγή πριν από την έναρξη]
         cs: [jiná medikace před vznikem]
+  supported_by: api
 - canonical: BEFORE_ONSET_ANTIPLATELET_TYPE
   index: 17
   synonyms:
@@ -744,6 +767,7 @@
         en: [other antiplatelet before onset]
         el: [άλλο αντιαιμοπεταλιακό πριν από την έναρξη]
         cs: [jiné antiagregans před vznikem]
+  supported_by: api
 - canonical: BEFORE_ONSET_ANTICOAGULANT_TYPE
   index: 18
   synonyms:
@@ -792,6 +816,7 @@
         en: [other anticoagulant before onset]
         el: [άλλο αντιπηκτικό πριν από την έναρξη]
         cs: [jiné antikoagulans před vznikem]
+  supported_by: api
 - canonical: ADMISSION_NIHSS
   index: 3
   synonyms:
@@ -810,6 +835,7 @@
     range_min: 0
     range_max: 42
     default_buckets: 14
+  supported_by: api
 - canonical: PRESTROKE_MRS
   index: 8
   synonyms:
@@ -828,6 +854,7 @@
     range_min: 0
     range_max: 6
     default_buckets: 6
+  supported_by: api
 - canonical: GLUCOSE
   index: 6
   synonyms:
@@ -846,6 +873,7 @@
     range_min: 0
     range_max: 500
     default_buckets: 25
+  supported_by: api
 - canonical: CHOLESTEROL
   index: 7
   synonyms:
@@ -864,6 +892,7 @@
     range_min: 0
     range_max: 500
     default_buckets: 25
+  supported_by: api
 - canonical: SYSTOLIC_PRESSURE
   index: 4
   synonyms:
@@ -882,6 +911,7 @@
     range_min: 0
     range_max: 300
     default_buckets: 10
+  supported_by: api
 - canonical: DIASTOLIC_PRESSURE
   index: 5
   synonyms:
@@ -900,6 +930,7 @@
     range_min: 0
     range_max: 300
     default_buckets: 10
+  supported_by: api
 - canonical: INR_MODE
   index: 0
   synonyms:
@@ -928,6 +959,7 @@
         en: [not done]
         el: [δεν έγινε]
         cs: [neprovedeno]
+  supported_by: api
 - canonical: IMAGING_DONE
   index: 33
   synonyms:
@@ -956,6 +988,7 @@
         en: [performed elsewhere]
         el: [πραγματοποιήθηκε αλλού]
         cs: [provedeno jinde]
+  supported_by: api
 - canonical: IMAGING_TYPE
   index: 31
   synonyms:
@@ -999,6 +1032,7 @@
         en: [mr dwi or flair with mra and perfusion]
         el: [mr dwi or flair with mra and perfusion]
         cs: [mr dwi or flair with mra and perfusion]
+  supported_by: api
 - canonical: OCCLUSION_FOUND
   index: 0
   synonyms:
@@ -1022,6 +1056,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: OCCLUSION_SITE
   index: 32
   synonyms:
@@ -1075,6 +1110,7 @@
         en: [carotid internal occlusion]
         el: [carotid internal occlusion]
         cs: [carotid internal occlusion]
+  supported_by: api
 - canonical: OLD_INFARCTS_SEEN
   index: 0
   synonyms:
@@ -1098,6 +1134,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: OLD_INFARCTS_TYPE
   index: 0
   synonyms:
@@ -1126,6 +1163,7 @@
         en: [old brainstem infarcts]
         el: [old brainstem infarcts]
         cs: [old brainstem infarcts]
+  supported_by: api
 - canonical: PERFUSION_DEFICIT_TYPE
   index: 0
   synonyms:
@@ -1164,6 +1202,7 @@
         en: [bilateral stenosis perfusion deficit]
         el: [bilateral stenosis perfusion deficit]
         cs: [bilateral stenosis perfusion deficit]
+  supported_by: api
 - canonical: PERFUSION_CORE
   index: 35
   synonyms:
@@ -1182,6 +1221,7 @@
     range_min: 0
     range_max: 300
     default_buckets: 15
+  supported_by: api
 - canonical: HYPOPERFUSION
   index: 36
   synonyms:
@@ -1200,6 +1240,7 @@
     range_min: 0
     range_max: 300
     default_buckets: 15
+  supported_by: api
 - canonical: STROKE_TYPE
   index: 12
   synonyms:
@@ -1248,6 +1289,7 @@
         en: [undetermined stroke]
         el: [undetermined stroke]
         cs: [undetermined stroke]
+  supported_by: api
 - canonical: STROKE_MIMICS_DIAGNOSIS
   index: 20
   synonyms:
@@ -1291,6 +1333,7 @@
         en: [other]
         el: [άλλο]
         cs: [jiné]
+  supported_by: api
 - canonical: THROMBOLYSIS
   index: 39
   synonyms:
@@ -1314,6 +1357,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: THROMBECTOMY
   index: 0
   synonyms:
@@ -1337,6 +1381,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: THROMBECTOMY_ONLY
   index: 42
   synonyms:
@@ -1360,6 +1405,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: THROMBOLYSIS_ONLY
   index: 0
   synonyms:
@@ -1383,6 +1429,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: THROMBOLYSIS_AND_THROMBECTOMY
   index: 43
   synonyms:
@@ -1406,6 +1453,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: RECANALIZATION
   index: 71
   synonyms:
@@ -1429,6 +1477,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: DTN
   index: 41
   synonyms:
@@ -1474,6 +1523,7 @@
     range_min: 0
     range_max: 1440
     default_buckets: 24
+  supported_by: api
 - canonical: DTG_PRIMARY
   index: 44
   synonyms:
@@ -1492,6 +1542,7 @@
     range_min: 0
     range_max: 1440
     default_buckets: 24
+  supported_by: api
 - canonical: DTG_SECONDARY
   index: 45
   synonyms:
@@ -1509,6 +1560,7 @@
     range_min: 0
     range_max: 1440
     default_buckets: 24
+  supported_by: api
 - canonical: DIDO
   index: 46
   synonyms:
@@ -1527,6 +1579,7 @@
     range_min: 0
     range_max: 1440
     default_buckets: 24
+  supported_by: api
 - canonical: DOOR_TO_REPERFUSION
   index: 0
   synonyms:
@@ -1545,6 +1598,7 @@
     range_min: 0
     range_max: 1440
     default_buckets: 24
+  supported_by: api
 - canonical: MTICI_SCORE
   index: 47
   synonyms:
@@ -1593,6 +1647,7 @@
         en: [occlusion not confirmed]
         el: [occlusion not confirmed]
         cs: [occlusion not confirmed]
+  supported_by: api
 - canonical: NO_THROMBOLYSIS_REASON
   index: 56
   synonyms:
@@ -1651,6 +1706,7 @@
         en: [other reason]
         el: [άλλος λόγος]
         cs: [jiný důvod]
+  supported_by: api
 - canonical: NO_THROMBECTOMY_REASON
   index: 0
   synonyms:
@@ -1729,6 +1785,7 @@
         en: [other reason]
         el: [άλλος λόγος]
         cs: [jiný důvod]
+  supported_by: api
 - canonical: MT_COMPLICATIONS_TYPE
   index: 0
   synonyms:
@@ -1767,6 +1824,7 @@
         en: [other complication]
         el: [άλλη επιπλοκή]
         cs: [jiná komplikace]
+  supported_by: api
 - canonical: MT_COMPLICATIONS
   index: 48
   synonyms:
@@ -1790,6 +1848,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: THROMBOLYSIS_DRUGS
   index: 0
   synonyms:
@@ -1823,6 +1882,7 @@
         en: [staphylokinase]
         el: [staphylokinase]
         cs: [staphylokinase]
+  supported_by: api
 - canonical: THROMBOLYSIS_DRUG_DOSE
   index: 0
   synonyms:
@@ -1841,6 +1901,7 @@
     range_min: 0
     range_max: 200
     default_buckets: 20
+  supported_by: api
 - canonical: THROMBOLYSIS_APPLICATION_DEPARTMENT
   index: 0
   synonyms:
@@ -1874,6 +1935,7 @@
         en: [other]
         el: [άλλο]
         cs: [jiné]
+  supported_by: api
 - canonical: POST_RECANALIZATION_FINDINGS
   index: 0
   synonyms:
@@ -1897,6 +1959,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: POST_RECANALIZATION_FINDING_TYPE
   index: 0
   synonyms:
@@ -1925,6 +1988,7 @@
         en: [post-treatment hemorrhagic transformation]
         el: [post-treatment αιμορραγική μετατροπή]
         cs: [post-treatment hemoragická transformace]
+  supported_by: api
 - canonical: HEMORRHAGIC_TRANSFORMATION
   index: 0
   synonyms:
@@ -1958,6 +2022,7 @@
         en: [ph type 2]
         el: [ph type 2]
         cs: [ph type 2]
+  supported_by: api
 - canonical: TIA_CLINICAL_SYMPTOMS
   index: 0
   synonyms:
@@ -1986,6 +2051,7 @@
         en: [other]
         el: [άλλο]
         cs: [jiné]
+  supported_by: api
 - canonical: TIA_SYMPTOMS_DURATION
   index: 0
   synonyms:
@@ -2014,6 +2080,7 @@
         en: [60 minutes or more]
         el: [60 λεπτά or more]
         cs: [60 minut or more]
+  supported_by: api
 - canonical: BLEEDING_SOURCE_FOUND
   index: 23
   synonyms:
@@ -2037,6 +2104,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: ICH_BLEEDING_VOLUME
   index: 21
   synonyms:
@@ -2055,6 +2123,7 @@
     range_min: 0
     range_max: 300
     default_buckets: 15
+  supported_by: api
 - canonical: ICH_SCORE
   index: 25
   synonyms:
@@ -2073,6 +2142,7 @@
     range_min: 0
     range_max: 10
     default_buckets: 10
+  supported_by: api
 - canonical: ICH_TREATMENT
   index: 0
   synonyms:
@@ -2096,6 +2166,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: ICH_TREATMENT_TYPE
   index: 26
   synonyms:
@@ -2124,6 +2195,7 @@
         en: [craniectomy]
         el: [craniectomy]
         cs: [craniectomy]
+  supported_by: api
 - canonical: BLEEDING_REASON_FOUND
   index: 0
   synonyms:
@@ -2147,6 +2219,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: BLEEDING_REASON_TYPE
   index: 28
   synonyms:
@@ -2190,50 +2263,8 @@
         en: [other bleeding reason]
         el: [other bleeding reason]
         cs: [other bleeding reason]
-- canonical: BLEEDING_ANTIDOTE_TO_ANTICOAGULANTS
-  index: 0
-  synonyms:
-    en: [antidote to anticoagulants]
-    el: [antidote to αντιπηκτικά]
-    cs: [antidote to antikoagulancia]
-  descriptions:
-    en: Types of antidotes used to block anticoagulation medications.
-    es: Tipos de antídotos utilizados para neutralizar la medicación anticoagulante.
-    el: Τύποι αντιδότων που χρησιμοποιούνται για την εξουδετέρωση της αντιπηκτικής αγωγής.
-    cs: Typy antidot používaných k blokaci účinku antikoagulační medikace.
-  data_type: Enum
-  Enum:
-    - key: andexanete
-      synonyms:
-        en: [andexanet]
-        el: [andexanet]
-        cs: [andexanet]
-    - key: idarucizumab
-      synonyms:
-        en: [idarucizumab]
-        el: [idarucizumab]
-        cs: [idarucizumab]
-    - key: frozen_plasma
-      synonyms:
-        en: [frozen plasma]
-        el: [frozen plasma]
-        cs: [frozen plasma]
-    - key: prothrombin
-      synonyms:
-        en: [prothrombin complex]
-        el: [prothrombin complex]
-        cs: [prothrombin complex]
-    - key: other
-      synonyms:
-        en: [other antidote]
-        el: [άλλο αντίδοτο]
-        cs: [jiné antidotum]
-    - key: none
-      synonyms:
-        en: [no antidote]
-        el: [no antidote]
-        cs: [no antidote]
-- canonical: INTRAVENTRICULAR_HEMORRHAGE
+  supported_by: api
+- canonical: INTRAVENTICULAR_HEMORRHAGE
   index: 0
   synonyms:
     en: [intraventricular hemorrhage]
@@ -2256,6 +2287,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: INFRATENTORIAL_HEMORRHAGE
   index: 22
   synonyms:
@@ -2279,6 +2311,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: SAH_TREATMENT
   index: 0
   synonyms:
@@ -2302,6 +2335,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: SAH_TREATMENT_TYPE
   index: 27
   synonyms:
@@ -2340,6 +2374,7 @@
         en: [other sah treatment]
         el: [other sah treatment]
         cs: [other sah treatment]
+  supported_by: api
 - canonical: NIMODIPINE
   index: 0
   synonyms:
@@ -2363,6 +2398,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: HUNT_HESS_SCORE
   index: 30
   synonyms:
@@ -2381,6 +2417,7 @@
     range_min: 0
     range_max: 5
     default_buckets: 5
+  supported_by: api
 - canonical: CVT_TREATMENT
   index: 0
   synonyms:
@@ -2406,6 +2443,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: CVT_TREATMENT_TYPE
   index: 0
   synonyms:
@@ -2439,6 +2477,7 @@
         en: [neurosurgery for cvt]
         el: [neurosurgery for cvt]
         cs: [neurosurgery for cvt]
+  supported_by: api
 - canonical: POST_ACUTE_CARE
   index: 0
   synonyms:
@@ -2462,6 +2501,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: CRANIECTOMY
   index: 0
   synonyms:
@@ -2485,6 +2525,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: CRANIECTOMY_AGE_GT60
   index: 49
   synonyms:
@@ -2508,6 +2549,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: CAROTID_ARTERIES_IMAGING
   index: 37
   synonyms:
@@ -2531,6 +2573,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: CAROTID_STENOSIS
   index: 0
   synonyms:
@@ -2554,6 +2597,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: CAROTID_STENOSIS_LEVEL
   index: 38
   synonyms:
@@ -2587,6 +2631,7 @@
         en: [occlusion]
         el: [occlusion]
         cs: [occlusion]
+  supported_by: api
 - canonical: CAROTID_ENDARTERECTOMY
   index: 0
   synonyms:
@@ -2610,6 +2655,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: CAROTID_ENDARTERECTOMY_STENOSIS_GT70
   index: 50
   synonyms:
@@ -2633,6 +2679,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: ATRIAL_FIBRILATION_FLUTTER
   index: 0
   synonyms:
@@ -2666,6 +2713,7 @@
         en: [not screened for atrial fibrillation]
         el: [not screened for κολπική μαρμαρυγή]
         cs: [not screened for fibrilace síní]
+  supported_by: api
 - canonical: STROKE_ETIOLOGY_KNOWN_AIS
   index: 0
   synonyms:
@@ -2689,6 +2737,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: STROKE_ETIOLOGY_TYPE_AIS
   index: 19
   synonyms:
@@ -2727,6 +2776,7 @@
         en: [lacunar stroke]
         el: [lacunar stroke]
         cs: [lacunar stroke]
+  supported_by: api
 - canonical: STROKE_ETIOLOGY_KNOWN_AIS_TIA
   index: 0
   synonyms:
@@ -2750,6 +2800,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: STROKE_ETIOLOGY_TYPE_AIS_TIA
   index: 0
   synonyms:
@@ -2788,6 +2839,7 @@
         en: [lacunar stroke]
         el: [lacunar stroke]
         cs: [lacunar stroke]
+  supported_by: api
 - canonical: VTE_INTERVENTION_AIS
   index: 0
   synonyms:
@@ -2823,6 +2875,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: VTE_INTERVENTION_ICH
   index: 29
   synonyms:
@@ -2858,6 +2911,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: VTE_INTERVENTION_TYPE_AIS
   index: 0
   synonyms:
@@ -2923,6 +2977,7 @@
         en: [other vte prevention]
         el: [other vte prevention]
         cs: [other vte prevention]
+  supported_by: api
 - canonical: VTE_INTERVENTION_TYPE_ICH
   index: 0
   synonyms:
@@ -2988,6 +3043,7 @@
         en: [other vte prevention]
         el: [other vte prevention]
         cs: [other vte prevention]
+  supported_by: api
 - canonical: POST_STROKE_COMPLICATIONS
   index: 61
   synonyms:
@@ -3011,6 +3067,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: POST_STROKE_COMPLICATIONS_TYPE
   index: 0
   synonyms:
@@ -3064,6 +3121,7 @@
         en: [other post-stroke complication]
         el: [other μετά το εγκεφαλικό complication]
         cs: [other po iktu complication]
+  supported_by: api
 - canonical: DAY_1_TEMPERATURE_CHECKS
   index: 0
   synonyms:
@@ -3082,6 +3140,7 @@
     range_min: 0
     range_max: 24
     default_buckets: 8
+  supported_by: api
 - canonical: DAY_2_TEMPERATURE_CHECKS
   index: 0
   synonyms:
@@ -3100,6 +3159,7 @@
     range_min: 0
     range_max: 24
     default_buckets: 8
+  supported_by: api
 - canonical: DAY_3_TEMPERATURE_CHECKS
   index: 0
   synonyms:
@@ -3118,6 +3178,7 @@
     range_min: 0
     range_max: 24
     default_buckets: 8
+  supported_by: api
 - canonical: PARACETAMOL_ON_FEVER
   index: 51
   synonyms:
@@ -3141,6 +3202,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: DAY_1_HYPERGLYCEMIA_CHECKS
   index: 0
   synonyms:
@@ -3159,6 +3221,7 @@
     range_min: 0
     range_max: 24
     default_buckets: 8
+  supported_by: api
 - canonical: DAY_2_HYPERGLYCEMIA_CHECKS
   index: 0
   synonyms:
@@ -3177,6 +3240,7 @@
     range_min: 0
     range_max: 24
     default_buckets: 8
+  supported_by: api
 - canonical: DAY_3_HYPERGLYCEMIA_CHECKS
   index: 0
   synonyms:
@@ -3195,6 +3259,7 @@
     range_min: 0
     range_max: 24
     default_buckets: 8
+  supported_by: api
 - canonical: INSULIN_ON_HYPERGLYCEMIA
   index: 52
   synonyms:
@@ -3218,6 +3283,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: SWALLOWING_SCREENING
   index: 0
   synonyms:
@@ -3246,6 +3312,7 @@
         en: [not applicable]
         el: [δεν εφαρμόζεται]
         cs: [nelze použít]
+  supported_by: api
 - canonical: SWALLOWING_SCREENING_TYPE
   index: 57
   synonyms:
@@ -3279,6 +3346,7 @@
         en: [other]
         el: [άλλο]
         cs: [jiné]
+  supported_by: api
 - canonical: SWALLOWING_SCREENING_PERFORMER
   index: 55
   synonyms:
@@ -3312,6 +3380,7 @@
         en: [other]
         el: [άλλο]
         cs: [jiné]
+  supported_by: api
 - canonical: PHYSIOTHERAPY
   index: 53
   synonyms:
@@ -3340,6 +3409,7 @@
         en: [not required]
         el: [δεν απαιτείται]
         cs: [není vyžadováno]
+  supported_by: api
 - canonical: OCCUPATIONAL_THERAPY
   index: 54
   synonyms:
@@ -3368,6 +3438,7 @@
         en: [not required]
         el: [δεν απαιτείται]
         cs: [není vyžadováno]
+  supported_by: api
 - canonical: SPEECH_THERAPY
   index: 0
   synonyms:
@@ -3396,6 +3467,7 @@
         en: [not required]
         el: [δεν απαιτείται]
         cs: [není vyžadováno]
+  supported_by: api
 - canonical: DISCHARGE_DESTINATION
   index: 62
   synonyms:
@@ -3434,6 +3506,7 @@
         en: [dead]
         el: [θάνατος]
         cs: [úmrtí]
+  supported_by: api
 - canonical: DISCHARGE_MEDICATIONS
   index: 58
   synonyms:
@@ -3477,6 +3550,7 @@
         en: [other medications at discharge]
         el: [άλλες φαρμακευτικές αγωγές κατά το εξιτήριο]
         cs: [jiné léky při propuštění]
+  supported_by: api
 - canonical: DISCHARGE_ANTICOAGULANTS_AFIB
   index: 74
   synonyms:
@@ -3500,6 +3574,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: DISCHARGE_ANTICOAGULANT_TYPE_AFIB
   index: 60
   synonyms:
@@ -3548,6 +3623,7 @@
         en: [other anticoagulant at discharge]
         el: [άλλο αντιπηκτικό κατά το εξιτήριο]
         cs: [jiné antikoagulans při propuštění]
+  supported_by: api
 - canonical: DISCHARGE_ANTIPLATELETS_NO_AFIB
   index: 73
   synonyms:
@@ -3571,6 +3647,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: DISCHARGE_ANTIPLATELET_TYPE_NO_AFIB
   index: 59
   synonyms:
@@ -3624,6 +3701,7 @@
         en: [other antiplatelet at discharge]
         el: [άλλο αντιαιμοπεταλιακό κατά το εξιτήριο]
         cs: [jiné antiagregans při propuštění]
+  supported_by: api
 - canonical: DISCHARGE_MRS
   index: 63
   synonyms:
@@ -3642,6 +3720,7 @@
     range_min: 0
     range_max: 6
     default_buckets: 6
+  supported_by: api
 - canonical: SMOKING_CESSATION
   index: 0
   synonyms:
@@ -3665,6 +3744,7 @@
         en: ["no"]
         el: [όχι]
         cs: [ne]
+  supported_by: api
 - canonical: STROKE_MANAGEMENT_APPOINTMENT
   index: 0
   synonyms:
@@ -3693,6 +3773,7 @@
         en: [not recommended]
         el: [δεν συνιστάται]
         cs: [nedoporučeno]
+  supported_by: api
 - canonical: THREE_MONTH_MRS
   index: 64
   synonyms:
@@ -3711,6 +3792,7 @@
     range_min: 0
     range_max: 6
     default_buckets: 6
+  supported_by: api
 - canonical: HOSPITAL_STAY
   index: 0
   synonyms:
@@ -3729,6 +3811,7 @@
     range_min: 0
     range_max: 365
     default_buckets: 20
+  supported_by: api
 - canonical: DISCHARGE_NIHSS
   index: 65
   synonyms:
@@ -3747,6 +3830,7 @@
     range_min: 0
     range_max: 42
     default_buckets: 14
+  supported_by: api
 - canonical: DTI
   index: 34
   synonyms:
@@ -3765,6 +3849,7 @@
     range_min: 0
     range_max: 1440
     default_buckets: 24
+  supported_by: api
 - canonical: ONSET_TO_DOOR
   index: 40
   synonyms:
@@ -3783,3 +3868,4 @@
     range_min: 0
     range_max: 1440
     default_buckets: 24
+  supported_by: api

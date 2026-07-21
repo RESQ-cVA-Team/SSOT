@@ -7,6 +7,7 @@
     en: Description for ISCHEMIC
     el: Περιγραφή για ISCHEMIC
     cs: Popis pro ISCHEMIC
+  supported_by: api
 
 - canonical: INTRACEREBRAL_HEMORRHAGE
   synonyms:
@@ -29,6 +30,7 @@
     en: Description for INTRACEREBRAL_HEMORRHAGE
     el: Περιγραφή για INTRACEREBRAL_HEMORRHAGE
     cs: Popis pro INTRACEREBRAL_HEMORRHAGE
+  supported_by: api
 
 - canonical: TRANSIENT_ISCHEMIC
   synonyms:
@@ -39,6 +41,7 @@
     en: Description for TRANSIENT_ISCHEMIC
     el: Περιγραφή για TRANSIENT_ISCHEMIC
     cs: Popis pro TRANSIENT_ISCHEMIC
+  supported_by: api
 
 - canonical: SUBARACHNOID_HEMORRHAGE
   synonyms:
@@ -49,6 +52,7 @@
     en: Description for SUBARACHNOID_HEMORRHAGE
     el: Περιγραφή για SUBARACHNOID_HEMORRHAGE
     cs: Popis pro SUBARACHNOID_HEMORRHAGE
+  supported_by: api
 
 - canonical: CEREBRAL_VENOUS_THROMBOSIS
   synonyms:
@@ -59,6 +63,7 @@
     en: Description for CEREBRAL_VENOUS_THROMBOSIS
     el: Περιγραφή για CEREBRAL_VENOUS_THROMBOSIS
     cs: Popis pro CEREBRAL_VENOUS_THROMBOSIS
+  supported_by: api
 
 - canonical: STROKE_MIMICS
   synonyms:
@@ -81,6 +86,7 @@
     en: Description for STROKE_MIMICS
     el: Περιγραφή για STROKE_MIMICS
     cs: Popis pro STROKE_MIMICS
+  supported_by: api
 
 - canonical: UNDETERMINED
   synonyms:
@@ -109,3 +115,4 @@
     en: Description for UNDETERMINED
     el: Περιγραφή για UNDETERMINED
     cs: Popis pro UNDETERMINED
+  supported_by: api

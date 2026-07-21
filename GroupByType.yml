@@ -25,6 +25,7 @@
     en: Description for EMS_PRENOTIFICATION
     el: Περιγραφή για EMS_PRENOTIFICATION
     cs: Popis pro EMS_PRENOTIFICATION
+  supported_by: api
 
 - canonical: FIRST_CONTACT_PLACE
   synonyms:
@@ -53,6 +54,7 @@
     en: Description for FIRST_CONTACT_PLACE
     el: Περιγραφή για FIRST_CONTACT_PLACE
     cs: Popis pro FIRST_CONTACT_PLACE
+  supported_by: api
 
 - canonical: IVT_APPLICATION_DEPARTMENT
   synonyms:
@@ -75,6 +77,7 @@
     en: Description for IVT_APPLICATION_DEPARTMENT
     el: Περιγραφή για IVT_APPLICATION_DEPARTMENT
     cs: Popis pro IVT_APPLICATION_DEPARTMENT
+  supported_by: api
 
 - canonical: INR_MODE
   synonyms:
@@ -97,4 +100,92 @@
     en: Description for INR_MODE
     el: Περιγραφή για INR_MODE
     cs: Popis pro INR_MODE
+  supported_by: api
 
+- canonical: STROKE_TYPE
+  synonyms:
+    en: [stroke type, stroke classification, stroke category, stroke subtype]
+    el: [τύπος εγκεφαλικού, ταξινόμηση εγκεφαλικού, κατηγορία εγκεφαλικού, υποτύπος εγκεφαλικού]
+    cs: [typ mrtvice, klasifikace mrtvice, kategorie mrtvice, podtyp mrtvice]
+  description:
+    en: Description for STROKE_TYPE
+    el: Περιγραφή για STROKE_TYPE
+    cs: Popis pro STROKE_TYPE
+  supported_by: internal
+
+- canonical: SEX_TYPE
+  synonyms:
+    en: [sex type, gender classification, gender, sex]
+    el: [τύπος φύλου, ταξινόμηση φύλου, φύλο, σεξ]
+    cs: [typ pohlaví, klasifikace pohlaví, pohlaví, sex]
+  description:
+    en: Description for SEX_TYPE
+    el: Περιγραφή για SEX_TYPE
+    cs: Popis pro SEX_TYPE
+  supported_by: internal
+
+- canonical: DAY
+  synonyms:
+    en: [day, calendar day, daily period]
+    el: [ημέρα, ημερολογιακή ημέρα, ημερήσια περίοδος]
+    cs: [den, kalendářní den, denní období]
+  description:
+    en: Description for DAY
+    el: Περιγραφή για DAY
+    cs: Popis pro DAY
+  supported_by: internal
+
+- canonical: WEEK
+  synonyms:
+    en: [week, calendar week, weekly period]
+    el: [εβδομάδα, ημερολογιακή εβδομάδα, εβδομαδιαία περίοδος]
+    cs: [týden, kalendářní týden, týdenní období]
+  description:
+    en: Description for WEEK
+    el: Περιγραφή για WEEK
+    cs: Popis pro WEEK
+  supported_by: internal
+
+- canonical: BIWEEK
+  synonyms:
+    en: [biweek, two-week period, fortnight]
+    el: [δεκαπενθήμερο, περίοδος δύο εβδομάδων]
+    cs: [dvoutýdenní období, čtrnáct dní]
+  description:
+    en: Description for BIWEEK
+    el: Περιγραφή για BIWEEK
+    cs: Popis pro BIWEEK
+  supported_by: internal
+
+- canonical: MONTH
+  synonyms:
+    en: [month, calendar month, month of the year, monthly period]
+    el: [μήνας, ημερολογιακός μήνας, μήνας του έτους, μηνιαία περίοδος]
+    cs: [měsíc, kalendářní měsíc, měsíc v roce, měsíční období]
+  description:
+    en: Description for MONTH
+    el: Περιγραφή για MONTH
+    cs: Popis pro MONTH
+  supported_by: internal
+
+- canonical: QUARTER
+  synonyms:
+    en: [quarter, fiscal quarter, quarter of the year, three-month period]
+    el: [τρίμηνο, οικονομικό τρίμηνο, τρίμηνο του έτους, τρίμηνη περίοδος]
+    cs: [čtvrtletí, fiskální čtvrtletí, čtvrtletí roku, tříměsíční období]
+  description:
+    en: Description for QUARTER
+    el: Περιγραφή για QUARTER
+    cs: Popis pro QUARTER
+  supported_by: internal
+
+- canonical: YEAR
+  synonyms:
+    en: [year, calendar year, year of the event, annual period]
+    el: [έτος, ημερολογιακό έτος, έτος του γεγονότος, ετήσια περίοδος]
+    cs: [rok, kalendářní rok, rok události, roční období]
+  description:
+    en: Description for YEAR
+    el: Περιγραφή για YEAR
+    cs: Popis pro YEAR
+  supported_by: internal
