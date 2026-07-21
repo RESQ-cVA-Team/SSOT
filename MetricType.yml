@@ -3869,3 +3869,907 @@
     range_max: 1440
     default_buckets: 24
   supported_by: api
+- canonical: ACHIEVING_SYSTOLIC_PRESSURE_LT140
+  synonyms:
+    en: [achieving systolic pressure below 140, systolic bp target reached]
+    el: [επίτευξη συστολικής πίεσης κάτω από 140]
+    cs: [dosažení systolického tlaku pod 140]
+  descriptions:
+    en: Achieving systolic blood pressure below 140 mmHg for intracerebral hemorrhage patients.
+    es: Alcanzar una presión arterial sistólica inferior a 140 mmHg en pacientes con hemorragia intracerebral.
+    el: Επίτευξη συστολικής αρτηριακής πίεσης κάτω από 140 mmHg σε ασθενείς με ενδοεγκεφαλική αιμορραγία.
+    cs: Dosažení systolického krevního tlaku pod 140 mmHg u pacientů s intracerebrálním krvácením.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: ANTICOAGULANT_REVERSAL_GIVEN
+  synonyms:
+    en: [anticoagulant reversal given, reversal administered]
+    el: [χορήγηση αναστροφής αντιπηκτικών]
+    cs: [podání reverze antikoagulace]
+  descriptions:
+    en: Using of reversal to block anticoagulation medication.
+    es: Uso de reversión para bloquear la medicación anticoagulante.
+    el: Χρήση αναστροφής για την αναστολή της αντιπηκτικής αγωγής.
+    cs: Použití reverze k zablokování antikoagulační medikace.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: CRANIECTOMY_AGE_LE60
+  synonyms:
+    en: [craniectomy age 60 or under, craniectomy in patients 60 or younger]
+    el: [κρανιεκτομή σε ηλικία 60 ή κάτω]
+    cs: [kraniektomie u pacientů do 60 let]
+  descriptions:
+    en: Craniectomy performed in patients aged 60 or younger.
+    es: Craniectomía realizada en pacientes de 60 años o menos.
+    el: Κρανιεκτομή που πραγματοποιήθηκε σε ασθενείς ηλικίας 60 ετών ή νεότερους.
+    cs: Kraniektomie provedená u pacientů ve věku 60 let nebo mladších.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: DISCHARGE_HYPERGLYCEMIA
+  synonyms:
+    en: [discharge hyperglycemia, hyperglycemia at discharge]
+    el: [υπεργλυκαιμία κατά την έξοδο]
+    cs: [hyperglykemie při propuštění]
+  descriptions:
+    en: Hyperglycemia diagnosed on the seventh day after admission or on discharge, if sooner.
+    es: Hiperglucemia diagnosticada el séptimo día tras el ingreso o al alta, si es antes.
+    el: Υπεργλυκαιμία που διαγνώστηκε την έβδομη ημέρα μετά την εισαγωγή ή κατά την έξοδο, όποιο συμβεί πρώτο.
+    cs: Hyperglykemie diagnostikovaná sedmý den po přijetí nebo při propuštění, pokud nastane dříve.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: HYDROCEPHALUS
+  synonyms:
+    en: [hydrocephalus]
+    el: [υδροκεφαλία]
+    cs: [hydrocefalus]
+  descriptions:
+    en: Diagnosis of hydrocephalus on post-neurosurgery imaging for intracerebral hemorrhage.
+    es: Diagnóstico de hidrocefalia en la imagen posterior a la neurocirugía por hemorragia intracerebral.
+    el: Διάγνωση υδροκεφαλίας σε απεικόνιση μετά από νευροχειρουργική επέμβαση για ενδοεγκεφαλική αιμορραγία.
+    cs: Diagnóza hydrocefalu na zobrazení po neurochirurgickém výkonu pro intracerebrální krvácení.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: HYDROCEPHALUS_SHUNT_TREATMENT
+  synonyms:
+    en: [hydrocephalus shunt treatment, shunt insertion]
+    el: [θεραπεία υδροκεφαλίας με βαλβίδα]
+    cs: [léčba hydrocefalu zkratem]
+  descriptions:
+    en: Hydrocephalus treatment using shunt insertion.
+    es: Tratamiento de la hidrocefalia mediante inserción de una válvula de derivación.
+    el: Θεραπεία υδροκεφαλίας με τοποθέτηση βαλβίδας παροχέτευσης.
+    cs: Léčba hydrocefalu pomocí zavedení zkratu.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: IV_ANTIHYPERTENSIVE
+  synonyms:
+    en: [iv antihypertensive, intravenous antihypertensive given]
+    el: [ενδοφλέβια αντιυπερτασικά]
+    cs: [intravenózní antihypertenziva]
+  descriptions:
+    en: Administration of intravenous antihypertensives for systolic blood pressure above 140 mmHg.
+    es: Administración de antihipertensivos intravenosos para presión arterial sistólica superior a 140 mmHg.
+    el: Χορήγηση ενδοφλέβιων αντιυπερτασικών για συστολική αρτηριακή πίεση άνω των 140 mmHg.
+    cs: Podání intravenózních antihypertenziv při systolickém krevním tlaku nad 140 mmHg.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: MTICI_SUCCESSFUL_REPERFUSION
+  synonyms:
+    en: [mtici successful reperfusion, successful reperfusion]
+    el: [επιτυχής επαναιμάτωση mtici]
+    cs: [úspěšná reperfuze mtici]
+  descriptions:
+    en: Successful reperfusion after mechanical thrombectomy, defined as mTICI score 2b, 2c or 3.
+    es: Reperfusión exitosa tras trombectomía mecánica, definida como puntuación mTICI 2b, 2c o 3.
+    el: Επιτυχής επαναιμάτωση μετά από μηχανική θρομβεκτομή, οριζόμενη ως βαθμολογία mTICI 2b, 2c ή 3.
+    cs: Úspěšná reperfuze po mechanické trombektomii, definovaná jako skóre mTICI 2b, 2c nebo 3.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: STROKE_MIMICS_IVT
+  synonyms:
+    en: [stroke mimics ivt, thrombolysis in stroke mimics]
+    el: [θρομβόλυση σε stroke mimics]
+    cs: [trombolýza u stroke mimics]
+  descriptions:
+    en: Undergoing intravenous thrombolysis among stroke mimics.
+    es: Recibir trombólisis intravenosa entre los cuadros que imitan un ictus.
+    el: Λήψη ενδοφλέβιας θρομβόλυσης σε καταστάσεις που μιμούνται εγκεφαλικό επεισόδιο.
+    cs: Podstoupení intravenózní trombolýzy u stavů napodobujících cévní mozkovou příhodu.
+  data_type: Enum
+  Enum:
+  - key: 'yes'
+    synonyms:
+      en: ['yes']
+      el: [ναι]
+      cs: [ano]
+  - key: 'no'
+    synonyms:
+      en: ['no']
+      el: [όχι]
+      cs: [ne]
+  supported_by: api
+- canonical: DISCHARGE_SYSTOLIC_PRESSURE
+  synonyms:
+    en: [discharge systolic pressure, systolic pressure at discharge]
+    el: [συστολική πίεση κατά την έξοδο]
+    cs: [systolický tlak při propuštění]
+  descriptions:
+    en: Systolic pressure measured seven days after admission or at discharge, if sooner.
+    es: Presión sistólica medida siete días después del ingreso o al alta, si es antes.
+    el: Συστολική πίεση που μετρήθηκε επτά ημέρες μετά την εισαγωγή ή κατά την έξοδο, όποιο συμβεί πρώτο.
+    cs: Systolický tlak měřený sedm dní po přijetí nebo při propuštění, pokud nastane dříve.
+  data_type: Numeric
+  statistics_enum: DISCHARGE_SYSTOLIC_PRESSURE
+  Numeric:
+    unit: mmHg
+    range_min: 0
+    range_max: 300
+    default_buckets: 10
+  supported_by: api
+- canonical: DOOR_TO_EVACUATION
+  synonyms:
+    en: [door to evacuation, door to hematoma evacuation]
+    el: [χρόνος έως εκκένωση αιματώματος]
+    cs: [čas do evakuace hematomu]
+  descriptions:
+    en: Time from first hospital door to hematoma evacuation for intracerebral hemorrhage.
+    es: Tiempo desde la llegada al hospital hasta la evacuación del hematoma en hemorragia intracerebral.
+    el: Χρόνος από την άφιξη στο νοσοκομείο έως την εκκένωση του αιματώματος σε ενδοεγκεφαλική αιμορραγία.
+    cs: Čas od příjezdu do nemocnice do evakuace hematomu při intracerebrálním krvácení.
+  data_type: Numeric
+  statistics_enum: DOOR_TO_ICH_EVACUATION
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: DOOR_TO_IV_ANTIHYPERTENSIVE_INITIATION
+  synonyms:
+    en: [door to iv antihypertensive initiation]
+    el: [χρόνος έως έναρξη ενδοφλέβιων αντιυπερτασικών]
+    cs: [čas do zahájení intravenózních antihypertenziv]
+  descriptions:
+    en: Time from first hospital door to initiation of intravenous antihypertensives.
+    es: Tiempo desde la llegada al hospital hasta el inicio de antihipertensivos intravenosos.
+    el: Χρόνος από την άφιξη στο νοσοκομείο έως την έναρξη ενδοφλέβιων αντιυπερτασικών.
+    cs: Čas od příjezdu do nemocnice do zahájení intravenózních antihypertenziv.
+  data_type: Numeric
+  statistics_enum: DOOR_TO_IV_ANTIHYPERTENSIVE
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: DOOR_TO_REVERSAL_INITIATION
+  synonyms:
+    en: [door to reversal initiation, door to anticoagulant reversal]
+    el: [χρόνος έως έναρξη αναστροφής αντιπηκτικών]
+    cs: [čas do zahájení reverze antikoagulace]
+  descriptions:
+    en: Time from first hospital door to initiation of anticoagulant reversal.
+    es: Tiempo desde la llegada al hospital hasta el inicio de la reversión de la anticoagulación.
+    el: Χρόνος από την άφιξη στο νοσοκομείο έως την έναρξη αναστροφής της αντιπηκτικής αγωγής.
+    cs: Čas od příjezdu do nemocnice do zahájení reverze antikoagulace.
+  data_type: Numeric
+  statistics_enum: DOOR_TO_ANTICOAGULANT_REVERSAL
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: DOOR_TO_SYS_BP_LT140
+  synonyms:
+    en: [door to systolic bp below 140]
+    el: [χρόνος έως συστολική πίεση κάτω από 140]
+    cs: [čas do systolického tlaku pod 140]
+  descriptions:
+    en: Time from first hospital door to achieving systolic blood pressure below 140 mmHg.
+    es: Tiempo desde la llegada al hospital hasta alcanzar una presión sistólica inferior a 140 mmHg.
+    el: Χρόνος από την άφιξη στο νοσοκομείο έως την επίτευξη συστολικής πίεσης κάτω από 140 mmHg.
+    cs: Čas od příjezdu do nemocnice do dosažení systolického tlaku pod 140 mmHg.
+  data_type: Numeric
+  statistics_enum: DOOR_TO_SYS_BP_LT140
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: DTG
+  synonyms:
+    en: [door to groin, dtg]
+    el: [door-to-groin]
+    cs: [door-to-groin]
+  descriptions:
+    en: Door-To-Groin time in minutes.
+    es: Tiempo puerta-ingle en minutos.
+    el: Χρόνος door-to-groin σε λεπτά.
+    cs: Door-to-groin čas v minutách.
+  data_type: Numeric
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: DTG_NO_FILTER
+  synonyms:
+    en: [door to groin no filter, dtg no filter]
+    el: [door-to-groin χωρίς φίλτρο]
+    cs: [door-to-groin bez filtru]
+  descriptions:
+    en: Door-To-Groin time in minutes without implicit filters, including only patients with a known DTG value.
+    es: Tiempo puerta-ingle en minutos sin filtros implícitos, incluyendo solo pacientes con valor de DTG conocido.
+    el: Χρόνος door-to-groin σε λεπτά χωρίς έμμεσα φίλτρα, συμπεριλαμβανομένων μόνο ασθενών με γνωστή τιμή DTG.
+    cs: Door-to-groin čas v minutách bez implicitních filtrů, zahrnující pouze pacienty se známou hodnotou DTG.
+  data_type: Numeric
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: DTN_NO_FILTER
+  synonyms:
+    en: [door to needle no filter, dtn no filter]
+    el: [door-to-needle χωρίς φίλτρο]
+    cs: [door-to-needle bez filtru]
+  descriptions:
+    en: Door-To-Needle time in minutes without implicit filters, including only patients with a known DTN value.
+    es: Tiempo puerta-aguja en minutos sin filtros implícitos, incluyendo solo pacientes con valor de DTN conocido.
+    el: Χρόνος door-to-needle σε λεπτά χωρίς έμμεσα φίλτρα, συμπεριλαμβανομένων μόνο ασθενών με γνωστή τιμή DTN.
+    cs: Door-to-needle čas v minutách bez implicitních filtrů, zahrnující pouze pacienty se známou hodnotou DTN.
+  data_type: Numeric
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 520
+    default_buckets: 52
+  supported_by: api
+- canonical: HIGHEST_SYSTOLIC_PRESSURE_AFTER_24H
+  synonyms:
+    en: [highest systolic pressure after 24h]
+    el: [υψηλότερη συστολική πίεση μετά από 24 ώρες]
+    cs: [nejvyšší systolický tlak po 24 hodinách]
+  descriptions:
+    en: Highest systolic blood pressure measured at least 24 hours after admission.
+    es: Presión sistólica más alta medida al menos 24 horas después del ingreso.
+    el: Υψηλότερη συστολική αρτηριακή πίεση που μετρήθηκε τουλάχιστον 24 ώρες μετά την εισαγωγή.
+    cs: Nejvyšší systolický krevní tlak naměřený nejméně 24 hodin po přijetí.
+  data_type: Numeric
+  statistics_enum: HIGHEST_SYSTOLIC_PRESSURE_AFTER_24H
+  Numeric:
+    unit: mmHg
+    range_min: 0
+    range_max: 300
+    default_buckets: 10
+  supported_by: api
+- canonical: ICH_BLEEDING_VOLUME_CONTROL
+  synonyms:
+    en: [ich bleeding volume control, control bleeding volume]
+    el: [όγκος αιμορραγίας ελέγχου]
+    cs: [kontrolní objem krvácení]
+  descriptions:
+    en: Amount of blood in ml accumulated in brain tissue as a result of intracerebral hemorrhage, measured on post-neurosurgery control imaging.
+    es: Cantidad de sangre en ml acumulada en el tejido cerebral por hemorragia intracerebral, medida en la imagen de control posquirúrgica.
+    el: Ποσότητα αίματος σε ml που συσσωρεύτηκε στον εγκεφαλικό ιστό λόγω ενδοεγκεφαλικής αιμορραγίας, όπως μετρήθηκε σε απεικόνιση ελέγχου μετά τη νευροχειρουργική επέμβαση.
+    cs: Množství krve v ml nahromaděné v mozkové tkáni v důsledku intracerebrálního krvácení, měřené na kontrolním zobrazení po neurochirurgickém výkonu.
+  data_type: Numeric
+  statistics_enum: BLEEDING_VOLUME_CONTROL
+  Numeric:
+    unit: ml
+    range_min: 0
+    range_max: 300
+    default_buckets: 15
+  supported_by: api
+- canonical: ICH_VOLUME_GROWTH
+  synonyms:
+    en: [ich volume growth, bleeding volume growth]
+    el: [αύξηση όγκου αιμορραγίας]
+    cs: [nárůst objemu krvácení]
+  descriptions:
+    en: Increase of the bleeding volume in intracerebral hemorrhage patients without neurosurgical treatment.
+    es: Aumento del volumen de sangrado en pacientes con hemorragia intracerebral sin tratamiento neuroquirúrgico.
+    el: Αύξηση του όγκου της αιμορραγίας σε ασθενείς με ενδοεγκεφαλική αιμορραγία χωρίς νευροχειρουργική θεραπεία.
+    cs: Nárůst objemu krvácení u pacientů s intracerebrálním krvácením bez neurochirurgické léčby.
+  data_type: Numeric
+  statistics_enum: BLEEDING_VOLUME_DIFFERENCE
+  Numeric:
+    unit: ml
+    range_min: 0
+    range_max: 300
+    default_buckets: 15
+  supported_by: api
+- canonical: IMAGING_TO_NEEDLE
+  synonyms:
+    en: [imaging to needle]
+    el: [απεικόνιση έως βελόνα]
+    cs: [zobrazení do jehly]
+  descriptions:
+    en: Time from imaging to thrombolysis (needle) initiation.
+    es: Tiempo desde la imagen hasta el inicio de la trombólisis (aguja).
+    el: Χρόνος από την απεικόνιση έως την έναρξη της θρομβόλυσης (βελόνα).
+    cs: Čas od zobrazení do zahájení trombolýzy (jehla).
+  data_type: Numeric
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: IV_ANTIHYPERTENSIVE_TO_SYS_BP_LT140
+  synonyms:
+    en: [iv antihypertensive to systolic bp below 140]
+    el: [χρόνος από ενδοφλέβια αντιυπερτασικά έως συστολική πίεση κάτω από 140]
+    cs: [čas od intravenózních antihypertenziv do systolického tlaku pod 140]
+  descriptions:
+    en: Time from initiation of intravenous antihypertensives to achieving systolic blood pressure below 140 mmHg.
+    es: Tiempo desde el inicio de antihipertensivos intravenosos hasta alcanzar presión sistólica inferior a 140 mmHg.
+    el: Χρόνος από την έναρξη ενδοφλέβιων αντιυπερτασικών έως την επίτευξη συστολικής πίεσης κάτω από 140 mmHg.
+    cs: Čas od zahájení intravenózních antihypertenziv do dosažení systolického tlaku pod 140 mmHg.
+  data_type: Numeric
+  statistics_enum: IV_ANTIHYPERTENSIVE_TO_SYS_BP_LT140
+  Numeric:
+    unit: minutes
+    range_min: 0
+    range_max: 1440
+    default_buckets: 24
+  supported_by: api
+- canonical: ADMISSION_PATHWAY
+  synonyms:
+    en: [admission pathway, admission route, how patient was admitted]
+    el: [οδός εισαγωγής, τρόπος εισαγωγής]
+    cs: [cesta přijetí, způsob přijetí]
+  descriptions:
+    en: Pathways through which stroke patients are admitted to stroke care in the reporting hospital.
+    es: Vías a través de las cuales los pacientes con ictus son admitidos en la atención del ictus en el hospital que informa.
+    el: Οδοί μέσω των οποίων οι ασθενείς με εγκεφαλικό εισάγονται στη φροντίδα εγκεφαλικού στο νοσοκομείο αναφοράς.
+    cs: Cesty, kterými jsou pacienti s cévní mozkovou příhodou přijímáni do iktové péče v hlásící nemocnici.
+  data_type: Enum
+  Enum:
+  - key: ems_from_home_scene
+    synonyms:
+      en: [ems from home or scene]
+      el: [ems from home or scene]
+      cs: [ems from home or scene]
+  - key: private_transportation_from_home_scene
+    synonyms:
+      en: [private transport from home or scene]
+      el: [ιδιωτική μεταφορά from home or scene]
+      cs: [soukromá doprava from home or scene]
+  - key: stroke_center
+    synonyms:
+      en: [stroke center]
+      el: [κέντρο εγκεφαλικών]
+      cs: [iktové centrum]
+  - key: another_hospital
+    synonyms:
+      en: [another hospital]
+      el: [another hospital]
+      cs: [another hospital]
+  - key: ems_from_gp
+    synonyms:
+      en: [ems from general practitioner]
+      el: [ems from γενικός ιατρός]
+      cs: [ems from praktický lékař]
+  - key: private_transportation_from_gp
+    synonyms:
+      en: [private transport from general practitioner]
+      el: [ιδιωτική μεταφορά from γενικός ιατρός]
+      cs: [soukromá doprava from praktický lékař]
+  - key: in_hospital_stroke
+    synonyms:
+      en: [in-hospital stroke]
+      el: [ενδονοσοκομειακό εγκεφαλικό]
+      cs: [iktus vzniklý během hospitalizace]
+  supported_by: api
+- canonical: ANTICOAGULANT_REVERSAL
+  synonyms:
+    en: [anticoagulant reversal, reversal agent, anticoagulant reversal type]
+    el: [αναστροφή αντιπηκτικών, τύπος αναστροφής]
+    cs: [reverze antikoagulace, typ reverze]
+  descriptions:
+    en: Type of reversal agent used to block anticoagulation medication.
+    es: Tipo de agente de reversión utilizado para bloquear la medicación anticoagulante.
+    el: Τύπος παράγοντα αναστροφής που χρησιμοποιήθηκε για την αναστολή της αντιπηκτικής αγωγής.
+    cs: Typ reverzního přípravku použitého k zablokování antikoagulační medikace.
+  data_type: Enum
+  Enum:
+  - key: andexanet
+    synonyms:
+      en: [andexanet]
+      el: [andexanet]
+      cs: [andexanet]
+  - key: idarucizumab
+    synonyms:
+      en: [idarucizumab]
+      el: [idarucizumab]
+      cs: [idarucizumab]
+  - key: frozen_plasma
+    synonyms:
+      en: [frozen plasma]
+      el: [κατεψυγμένο πλάσμα]
+      cs: [zmrazená plazma]
+  - key: prothrombin
+    synonyms:
+      en: [prothrombin, prothrombin complex concentrate]
+      el: [προθρομβίνη]
+      cs: [protrombinový komplex]
+  - key: other
+    synonyms:
+      en: [other]
+      el: [άλλο]
+      cs: [jiné]
+  - key: none
+    synonyms:
+      en: [none]
+      el: [κανένα]
+      cs: [žádné]
+  - key: vitamin_k
+    synonyms:
+      en: [vitamin k]
+      el: [βιταμίνη k]
+      cs: [vitamin k]
+  - key: protamine_sulfate
+    synonyms:
+      en: [protamine sulfate]
+      el: [θειική πρωταμίνη]
+      cs: [protamin sulfát]
+  - key: tranexamic_acid
+    synonyms:
+      en: [tranexamic acid]
+      el: [τρανεξαμικό οξύ]
+      cs: [kyselina tranexamová]
+  - key: aminocaproic_acid
+    synonyms:
+      en: [aminocaproic acid]
+      el: [αμινοκαπροϊκό οξύ]
+      cs: [kyselina aminokapronová]
+  - key: ciraparantag
+    synonyms:
+      en: [ciraparantag]
+      el: [ciraparantag]
+      cs: [ciraparantag]
+  supported_by: api
+- canonical: HEMORRHAGIC_TRANSFORMATION_IVT
+  synonyms:
+    en: [hemorrhagic transformation, hemorrhagic transformation after ivt]
+    el: [αιμορραγική μετατροπή]
+    cs: [hemoragická transformace]
+  descriptions:
+    en: Types of hemorrhagic transformation detected in ischemic stroke cases after intravenous thrombolysis during post-acute treatment.
+    es: Tipos de transformación hemorrágica detectados en casos de ictus isquémico tras trombólisis intravenosa durante el tratamiento post-agudo.
+    el: Τύποι αιμορραγικής μετατροπής που ανιχνεύθηκαν σε περιστατικά ισχαιμικού εγκεφαλικού μετά από ενδοφλέβια θρομβόλυση κατά τη μετα-οξεία θεραπεία.
+    cs: Typy hemoragické transformace zjištěné u případů ischemické cévní mozkové příhody po intravenózní trombolýze během postakutní léčby.
+  data_type: Enum
+  Enum:
+  - key: hi_type_1
+    synonyms:
+      en: [hi type 1, hemorrhagic infarction type 1]
+      el: [hi τύπος 1]
+      cs: [hi typ 1]
+  - key: hi_type_2
+    synonyms:
+      en: [hi type 2, hemorrhagic infarction type 2]
+      el: [hi τύπος 2]
+      cs: [hi typ 2]
+  - key: ph_type_1
+    synonyms:
+      en: [ph type 1, parenchymal hematoma type 1]
+      el: [ph τύπος 1]
+      cs: [ph typ 1]
+  - key: ph_type_2
+    synonyms:
+      en: [ph type 2, parenchymal hematoma type 2]
+      el: [ph τύπος 2]
+      cs: [ph typ 2]
+  supported_by: api
+- canonical: ICH_TREATMENT_EVACUATION_TYPE
+  synonyms:
+    en: [ich treatment evacuation type, hematoma evacuation type]
+    el: [τύπος εκκένωσης αιματώματος]
+    cs: [typ evakuace hematomu]
+  descriptions:
+    en: Type of hematoma evacuation treatment of intracerebral hemorrhage.
+    es: Tipo de tratamiento de evacuación del hematoma en hemorragia intracerebral.
+    el: Τύπος θεραπείας εκκένωσης αιματώματος σε ενδοεγκεφαλική αιμορραγία.
+    cs: Typ léčby evakuace hematomu při intracerebrálním krvácení.
+  data_type: Enum
+  Enum:
+  - key: min_invasive_evacuation
+    synonyms:
+      en: [minimally invasive evacuation]
+      el: [ελάχιστα επεμβατική εκκένωση]
+      cs: [minimálně invazivní evakuace]
+  - key: open_craniectomy_evacuation
+    synonyms:
+      en: [open craniectomy evacuation]
+      el: [ανοιχτή κρανιεκτομή εκκένωσης]
+      cs: [evakuace otevřenou kraniektomií]
+  - key: stereotactic_aspiration
+    synonyms:
+      en: [stereotactic aspiration]
+      el: [στερεοτακτική αναρρόφηση]
+      cs: [stereotaktická aspirace]
+  supported_by: api
+- canonical: ICH_TREATMENT_TYPE_EXTENDED
+  synonyms:
+    en: [ich treatment type extended, extended ich treatment categories]
+    el: [εκτεταμένος τύπος θεραπείας ενδοεγκεφαλικής αιμορραγίας]
+    cs: [rozšířený typ léčby intracerebrálního krvácení]
+  descriptions:
+    en: Types of performed intracerebral hemorrhage treatment, with individual hematoma evacuation categories listed separately.
+    es: Tipos de tratamiento realizado de hemorragia intracerebral, con las categorías individuales de evacuación del hematoma indicadas por separado.
+    el: Τύποι θεραπείας που πραγματοποιήθηκαν για ενδοεγκεφαλική αιμορραγία, με τις επιμέρους κατηγορίες εκκένωσης αιματώματος να αναφέρονται ξεχωριστά.
+    cs: Typy provedené léčby intracerebrálního krvácení s jednotlivými kategoriemi evakuace hematomu uvedenými samostatně.
+  data_type: Enum
+  Enum:
+  - key: min_invasive_evacuation
+    synonyms:
+      en: [minimally invasive evacuation]
+      el: [ελάχιστα επεμβατική εκκένωση]
+      cs: [minimálně invazivní evakuace]
+  - key: open_craniectomy_evacuation
+    synonyms:
+      en: [open craniectomy evacuation]
+      el: [ανοιχτή κρανιεκτομή εκκένωσης]
+      cs: [evakuace otevřenou kraniektomií]
+  - key: stereotactic_aspiration
+    synonyms:
+      en: [stereotactic aspiration]
+      el: [στερεοτακτική αναρρόφηση]
+      cs: [stereotaktická aspirace]
+  - key: ventricular_drainage
+    synonyms:
+      en: [ventricular drainage]
+      el: [κοιλιακή παροχέτευση]
+      cs: [komorová drenáž]
+  - key: craniectomy
+    synonyms:
+      en: [craniectomy]
+      el: [κρανιεκτομή]
+      cs: [kraniektomie]
+  supported_by: api
+- canonical: NO_ANTICOAGULATION_REVERSAL_REASON
+  synonyms:
+    en: [reason for no anticoagulation reversal, no reversal reason]
+    el: [λόγος μη αναστροφής αντιπηκτικών]
+    cs: [důvod neprovedení reverze antikoagulace]
+  descriptions:
+    en: Reason for not initiating anticoagulant reversal for intracerebral hemorrhage.
+    es: Motivo por el que no se inició la reversión de la anticoagulación en hemorragia intracerebral.
+    el: Λόγος για τον οποίο δεν ξεκίνησε η αναστροφή αντιπηκτικών σε ενδοεγκεφαλική αιμορραγία.
+    cs: Důvod nezahájení reverze antikoagulace při intracerebrálním krvácení.
+  data_type: Enum
+  Enum:
+  - key: consent
+    synonyms:
+      en: [consent]
+      el: [συναίνεση]
+      cs: [souhlas]
+  - key: cost_of_drug
+    synonyms:
+      en: [cost of drug]
+      el: [κόστος φαρμάκου]
+      cs: [cena léku]
+  - key: not_available
+    synonyms:
+      en: [not available]
+      el: [μη διαθέσιμο]
+      cs: [nedostupné]
+  - key: no_licence
+    synonyms:
+      en: [no licence]
+      el: [χωρίς άδεια]
+      cs: [bez licence]
+  - key: criteria_not_met
+    synonyms:
+      en: [criteria not met]
+      el: [μη πλήρωση κριτηρίων]
+      cs: [nesplněná kritéria]
+  - key: missed_anticoagulation_dose
+    synonyms:
+      en: [missed anticoagulation dose]
+      el: [παράλειψη δόσης αντιπηκτικού]
+      cs: [vynechaná dávka antikoagulace]
+  - key: not_reported
+    synonyms:
+      en: [not reported]
+      el: [μη αναφερθέν]
+      cs: [nehlášeno]
+  supported_by: api
+- canonical: NO_ICH_TREATMENT_REASON
+  synonyms:
+    en: [reason for no ich treatment, no neurosurgery reason]
+    el: [λόγος μη θεραπείας ενδοεγκεφαλικής αιμορραγίας]
+    cs: [důvod neprovedení léčby intracerebrálního krvácení]
+  descriptions:
+    en: Reason why intracerebral hemorrhage was not treated with neurosurgery.
+    es: Motivo por el que la hemorragia intracerebral no fue tratada con neurocirugía.
+    el: Λόγος για τον οποίο η ενδοεγκεφαλική αιμορραγία δεν αντιμετωπίστηκε με νευροχειρουργική επέμβαση.
+    cs: Důvod, proč intracerebrální krvácení nebylo léčeno neurochirurgicky.
+  data_type: Enum
+  Enum:
+  - key: size_contraindication
+    synonyms:
+      en: [size contraindication]
+      el: [αντένδειξη μεγέθους]
+      cs: [kontraindikace velikosti]
+  - key: location_contraindication
+    synonyms:
+      en: [location contraindication]
+      el: [αντένδειξη εντόπισης]
+      cs: [kontraindikace lokalizace]
+  - key: consent
+    synonyms:
+      en: [consent]
+      el: [συναίνεση]
+      cs: [souhlas]
+  - key: cost_of_procedure
+    synonyms:
+      en: [cost of procedure]
+      el: [κόστος διαδικασίας]
+      cs: [cena výkonu]
+  - key: no_neurosurgery_facility
+    synonyms:
+      en: [no neurosurgery facility]
+      el: [χωρίς νευροχειρουργική μονάδα]
+      cs: [chybějící neurochirurgické pracoviště]
+  - key: no_specialist
+    synonyms:
+      en: [no specialist]
+      el: [χωρίς ειδικό ιατρό]
+      cs: [chybějící specialista]
+  - key: poor_prognosis
+    synonyms:
+      en: [poor prognosis]
+      el: [κακή πρόγνωση]
+      cs: [špatná prognóza]
+  - key: other
+    synonyms:
+      en: [other]
+      el: [άλλο]
+      cs: [jiné]
+  - key: not_reported
+    synonyms:
+      en: [not reported]
+      el: [μη αναφερθέν]
+      cs: [nehlášeno]
+  supported_by: api
+- canonical: STROKE_ETIOLOGY_RARE_TYPE_AIS_TIA
+  synonyms:
+    en: [rare stroke etiology, rare etiology type]
+    el: [σπάνια αιτιολογία εγκεφαλικού]
+    cs: [vzácná etiologie cévní mozkové příhody]
+  descriptions:
+    en: Rare types of determined etiologies, otherwise classified as 'other' in the main categorization.
+    es: Tipos raros de etiologías determinadas, clasificados de otro modo como 'otro' en la categorización principal.
+    el: Σπάνιοι τύποι προσδιορισμένων αιτιολογιών, που διαφορετικά ταξινομούνται ως 'άλλο' στην κύρια κατηγοριοποίηση.
+    cs: Vzácné typy určených etiologií, jinak klasifikované jako 'jiné' v hlavní kategorizaci.
+  data_type: Enum
+  Enum:
+  - key: vasculitis
+    synonyms:
+      en: [vasculitis]
+      el: [αγγειίτιδα]
+      cs: [vaskulitida]
+  - key: dissection
+    synonyms:
+      en: [dissection]
+      el: [διαχωρισμός]
+      cs: [disekce]
+  - key: coagulation_system_disorders
+    synonyms:
+      en: [coagulation system disorders]
+      el: [διαταραχές πηκτικού συστήματος]
+      cs: [poruchy koagulačního systému]
+  - key: hematological_disorders
+    synonyms:
+      en: [hematological disorders]
+      el: [αιματολογικές διαταραχές]
+      cs: [hematologické poruchy]
+  - key: fibromuscular_dysplasia
+    synonyms:
+      en: [fibromuscular dysplasia]
+      el: [ινομυϊκή δυσπλασία]
+      cs: [fibromuskulární dysplazie]
+  - key: reversible_cerebral_vasoconstriction_syndromes
+    synonyms:
+      en: [reversible cerebral vasoconstriction syndrome]
+      el: [αναστρέψιμο σύνδρομο εγκεφαλικής αγγειοσύσπασης]
+      cs: [syndrom reverzibilní cerebrální vazokonstrikce]
+  - key: radiation_induced_vasculopathy
+    synonyms:
+      en: [radiation induced vasculopathy]
+      el: [ακτινική αγγειοπάθεια]
+      cs: [radiací indukovaná vaskulopatie]
+  - key: moyamoya_disease
+    synonyms:
+      en: [moyamoya disease]
+      el: [νόσος moyamoya]
+      cs: [moyamoya nemoc]
+  - key: fabry_disease
+    synonyms:
+      en: [fabry disease]
+      el: [νόσος fabry]
+      cs: [fabryho nemoc]
+  - key: cadasil
+    synonyms:
+      en: [cadasil]
+      el: [cadasil]
+      cs: [cadasil]
+  - key: giant_cell_arteritis
+    synonyms:
+      en: [giant cell arteritis]
+      el: [αρτηρίτιδα γιγαντοκυττάρων]
+      cs: [obrovskobuněčná arteritida]
+  - key: antiphospholipid_syndrome
+    synonyms:
+      en: [antiphospholipid syndrome]
+      el: [αντιφωσφολιπιδικό σύνδρομο]
+      cs: [antifosfolipidový syndrom]
+  - key: sickle_cell_anemia
+    synonyms:
+      en: [sickle cell anemia]
+      el: [δρεπανοκυτταρική αναιμία]
+      cs: [srpkovitá anémie]
+  - key: migrainous_stroke
+    synonyms:
+      en: [migrainous stroke]
+      el: [ημικρανιακό εγκεφαλικό]
+      cs: [migrenózní cévní mozková příhoda]
+  - key: cerebral_venous_sinus_thrombosis
+    synonyms:
+      en: [cerebral venous sinus thrombosis]
+      el: [θρόμβωση φλεβώδους κόλπου εγκεφάλου]
+      cs: [trombóza mozkových žilních splavů]
+  supported_by: api
+- canonical: TENECTEPLASE_BRANDS
+  synonyms:
+    en: [tenecteplase brands, tenecteplase brand name]
+    el: [εμπορικές ονομασίες τενεκτεπλάσης]
+    cs: [obchodní názvy tenekteplázy]
+  descriptions:
+    en: Brands of tenecteplase thrombolytic drugs.
+    es: Marcas de fármacos trombolíticos de tenecteplasa.
+    el: Εμπορικές ονομασίες θρομβολυτικών φαρμάκων τενεκτεπλάσης.
+    cs: Obchodní názvy trombolytických léků tenekteplázy.
+  data_type: Enum
+  Enum:
+  - key: metalyse
+    synonyms:
+      en: [metalyse]
+      el: [metalyse]
+      cs: [metalyse]
+  - key: tenectase
+    synonyms:
+      en: [tenectase]
+      el: [tenectase]
+      cs: [tenectase]
+  - key: tnkase
+    synonyms:
+      en: [tnkase]
+      el: [tnkase]
+      cs: [tnkase]
+  - key: supraplase
+    synonyms:
+      en: [supraplase]
+      el: [supraplase]
+      cs: [supraplase]
+  - key: velix
+    synonyms:
+      en: [velix]
+      el: [velix]
+      cs: [velix]
+  - key: tenectelex
+    synonyms:
+      en: [tenectelex]
+      el: [tenectelex]
+      cs: [tenectelex]
+  - key: telyse
+    synonyms:
+      en: [telyse]
+      el: [telyse]
+      cs: [telyse]
+  - key: tenepact
+    synonyms:
+      en: [tenepact]
+      el: [tenepact]
+      cs: [tenepact]
+  - key: other
+    synonyms:
+      en: [other]
+      el: [άλλο]
+      cs: [jiné]
+  supported_by: api
