@@ -1521,8 +1521,8 @@
   Numeric:
     unit: minutes
     range_min: 0
-    range_max: 1440
-    default_buckets: 24
+    range_max: 520
+    default_buckets: 52
   supported_by: api
 - canonical: DTG_PRIMARY
   index: 44

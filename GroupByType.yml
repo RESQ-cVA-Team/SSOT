@@ -189,3 +189,14 @@
     el: Περιγραφή για YEAR
     cs: Popis pro YEAR
   supported_by: internal
+
+- canonical: HOSPITAL
+  synonyms:
+    en: [hospital, medical center, healthcare facility, inpatient facility]
+    el: [νοσοκομείο, ιατρικό κέντρο, εγκατάσταση υγειονομικής περίθαλψης, εγκατάσταση για νοσηλεία]
+    cs: [nemocnice, lékařské centrum, zdravotnické zařízení, lůžkové zařízení]
+  description:
+    en: Description for HOSPITAL
+    el: Περιγραφή για HOSPITAL
+    cs: Popis pro HOSPITAL
+  supported_by: internal
