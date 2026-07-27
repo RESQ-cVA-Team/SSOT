@@ -2,25 +2,25 @@
   synonyms:
     en:
       [
+        ">=",
         "GTE",
         "≥",
         "=>",
-        ">=",
         "greater than or equal",
         "at least",
         "no less than",
       ]
     el:
       [
+        ">=",
         "GTE",
         "≥",
         "=>",
-        ">=",
         "μεγαλύτερο ή ίσο",
         "τουλάχιστον",
         "όχι λιγότερο από",
       ]
-    cs: ["GTE", "≥", "=>", ">=", "větší nebo rovno", "alespoň", "ne méně než"]
+    cs: [">=", "GTE", "≥", "=>", "větší nebo rovno", "alespoň", "ne méně než"]
   description:
     en: Description for GE
     el: Description for GE in Greek
@@ -30,18 +30,18 @@
 - canonical: LE
   synonyms:
     en:
-      ["LTE", "≤", "<=", "=<", "less than or equal", "at most", "no more than"]
+      ["<=", "LTE", "≤", "=<", "less than or equal", "at most", "no more than"]
     el:
       [
+        "<=",
         "LTE",
         "≤",
-        "<=",
         "=<",
         "μικρότερο ή ίσο",
         "τουλάχιστον",
         "όχι περισσότερο από",
       ]
-    cs: ["LTE", "≤", "<=", "=<", "menší nebo rovno", "alespoň", "ne více než"]
+    cs: ["<=", "LTE", "≤", "=<", "menší nebo rovno", "alespoň", "ne více než"]
   description:
     en: Description for LE
     el: Description for LE in Greek
@@ -72,9 +72,9 @@
 
 - canonical: EQ
   synonyms:
-    en: ["==", "=", "equal to", "equals", "is"]
-    el: ["==", "=", "ίσο με", "ισούται", "είναι"]
-    cs: ["==", "=", "rovno", "rovné", "je"]
+    en: ["=", "==", "equal to", "equals", "is"]
+    el: ["=", "==", "ίσο με", "ισούται", "είναι"]
+    cs: ["=", "==", "rovno", "rovné", "je"]
   description:
     en: Description for EQ
     el: Description for EQ in Greek
