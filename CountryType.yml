@@ -1,0 +1,2738 @@
+- canonical: AD
+  synonyms:
+    en: ["Andorra"]
+    el: ["Ανδόρα"]
+    cs: ["Andorra"]
+  description:
+    en: Description for AD
+    el: Description for AD
+    cs: Description for AD
+  supported_by: api
+
+- canonical: AE
+  synonyms:
+    en: ["United Arab Emirates"]
+    el: ["Ηνωμένα Αραβικά Εμιράτα"]
+    cs: ["Spojené arabské emiráty"]
+  description:
+    en: Description for AE
+    el: Description for AE
+    cs: Description for AE
+  supported_by: api
+
+- canonical: AF
+  synonyms:
+    en: ["Afghanistan"]
+    el: ["Αφγανιστάν"]
+    cs: ["Afghánistán"]
+  description:
+    en: Description for AF
+    el: Description for AF
+    cs: Description for AF
+  supported_by: api
+
+- canonical: AG
+  synonyms:
+    en: ["Antigua & Barbuda"]
+    el: ["Αντίγκουα και Μπαρμπούντα"]
+    cs: ["Antigua a Barbuda"]
+  description:
+    en: Description for AG
+    el: Description for AG
+    cs: Description for AG
+  supported_by: api
+
+- canonical: AI
+  synonyms:
+    en: ["Anguilla"]
+    el: ["Ανγκουίλα"]
+    cs: ["Anguilla"]
+  description:
+    en: Description for AI
+    el: Description for AI
+    cs: Description for AI
+  supported_by: api
+
+- canonical: AL
+  synonyms:
+    en: ["Albania"]
+    el: ["Αλβανία"]
+    cs: ["Albánie"]
+  description:
+    en: Description for AL
+    el: Description for AL
+    cs: Description for AL
+  supported_by: api
+
+- canonical: AM
+  synonyms:
+    en: ["Armenia"]
+    el: ["Αρμενία"]
+    cs: ["Arménie"]
+  description:
+    en: Description for AM
+    el: Description for AM
+    cs: Description for AM
+  supported_by: api
+
+- canonical: AO
+  synonyms:
+    en: ["Angola"]
+    el: ["Αγκόλα"]
+    cs: ["Angola"]
+  description:
+    en: Description for AO
+    el: Description for AO
+    cs: Description for AO
+  supported_by: api
+
+- canonical: AQ
+  synonyms:
+    en: ["Antarctica"]
+    el: ["Ανταρκτική"]
+    cs: ["Antarktida"]
+  description:
+    en: Description for AQ
+    el: Description for AQ
+    cs: Description for AQ
+  supported_by: api
+
+- canonical: AR
+  synonyms:
+    en: ["Argentina"]
+    el: ["Αργεντινή"]
+    cs: ["Argentina"]
+  description:
+    en: Description for AR
+    el: Description for AR
+    cs: Description for AR
+  supported_by: api
+
+- canonical: AS
+  synonyms:
+    en: ["American Samoa"]
+    el: ["Αμερικανική Σαμόα"]
+    cs: ["Americká Samoa"]
+  description:
+    en: Description for AS
+    el: Description for AS
+    cs: Description for AS
+  supported_by: api
+
+- canonical: AT
+  synonyms:
+    en: ["Austria"]
+    el: ["Αυστρία"]
+    cs: ["Rakousko"]
+  description:
+    en: Description for AT
+    el: Description for AT
+    cs: Description for AT
+  supported_by: api
+
+- canonical: AU
+  synonyms:
+    en: ["Australia"]
+    el: ["Αυστραλία"]
+    cs: ["Austrálie"]
+  description:
+    en: Description for AU
+    el: Description for AU
+    cs: Description for AU
+  supported_by: api
+
+- canonical: AW
+  synonyms:
+    en: ["Aruba"]
+    el: ["Αρούμπα"]
+    cs: ["Aruba"]
+  description:
+    en: Description for AW
+    el: Description for AW
+    cs: Description for AW
+  supported_by: api
+
+- canonical: AX
+  synonyms:
+    en: ["Åland Islands"]
+    el: ["Νήσοι Όλαντ"]
+    cs: ["Ålandy"]
+  description:
+    en: Description for AX
+    el: Description for AX
+    cs: Description for AX
+  supported_by: api
+
+- canonical: AZ
+  synonyms:
+    en: ["Azerbaijan"]
+    el: ["Αζερμπαϊτζάν"]
+    cs: ["Ázerbájdžán"]
+  description:
+    en: Description for AZ
+    el: Description for AZ
+    cs: Description for AZ
+  supported_by: api
+
+- canonical: BA
+  synonyms:
+    en: ["Bosnia & Herzegovina"]
+    el: ["Βοσνία - Ερζεγοβίνη"]
+    cs: ["Bosna a Hercegovina"]
+  description:
+    en: Description for BA
+    el: Description for BA
+    cs: Description for BA
+  supported_by: api
+
+- canonical: BB
+  synonyms:
+    en: ["Barbados"]
+    el: ["Μπαρμπέιντος"]
+    cs: ["Barbados"]
+  description:
+    en: Description for BB
+    el: Description for BB
+    cs: Description for BB
+  supported_by: api
+
+- canonical: BD
+  synonyms:
+    en: ["Bangladesh"]
+    el: ["Μπανγκλαντές"]
+    cs: ["Bangladéš"]
+  description:
+    en: Description for BD
+    el: Description for BD
+    cs: Description for BD
+  supported_by: api
+
+- canonical: BE
+  synonyms:
+    en: ["Belgium"]
+    el: ["Βέλγιο"]
+    cs: ["Belgie"]
+  description:
+    en: Description for BE
+    el: Description for BE
+    cs: Description for BE
+  supported_by: api
+
+- canonical: BF
+  synonyms:
+    en: ["Burkina Faso"]
+    el: ["Μπουρκίνα Φάσο"]
+    cs: ["Burkina Faso"]
+  description:
+    en: Description for BF
+    el: Description for BF
+    cs: Description for BF
+  supported_by: api
+
+- canonical: BG
+  synonyms:
+    en: ["Bulgaria"]
+    el: ["Βουλγαρία"]
+    cs: ["Bulharsko"]
+  description:
+    en: Description for BG
+    el: Description for BG
+    cs: Description for BG
+  supported_by: api
+
+- canonical: BH
+  synonyms:
+    en: ["Bahrain"]
+    el: ["Μπαχρέιν"]
+    cs: ["Bahrajn"]
+  description:
+    en: Description for BH
+    el: Description for BH
+    cs: Description for BH
+  supported_by: api
+
+- canonical: BI
+  synonyms:
+    en: ["Burundi"]
+    el: ["Μπουρούντι"]
+    cs: ["Burundi"]
+  description:
+    en: Description for BI
+    el: Description for BI
+    cs: Description for BI
+  supported_by: api
+
+- canonical: BJ
+  synonyms:
+    en: ["Benin"]
+    el: ["Μπενίν"]
+    cs: ["Benin"]
+  description:
+    en: Description for BJ
+    el: Description for BJ
+    cs: Description for BJ
+  supported_by: api
+
+- canonical: BL
+  synonyms:
+    en: ["St. Barthélemy"]
+    el: ["Άγιος Βαρθολομαίος"]
+    cs: ["Svatý Bartoloměj"]
+  description:
+    en: Description for BL
+    el: Description for BL
+    cs: Description for BL
+  supported_by: api
+
+- canonical: BM
+  synonyms:
+    en: ["Bermuda"]
+    el: ["Βερμούδες"]
+    cs: ["Bermudy"]
+  description:
+    en: Description for BM
+    el: Description for BM
+    cs: Description for BM
+  supported_by: api
+
+- canonical: BN
+  synonyms:
+    en: ["Brunei"]
+    el: ["Μπρουνέι"]
+    cs: ["Brunej"]
+  description:
+    en: Description for BN
+    el: Description for BN
+    cs: Description for BN
+  supported_by: api
+
+- canonical: BO
+  synonyms:
+    en: ["Bolivia"]
+    el: ["Βολιβία"]
+    cs: ["Bolívie"]
+  description:
+    en: Description for BO
+    el: Description for BO
+    cs: Description for BO
+  supported_by: api
+
+- canonical: BQ
+  synonyms:
+    en: ["Caribbean Netherlands"]
+    el: ["Ολλανδία Καραϊβικής"]
+    cs: ["Karibské Nizozemsko"]
+  description:
+    en: Description for BQ
+    el: Description for BQ
+    cs: Description for BQ
+  supported_by: api
+
+- canonical: BR
+  synonyms:
+    en: ["Brazil"]
+    el: ["Βραζιλία"]
+    cs: ["Brazílie"]
+  description:
+    en: Description for BR
+    el: Description for BR
+    cs: Description for BR
+  supported_by: api
+
+- canonical: BS
+  synonyms:
+    en: ["Bahamas"]
+    el: ["Μπαχάμες"]
+    cs: ["Bahamy"]
+  description:
+    en: Description for BS
+    el: Description for BS
+    cs: Description for BS
+  supported_by: api
+
+- canonical: BT
+  synonyms:
+    en: ["Bhutan"]
+    el: ["Μπουτάν"]
+    cs: ["Bhútán"]
+  description:
+    en: Description for BT
+    el: Description for BT
+    cs: Description for BT
+  supported_by: api
+
+- canonical: BV
+  synonyms:
+    en: ["Bouvet Island"]
+    el: ["Νήσος Μπουβέ"]
+    cs: ["Bouvetův ostrov"]
+  description:
+    en: Description for BV
+    el: Description for BV
+    cs: Description for BV
+  supported_by: api
+
+- canonical: BW
+  synonyms:
+    en: ["Botswana"]
+    el: ["Μποτσουάνα"]
+    cs: ["Botswana"]
+  description:
+    en: Description for BW
+    el: Description for BW
+    cs: Description for BW
+  supported_by: api
+
+- canonical: BY
+  synonyms:
+    en: ["Belarus"]
+    el: ["Λευκορωσία"]
+    cs: ["Bělorusko"]
+  description:
+    en: Description for BY
+    el: Description for BY
+    cs: Description for BY
+  supported_by: api
+
+- canonical: BZ
+  synonyms:
+    en: ["Belize"]
+    el: ["Μπελίζ"]
+    cs: ["Belize"]
+  description:
+    en: Description for BZ
+    el: Description for BZ
+    cs: Description for BZ
+  supported_by: api
+
+- canonical: CA
+  synonyms:
+    en: ["Canada"]
+    el: ["Καναδάς"]
+    cs: ["Kanada"]
+  description:
+    en: Description for CA
+    el: Description for CA
+    cs: Description for CA
+  supported_by: api
+
+- canonical: CC
+  synonyms:
+    en: ["Cocos (Keeling) Islands"]
+    el: ["Νήσοι Κόκος (Κίλινγκ)"]
+    cs: ["Kokosové ostrovy"]
+  description:
+    en: Description for CC
+    el: Description for CC
+    cs: Description for CC
+  supported_by: api
+
+- canonical: CD
+  synonyms:
+    en: ["Congo - Kinshasa"]
+    el: ["Κονγκό - Κινσάσα"]
+    cs: ["Kongo – Kinshasa"]
+  description:
+    en: Description for CD
+    el: Description for CD
+    cs: Description for CD
+  supported_by: api
+
+- canonical: CF
+  synonyms:
+    en: ["Central African Republic"]
+    el: ["Κεντροαφρικανική Δημοκρατία"]
+    cs: ["Středoafrická republika"]
+  description:
+    en: Description for CF
+    el: Description for CF
+    cs: Description for CF
+  supported_by: api
+
+- canonical: CG
+  synonyms:
+    en: ["Congo - Brazzaville"]
+    el: ["Κονγκό - Μπραζαβίλ"]
+    cs: ["Kongo – Brazzaville"]
+  description:
+    en: Description for CG
+    el: Description for CG
+    cs: Description for CG
+  supported_by: api
+
+- canonical: CH
+  synonyms:
+    en: ["Switzerland"]
+    el: ["Ελβετία"]
+    cs: ["Švýcarsko"]
+  description:
+    en: Description for CH
+    el: Description for CH
+    cs: Description for CH
+  supported_by: api
+
+- canonical: CI
+  synonyms:
+    en: ["Côte d’Ivoire"]
+    el: ["Ακτή Ελεφαντοστού"]
+    cs: ["Pobřeží slonoviny"]
+  description:
+    en: Description for CI
+    el: Description for CI
+    cs: Description for CI
+  supported_by: api
+
+- canonical: CK
+  synonyms:
+    en: ["Cook Islands"]
+    el: ["Νήσοι Κουκ"]
+    cs: ["Cookovy ostrovy"]
+  description:
+    en: Description for CK
+    el: Description for CK
+    cs: Description for CK
+  supported_by: api
+
+- canonical: CL
+  synonyms:
+    en: ["Chile"]
+    el: ["Χιλή"]
+    cs: ["Chile"]
+  description:
+    en: Description for CL
+    el: Description for CL
+    cs: Description for CL
+  supported_by: api
+
+- canonical: CM
+  synonyms:
+    en: ["Cameroon"]
+    el: ["Καμερούν"]
+    cs: ["Kamerun"]
+  description:
+    en: Description for CM
+    el: Description for CM
+    cs: Description for CM
+  supported_by: api
+
+- canonical: CN
+  synonyms:
+    en: ["China"]
+    el: ["Κίνα"]
+    cs: ["Čína"]
+  description:
+    en: Description for CN
+    el: Description for CN
+    cs: Description for CN
+  supported_by: api
+
+- canonical: CO
+  synonyms:
+    en: ["Colombia"]
+    el: ["Κολομβία"]
+    cs: ["Kolumbie"]
+  description:
+    en: Description for CO
+    el: Description for CO
+    cs: Description for CO
+  supported_by: api
+
+- canonical: CR
+  synonyms:
+    en: ["Costa Rica"]
+    el: ["Κόστα Ρίκα"]
+    cs: ["Kostarika"]
+  description:
+    en: Description for CR
+    el: Description for CR
+    cs: Description for CR
+  supported_by: api
+
+- canonical: CU
+  synonyms:
+    en: ["Cuba"]
+    el: ["Κούβα"]
+    cs: ["Kuba"]
+  description:
+    en: Description for CU
+    el: Description for CU
+    cs: Description for CU
+  supported_by: api
+
+- canonical: CV
+  synonyms:
+    en: ["Cape Verde"]
+    el: ["Πράσινο Ακρωτήριο"]
+    cs: ["Kapverdy"]
+  description:
+    en: Description for CV
+    el: Description for CV
+    cs: Description for CV
+  supported_by: api
+
+- canonical: CW
+  synonyms:
+    en: ["Curaçao"]
+    el: ["Κουρασάο"]
+    cs: ["Curaçao"]
+  description:
+    en: Description for CW
+    el: Description for CW
+    cs: Description for CW
+  supported_by: api
+
+- canonical: CX
+  synonyms:
+    en: ["Christmas Island"]
+    el: ["Νήσος των Χριστουγέννων"]
+    cs: ["Vánoční ostrov"]
+  description:
+    en: Description for CX
+    el: Description for CX
+    cs: Description for CX
+  supported_by: api
+
+- canonical: CY
+  synonyms:
+    en: ["Cyprus"]
+    el: ["Κύπρος"]
+    cs: ["Kypr"]
+  description:
+    en: Description for CY
+    el: Description for CY
+    cs: Description for CY
+  supported_by: api
+
+- canonical: CZ
+  synonyms:
+    en: ["Czechia", "Czech Republic"]
+    el: ["Τσεχία"]
+    cs: ["Česko"]
+  description:
+    en: Description for CZ
+    el: Description for CZ
+    cs: Description for CZ
+  supported_by: api
+
+- canonical: DE
+  synonyms:
+    en: ["Germany"]
+    el: ["Γερμανία"]
+    cs: ["Německo"]
+  description:
+    en: Description for DE
+    el: Description for DE
+    cs: Description for DE
+  supported_by: api
+
+- canonical: DJ
+  synonyms:
+    en: ["Djibouti"]
+    el: ["Τζιμπουτί"]
+    cs: ["Džibutsko"]
+  description:
+    en: Description for DJ
+    el: Description for DJ
+    cs: Description for DJ
+  supported_by: api
+
+- canonical: DK
+  synonyms:
+    en: ["Denmark"]
+    el: ["Δανία"]
+    cs: ["Dánsko"]
+  description:
+    en: Description for DK
+    el: Description for DK
+    cs: Description for DK
+  supported_by: api
+
+- canonical: DM
+  synonyms:
+    en: ["Dominica"]
+    el: ["Ντομίνικα"]
+    cs: ["Dominika"]
+  description:
+    en: Description for DM
+    el: Description for DM
+    cs: Description for DM
+  supported_by: api
+
+- canonical: DO
+  synonyms:
+    en: ["Dominican Republic"]
+    el: ["Δομινικανή Δημοκρατία"]
+    cs: ["Dominikánská republika"]
+  description:
+    en: Description for DO
+    el: Description for DO
+    cs: Description for DO
+  supported_by: api
+
+- canonical: DZ
+  synonyms:
+    en: ["Algeria"]
+    el: ["Αλγερία"]
+    cs: ["Alžírsko"]
+  description:
+    en: Description for DZ
+    el: Description for DZ
+    cs: Description for DZ
+  supported_by: api
+
+- canonical: EC
+  synonyms:
+    en: ["Ecuador"]
+    el: ["Ισημερινός"]
+    cs: ["Ekvádor"]
+  description:
+    en: Description for EC
+    el: Description for EC
+    cs: Description for EC
+  supported_by: api
+
+- canonical: EE
+  synonyms:
+    en: ["Estonia"]
+    el: ["Εσθονία"]
+    cs: ["Estonsko"]
+  description:
+    en: Description for EE
+    el: Description for EE
+    cs: Description for EE
+  supported_by: api
+
+- canonical: EG
+  synonyms:
+    en: ["Egypt"]
+    el: ["Αίγυπτος"]
+    cs: ["Egypt"]
+  description:
+    en: Description for EG
+    el: Description for EG
+    cs: Description for EG
+  supported_by: api
+
+- canonical: EH
+  synonyms:
+    en: ["Western Sahara"]
+    el: ["Δυτική Σαχάρα"]
+    cs: ["Západní Sahara"]
+  description:
+    en: Description for EH
+    el: Description for EH
+    cs: Description for EH
+  supported_by: api
+
+- canonical: ER
+  synonyms:
+    en: ["Eritrea"]
+    el: ["Ερυθραία"]
+    cs: ["Eritrea"]
+  description:
+    en: Description for ER
+    el: Description for ER
+    cs: Description for ER
+  supported_by: api
+
+- canonical: ES
+  synonyms:
+    en: ["Spain", "Espana", "España"]
+    el: ["Ισπανία"]
+    cs: ["Španělsko"]
+  description:
+    en: Description for ES
+    el: Description for ES
+    cs: Description for ES
+  supported_by: api
+
+- canonical: ET
+  synonyms:
+    en: ["Ethiopia"]
+    el: ["Αιθιοπία"]
+    cs: ["Etiopie"]
+  description:
+    en: Description for ET
+    el: Description for ET
+    cs: Description for ET
+  supported_by: api
+
+- canonical: FI
+  synonyms:
+    en: ["Finland"]
+    el: ["Φινλανδία"]
+    cs: ["Finsko"]
+  description:
+    en: Description for FI
+    el: Description for FI
+    cs: Description for FI
+  supported_by: api
+
+- canonical: FJ
+  synonyms:
+    en: ["Fiji"]
+    el: ["Φίτζι"]
+    cs: ["Fidži"]
+  description:
+    en: Description for FJ
+    el: Description for FJ
+    cs: Description for FJ
+  supported_by: api
+
+- canonical: FK
+  synonyms:
+    en: ["Falkland Islands"]
+    el: ["Νήσοι Φόκλαντ"]
+    cs: ["Falklandské ostrovy"]
+  description:
+    en: Description for FK
+    el: Description for FK
+    cs: Description for FK
+  supported_by: api
+
+- canonical: FM
+  synonyms:
+    en: ["Micronesia"]
+    el: ["Μικρονησία"]
+    cs: ["Mikronésie"]
+  description:
+    en: Description for FM
+    el: Description for FM
+    cs: Description for FM
+  supported_by: api
+
+- canonical: FO
+  synonyms:
+    en: ["Faroe Islands"]
+    el: ["Νήσοι Φερόες"]
+    cs: ["Faerské ostrovy"]
+  description:
+    en: Description for FO
+    el: Description for FO
+    cs: Description for FO
+  supported_by: api
+
+- canonical: FR
+  synonyms:
+    en: ["France"]
+    el: ["Γαλλία"]
+    cs: ["Francie"]
+  description:
+    en: Description for FR
+    el: Description for FR
+    cs: Description for FR
+  supported_by: api
+
+- canonical: GA
+  synonyms:
+    en: ["Gabon"]
+    el: ["Γκαμπόν"]
+    cs: ["Gabon"]
+  description:
+    en: Description for GA
+    el: Description for GA
+    cs: Description for GA
+  supported_by: api
+
+- canonical: GB
+  synonyms:
+    en: ["United Kingdom", "UK", "Great Britain"]
+    el: ["Ηνωμένο Βασίλειο", "UK"]
+    cs: ["Spojené království", "Velká Británie", "UK"]
+  description:
+    en: Description for GB
+    el: Description for GB
+    cs: Description for GB
+  supported_by: api
+
+- canonical: GD
+  synonyms:
+    en: ["Grenada"]
+    el: ["Γρενάδα"]
+    cs: ["Grenada"]
+  description:
+    en: Description for GD
+    el: Description for GD
+    cs: Description for GD
+  supported_by: api
+
+- canonical: GE
+  synonyms:
+    en: ["Georgia"]
+    el: ["Γεωργία"]
+    cs: ["Gruzie"]
+  description:
+    en: Description for GE
+    el: Description for GE
+    cs: Description for GE
+  supported_by: api
+
+- canonical: GF
+  synonyms:
+    en: ["French Guiana"]
+    el: ["Γαλλική Γουιάνα"]
+    cs: ["Francouzská Guyana"]
+  description:
+    en: Description for GF
+    el: Description for GF
+    cs: Description for GF
+  supported_by: api
+
+- canonical: GG
+  synonyms:
+    en: ["Guernsey"]
+    el: ["Γκέρνζι"]
+    cs: ["Guernsey"]
+  description:
+    en: Description for GG
+    el: Description for GG
+    cs: Description for GG
+  supported_by: api
+
+- canonical: GH
+  synonyms:
+    en: ["Ghana"]
+    el: ["Γκάνα"]
+    cs: ["Ghana"]
+  description:
+    en: Description for GH
+    el: Description for GH
+    cs: Description for GH
+  supported_by: api
+
+- canonical: GI
+  synonyms:
+    en: ["Gibraltar"]
+    el: ["Γιβραλτάρ"]
+    cs: ["Gibraltar"]
+  description:
+    en: Description for GI
+    el: Description for GI
+    cs: Description for GI
+  supported_by: api
+
+- canonical: GL
+  synonyms:
+    en: ["Greenland"]
+    el: ["Γροιλανδία"]
+    cs: ["Grónsko"]
+  description:
+    en: Description for GL
+    el: Description for GL
+    cs: Description for GL
+  supported_by: api
+
+- canonical: GM
+  synonyms:
+    en: ["Gambia"]
+    el: ["Γκάμπια"]
+    cs: ["Gambie"]
+  description:
+    en: Description for GM
+    el: Description for GM
+    cs: Description for GM
+  supported_by: api
+
+- canonical: GN
+  synonyms:
+    en: ["Guinea"]
+    el: ["Γουινέα"]
+    cs: ["Guinea"]
+  description:
+    en: Description for GN
+    el: Description for GN
+    cs: Description for GN
+  supported_by: api
+
+- canonical: GP
+  synonyms:
+    en: ["Guadeloupe"]
+    el: ["Γουαδελούπη"]
+    cs: ["Guadeloupe"]
+  description:
+    en: Description for GP
+    el: Description for GP
+    cs: Description for GP
+  supported_by: api
+
+- canonical: GQ
+  synonyms:
+    en: ["Equatorial Guinea"]
+    el: ["Ισημερινή Γουινέα"]
+    cs: ["Rovníková Guinea"]
+  description:
+    en: Description for GQ
+    el: Description for GQ
+    cs: Description for GQ
+  supported_by: api
+
+- canonical: GR
+  synonyms:
+    en: ["Greece"]
+    el: ["Ελλάδα"]
+    cs: ["Řecko"]
+  description:
+    en: Description for GR
+    el: Description for GR
+    cs: Description for GR
+  supported_by: api
+
+- canonical: GS
+  synonyms:
+    en: ["South Georgia & South Sandwich Islands"]
+    el: ["Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς"]
+    cs: ["Jižní Georgie a Jižní Sandwichovy ostrovy"]
+  description:
+    en: Description for GS
+    el: Description for GS
+    cs: Description for GS
+  supported_by: api
+
+- canonical: GT
+  synonyms:
+    en: ["Guatemala"]
+    el: ["Γουατεμάλα"]
+    cs: ["Guatemala"]
+  description:
+    en: Description for GT
+    el: Description for GT
+    cs: Description for GT
+  supported_by: api
+
+- canonical: GU
+  synonyms:
+    en: ["Guam"]
+    el: ["Γκουάμ"]
+    cs: ["Guam"]
+  description:
+    en: Description for GU
+    el: Description for GU
+    cs: Description for GU
+  supported_by: api
+
+- canonical: GW
+  synonyms:
+    en: ["Guinea-Bissau"]
+    el: ["Γουινέα Μπισάου"]
+    cs: ["Guinea-Bissau"]
+  description:
+    en: Description for GW
+    el: Description for GW
+    cs: Description for GW
+  supported_by: api
+
+- canonical: GY
+  synonyms:
+    en: ["Guyana"]
+    el: ["Γουιάνα"]
+    cs: ["Guyana"]
+  description:
+    en: Description for GY
+    el: Description for GY
+    cs: Description for GY
+  supported_by: api
+
+- canonical: HK
+  synonyms:
+    en: ["Hong Kong SAR China"]
+    el: ["Χονγκ Κονγκ ΕΔΠ Κίνας"]
+    cs: ["Hongkong – ZAO Číny"]
+  description:
+    en: Description for HK
+    el: Description for HK
+    cs: Description for HK
+  supported_by: api
+
+- canonical: HM
+  synonyms:
+    en: ["Heard & McDonald Islands"]
+    el: ["Νήσοι Χερντ και Μακντόναλντ"]
+    cs: ["Heardův ostrov a McDonaldovy ostrovy"]
+  description:
+    en: Description for HM
+    el: Description for HM
+    cs: Description for HM
+  supported_by: api
+
+- canonical: HN
+  synonyms:
+    en: ["Honduras"]
+    el: ["Ονδούρα"]
+    cs: ["Honduras"]
+  description:
+    en: Description for HN
+    el: Description for HN
+    cs: Description for HN
+  supported_by: api
+
+- canonical: HR
+  synonyms:
+    en: ["Croatia"]
+    el: ["Κροατία"]
+    cs: ["Chorvatsko"]
+  description:
+    en: Description for HR
+    el: Description for HR
+    cs: Description for HR
+  supported_by: api
+
+- canonical: HT
+  synonyms:
+    en: ["Haiti"]
+    el: ["Αϊτή"]
+    cs: ["Haiti"]
+  description:
+    en: Description for HT
+    el: Description for HT
+    cs: Description for HT
+  supported_by: api
+
+- canonical: HU
+  synonyms:
+    en: ["Hungary"]
+    el: ["Ουγγαρία"]
+    cs: ["Maďarsko"]
+  description:
+    en: Description for HU
+    el: Description for HU
+    cs: Description for HU
+  supported_by: api
+
+- canonical: ID
+  synonyms:
+    en: ["Indonesia"]
+    el: ["Ινδονησία"]
+    cs: ["Indonésie"]
+  description:
+    en: Description for ID
+    el: Description for ID
+    cs: Description for ID
+  supported_by: api
+
+- canonical: IE
+  synonyms:
+    en: ["Ireland"]
+    el: ["Ιρλανδία"]
+    cs: ["Irsko"]
+  description:
+    en: Description for IE
+    el: Description for IE
+    cs: Description for IE
+  supported_by: api
+
+- canonical: IL
+  synonyms:
+    en: ["Israel"]
+    el: ["Ισραήλ"]
+    cs: ["Izrael"]
+  description:
+    en: Description for IL
+    el: Description for IL
+    cs: Description for IL
+  supported_by: api
+
+- canonical: IM
+  synonyms:
+    en: ["Isle of Man"]
+    el: ["Νήσος του Μαν"]
+    cs: ["Ostrov Man"]
+  description:
+    en: Description for IM
+    el: Description for IM
+    cs: Description for IM
+  supported_by: api
+
+- canonical: IN
+  synonyms:
+    en: ["India"]
+    el: ["Ινδία"]
+    cs: ["Indie"]
+  description:
+    en: Description for IN
+    el: Description for IN
+    cs: Description for IN
+  supported_by: api
+
+- canonical: IO
+  synonyms:
+    en: ["British Indian Ocean Territory"]
+    el: ["Βρετανικά Εδάφη Ινδικού Ωκεανού"]
+    cs: ["Britské indickooceánské území"]
+  description:
+    en: Description for IO
+    el: Description for IO
+    cs: Description for IO
+  supported_by: api
+
+- canonical: IQ
+  synonyms:
+    en: ["Iraq"]
+    el: ["Ιράκ"]
+    cs: ["Irák"]
+  description:
+    en: Description for IQ
+    el: Description for IQ
+    cs: Description for IQ
+  supported_by: api
+
+- canonical: IR
+  synonyms:
+    en: ["Iran"]
+    el: ["Ιράν"]
+    cs: ["Írán"]
+  description:
+    en: Description for IR
+    el: Description for IR
+    cs: Description for IR
+  supported_by: api
+
+- canonical: IS
+  synonyms:
+    en: ["Iceland"]
+    el: ["Ισλανδία"]
+    cs: ["Island"]
+  description:
+    en: Description for IS
+    el: Description for IS
+    cs: Description for IS
+  supported_by: api
+
+- canonical: IT
+  synonyms:
+    en: ["Italy"]
+    el: ["Ιταλία"]
+    cs: ["Itálie"]
+  description:
+    en: Description for IT
+    el: Description for IT
+    cs: Description for IT
+  supported_by: api
+
+- canonical: JE
+  synonyms:
+    en: ["Jersey"]
+    el: ["Τζέρζι"]
+    cs: ["Jersey"]
+  description:
+    en: Description for JE
+    el: Description for JE
+    cs: Description for JE
+  supported_by: api
+
+- canonical: JM
+  synonyms:
+    en: ["Jamaica"]
+    el: ["Τζαμάικα"]
+    cs: ["Jamajka"]
+  description:
+    en: Description for JM
+    el: Description for JM
+    cs: Description for JM
+  supported_by: api
+
+- canonical: JO
+  synonyms:
+    en: ["Jordan"]
+    el: ["Ιορδανία"]
+    cs: ["Jordánsko"]
+  description:
+    en: Description for JO
+    el: Description for JO
+    cs: Description for JO
+  supported_by: api
+
+- canonical: JP
+  synonyms:
+    en: ["Japan"]
+    el: ["Ιαπωνία"]
+    cs: ["Japonsko"]
+  description:
+    en: Description for JP
+    el: Description for JP
+    cs: Description for JP
+  supported_by: api
+
+- canonical: KE
+  synonyms:
+    en: ["Kenya"]
+    el: ["Κένυα"]
+    cs: ["Keňa"]
+  description:
+    en: Description for KE
+    el: Description for KE
+    cs: Description for KE
+  supported_by: api
+
+- canonical: KG
+  synonyms:
+    en: ["Kyrgyzstan"]
+    el: ["Κιργιστάν"]
+    cs: ["Kyrgyzstán"]
+  description:
+    en: Description for KG
+    el: Description for KG
+    cs: Description for KG
+  supported_by: api
+
+- canonical: KH
+  synonyms:
+    en: ["Cambodia"]
+    el: ["Καμπότζη"]
+    cs: ["Kambodža"]
+  description:
+    en: Description for KH
+    el: Description for KH
+    cs: Description for KH
+  supported_by: api
+
+- canonical: KI
+  synonyms:
+    en: ["Kiribati"]
+    el: ["Κιριμπάτι"]
+    cs: ["Kiribati"]
+  description:
+    en: Description for KI
+    el: Description for KI
+    cs: Description for KI
+  supported_by: api
+
+- canonical: KM
+  synonyms:
+    en: ["Comoros"]
+    el: ["Κομόρες"]
+    cs: ["Komory"]
+  description:
+    en: Description for KM
+    el: Description for KM
+    cs: Description for KM
+  supported_by: api
+
+- canonical: KN
+  synonyms:
+    en: ["St. Kitts & Nevis"]
+    el: ["Σεν Κιτς και Νέβις"]
+    cs: ["Svatý Kryštof a Nevis"]
+  description:
+    en: Description for KN
+    el: Description for KN
+    cs: Description for KN
+  supported_by: api
+
+- canonical: KP
+  synonyms:
+    en: ["North Korea"]
+    el: ["Βόρεια Κορέα"]
+    cs: ["Severní Korea"]
+  description:
+    en: Description for KP
+    el: Description for KP
+    cs: Description for KP
+  supported_by: api
+
+- canonical: KR
+  synonyms:
+    en: ["South Korea"]
+    el: ["Νότια Κορέα"]
+    cs: ["Jižní Korea"]
+  description:
+    en: Description for KR
+    el: Description for KR
+    cs: Description for KR
+  supported_by: api
+
+- canonical: KW
+  synonyms:
+    en: ["Kuwait"]
+    el: ["Κουβέιτ"]
+    cs: ["Kuvajt"]
+  description:
+    en: Description for KW
+    el: Description for KW
+    cs: Description for KW
+  supported_by: api
+
+- canonical: KY
+  synonyms:
+    en: ["Cayman Islands"]
+    el: ["Νήσοι Κέιμαν"]
+    cs: ["Kajmanské ostrovy"]
+  description:
+    en: Description for KY
+    el: Description for KY
+    cs: Description for KY
+  supported_by: api
+
+- canonical: KZ
+  synonyms:
+    en: ["Kazakhstan"]
+    el: ["Καζακστάν"]
+    cs: ["Kazachstán"]
+  description:
+    en: Description for KZ
+    el: Description for KZ
+    cs: Description for KZ
+  supported_by: api
+
+- canonical: LA
+  synonyms:
+    en: ["Laos"]
+    el: ["Λάος"]
+    cs: ["Laos"]
+  description:
+    en: Description for LA
+    el: Description for LA
+    cs: Description for LA
+  supported_by: api
+
+- canonical: LB
+  synonyms:
+    en: ["Lebanon"]
+    el: ["Λίβανος"]
+    cs: ["Libanon"]
+  description:
+    en: Description for LB
+    el: Description for LB
+    cs: Description for LB
+  supported_by: api
+
+- canonical: LC
+  synonyms:
+    en: ["St. Lucia"]
+    el: ["Αγία Λουκία"]
+    cs: ["Svatá Lucie"]
+  description:
+    en: Description for LC
+    el: Description for LC
+    cs: Description for LC
+  supported_by: api
+
+- canonical: LI
+  synonyms:
+    en: ["Liechtenstein"]
+    el: ["Λιχτενστάιν"]
+    cs: ["Lichtenštejnsko"]
+  description:
+    en: Description for LI
+    el: Description for LI
+    cs: Description for LI
+  supported_by: api
+
+- canonical: LK
+  synonyms:
+    en: ["Sri Lanka"]
+    el: ["Σρι Λάνκα"]
+    cs: ["Srí Lanka"]
+  description:
+    en: Description for LK
+    el: Description for LK
+    cs: Description for LK
+  supported_by: api
+
+- canonical: LR
+  synonyms:
+    en: ["Liberia"]
+    el: ["Λιβερία"]
+    cs: ["Libérie"]
+  description:
+    en: Description for LR
+    el: Description for LR
+    cs: Description for LR
+  supported_by: api
+
+- canonical: LS
+  synonyms:
+    en: ["Lesotho"]
+    el: ["Λεσότο"]
+    cs: ["Lesotho"]
+  description:
+    en: Description for LS
+    el: Description for LS
+    cs: Description for LS
+  supported_by: api
+
+- canonical: LT
+  synonyms:
+    en: ["Lithuania"]
+    el: ["Λιθουανία"]
+    cs: ["Litva"]
+  description:
+    en: Description for LT
+    el: Description for LT
+    cs: Description for LT
+  supported_by: api
+
+- canonical: LU
+  synonyms:
+    en: ["Luxembourg"]
+    el: ["Λουξεμβούργο"]
+    cs: ["Lucembursko"]
+  description:
+    en: Description for LU
+    el: Description for LU
+    cs: Description for LU
+  supported_by: api
+
+- canonical: LV
+  synonyms:
+    en: ["Latvia"]
+    el: ["Λετονία"]
+    cs: ["Lotyšsko"]
+  description:
+    en: Description for LV
+    el: Description for LV
+    cs: Description for LV
+  supported_by: api
+
+- canonical: LY
+  synonyms:
+    en: ["Libya"]
+    el: ["Λιβύη"]
+    cs: ["Libye"]
+  description:
+    en: Description for LY
+    el: Description for LY
+    cs: Description for LY
+  supported_by: api
+
+- canonical: MA
+  synonyms:
+    en: ["Morocco"]
+    el: ["Μαρόκο"]
+    cs: ["Maroko"]
+  description:
+    en: Description for MA
+    el: Description for MA
+    cs: Description for MA
+  supported_by: api
+
+- canonical: MC
+  synonyms:
+    en: ["Monaco"]
+    el: ["Μονακό"]
+    cs: ["Monako"]
+  description:
+    en: Description for MC
+    el: Description for MC
+    cs: Description for MC
+  supported_by: api
+
+- canonical: MD
+  synonyms:
+    en: ["Moldova"]
+    el: ["Μολδαβία"]
+    cs: ["Moldavsko"]
+  description:
+    en: Description for MD
+    el: Description for MD
+    cs: Description for MD
+  supported_by: api
+
+- canonical: ME
+  synonyms:
+    en: ["Montenegro"]
+    el: ["Μαυροβούνιο"]
+    cs: ["Černá Hora"]
+  description:
+    en: Description for ME
+    el: Description for ME
+    cs: Description for ME
+  supported_by: api
+
+- canonical: MF
+  synonyms:
+    en: ["St. Martin"]
+    el: ["Άγιος Μαρτίνος (Γαλλικό τμήμα)"]
+    cs: ["Svatý Martin (Francie)"]
+  description:
+    en: Description for MF
+    el: Description for MF
+    cs: Description for MF
+  supported_by: api
+
+- canonical: MG
+  synonyms:
+    en: ["Madagascar"]
+    el: ["Μαδαγασκάρη"]
+    cs: ["Madagaskar"]
+  description:
+    en: Description for MG
+    el: Description for MG
+    cs: Description for MG
+  supported_by: api
+
+- canonical: MH
+  synonyms:
+    en: ["Marshall Islands"]
+    el: ["Νήσοι Μάρσαλ"]
+    cs: ["Marshallovy ostrovy"]
+  description:
+    en: Description for MH
+    el: Description for MH
+    cs: Description for MH
+  supported_by: api
+
+- canonical: MK
+  synonyms:
+    en: ["North Macedonia"]
+    el: ["Βόρεια Μακεδονία"]
+    cs: ["Severní Makedonie"]
+  description:
+    en: Description for MK
+    el: Description for MK
+    cs: Description for MK
+  supported_by: api
+
+- canonical: ML
+  synonyms:
+    en: ["Mali"]
+    el: ["Μάλι"]
+    cs: ["Mali"]
+  description:
+    en: Description for ML
+    el: Description for ML
+    cs: Description for ML
+  supported_by: api
+
+- canonical: MM
+  synonyms:
+    en: ["Myanmar (Burma)"]
+    el: ["Μιανμάρ (Βιρμανία)"]
+    cs: ["Myanmar (Barma)"]
+  description:
+    en: Description for MM
+    el: Description for MM
+    cs: Description for MM
+  supported_by: api
+
+- canonical: MN
+  synonyms:
+    en: ["Mongolia"]
+    el: ["Μογγολία"]
+    cs: ["Mongolsko"]
+  description:
+    en: Description for MN
+    el: Description for MN
+    cs: Description for MN
+  supported_by: api
+
+- canonical: MO
+  synonyms:
+    en: ["Macao SAR China"]
+    el: ["Μακάο ΕΔΠ Κίνας"]
+    cs: ["Macao – ZAO Číny"]
+  description:
+    en: Description for MO
+    el: Description for MO
+    cs: Description for MO
+  supported_by: api
+
+- canonical: MP
+  synonyms:
+    en: ["Northern Mariana Islands"]
+    el: ["Νήσοι Βόρειες Μαριάνες"]
+    cs: ["Severní Mariany"]
+  description:
+    en: Description for MP
+    el: Description for MP
+    cs: Description for MP
+  supported_by: api
+
+- canonical: MQ
+  synonyms:
+    en: ["Martinique"]
+    el: ["Μαρτινίκα"]
+    cs: ["Martinik"]
+  description:
+    en: Description for MQ
+    el: Description for MQ
+    cs: Description for MQ
+  supported_by: api
+
+- canonical: MR
+  synonyms:
+    en: ["Mauritania"]
+    el: ["Μαυριτανία"]
+    cs: ["Mauritánie"]
+  description:
+    en: Description for MR
+    el: Description for MR
+    cs: Description for MR
+  supported_by: api
+
+- canonical: MS
+  synonyms:
+    en: ["Montserrat"]
+    el: ["Μονσεράτ"]
+    cs: ["Montserrat"]
+  description:
+    en: Description for MS
+    el: Description for MS
+    cs: Description for MS
+  supported_by: api
+
+- canonical: MT
+  synonyms:
+    en: ["Malta"]
+    el: ["Μάλτα"]
+    cs: ["Malta"]
+  description:
+    en: Description for MT
+    el: Description for MT
+    cs: Description for MT
+  supported_by: api
+
+- canonical: MU
+  synonyms:
+    en: ["Mauritius"]
+    el: ["Μαυρίκιος"]
+    cs: ["Mauricius"]
+  description:
+    en: Description for MU
+    el: Description for MU
+    cs: Description for MU
+  supported_by: api
+
+- canonical: MV
+  synonyms:
+    en: ["Maldives"]
+    el: ["Μαλδίβες"]
+    cs: ["Maledivy"]
+  description:
+    en: Description for MV
+    el: Description for MV
+    cs: Description for MV
+  supported_by: api
+
+- canonical: MW
+  synonyms:
+    en: ["Malawi"]
+    el: ["Μαλάουι"]
+    cs: ["Malawi"]
+  description:
+    en: Description for MW
+    el: Description for MW
+    cs: Description for MW
+  supported_by: api
+
+- canonical: MX
+  synonyms:
+    en: ["Mexico", "México"]
+    el: ["Μεξικό"]
+    cs: ["Mexiko"]
+  description:
+    en: Description for MX
+    el: Description for MX
+    cs: Description for MX
+  supported_by: api
+
+- canonical: MY
+  synonyms:
+    en: ["Malaysia"]
+    el: ["Μαλαισία"]
+    cs: ["Malajsie"]
+  description:
+    en: Description for MY
+    el: Description for MY
+    cs: Description for MY
+  supported_by: api
+
+- canonical: MZ
+  synonyms:
+    en: ["Mozambique"]
+    el: ["Μοζαμβίκη"]
+    cs: ["Mosambik"]
+  description:
+    en: Description for MZ
+    el: Description for MZ
+    cs: Description for MZ
+  supported_by: api
+
+- canonical: NA
+  synonyms:
+    en: ["Namibia"]
+    el: ["Ναμίμπια"]
+    cs: ["Namibie"]
+  description:
+    en: Description for NA
+    el: Description for NA
+    cs: Description for NA
+  supported_by: api
+
+- canonical: NC
+  synonyms:
+    en: ["New Caledonia"]
+    el: ["Νέα Καληδονία"]
+    cs: ["Nová Kaledonie"]
+  description:
+    en: Description for NC
+    el: Description for NC
+    cs: Description for NC
+  supported_by: api
+
+- canonical: NE
+  synonyms:
+    en: ["Niger"]
+    el: ["Νίγηρας"]
+    cs: ["Niger"]
+  description:
+    en: Description for NE
+    el: Description for NE
+    cs: Description for NE
+  supported_by: api
+
+- canonical: NF
+  synonyms:
+    en: ["Norfolk Island"]
+    el: ["Νήσος Νόρφολκ"]
+    cs: ["Norfolk"]
+  description:
+    en: Description for NF
+    el: Description for NF
+    cs: Description for NF
+  supported_by: api
+
+- canonical: NG
+  synonyms:
+    en: ["Nigeria"]
+    el: ["Νιγηρία"]
+    cs: ["Nigérie"]
+  description:
+    en: Description for NG
+    el: Description for NG
+    cs: Description for NG
+  supported_by: api
+
+- canonical: NI
+  synonyms:
+    en: ["Nicaragua"]
+    el: ["Νικαράγουα"]
+    cs: ["Nikaragua"]
+  description:
+    en: Description for NI
+    el: Description for NI
+    cs: Description for NI
+  supported_by: api
+
+- canonical: NL
+  synonyms:
+    en: ["Netherlands"]
+    el: ["Ολλανδία"]
+    cs: ["Nizozemsko"]
+  description:
+    en: Description for NL
+    el: Description for NL
+    cs: Description for NL
+  supported_by: api
+
+- canonical: NO
+  synonyms:
+    en: ["Norway"]
+    el: ["Νορβηγία"]
+    cs: ["Norsko"]
+  description:
+    en: Description for NO
+    el: Description for NO
+    cs: Description for NO
+  supported_by: api
+
+- canonical: NP
+  synonyms:
+    en: ["Nepal"]
+    el: ["Νεπάλ"]
+    cs: ["Nepál"]
+  description:
+    en: Description for NP
+    el: Description for NP
+    cs: Description for NP
+  supported_by: api
+
+- canonical: NR
+  synonyms:
+    en: ["Nauru"]
+    el: ["Ναουρού"]
+    cs: ["Nauru"]
+  description:
+    en: Description for NR
+    el: Description for NR
+    cs: Description for NR
+  supported_by: api
+
+- canonical: NU
+  synonyms:
+    en: ["Niue"]
+    el: ["Νιούε"]
+    cs: ["Niue"]
+  description:
+    en: Description for NU
+    el: Description for NU
+    cs: Description for NU
+  supported_by: api
+
+- canonical: NZ
+  synonyms:
+    en: ["New Zealand"]
+    el: ["Νέα Ζηλανδία"]
+    cs: ["Nový Zéland"]
+  description:
+    en: Description for NZ
+    el: Description for NZ
+    cs: Description for NZ
+  supported_by: api
+
+- canonical: OM
+  synonyms:
+    en: ["Oman"]
+    el: ["Ομάν"]
+    cs: ["Omán"]
+  description:
+    en: Description for OM
+    el: Description for OM
+    cs: Description for OM
+  supported_by: api
+
+- canonical: PA
+  synonyms:
+    en: ["Panama"]
+    el: ["Παναμάς"]
+    cs: ["Panama"]
+  description:
+    en: Description for PA
+    el: Description for PA
+    cs: Description for PA
+  supported_by: api
+
+- canonical: PE
+  synonyms:
+    en: ["Peru"]
+    el: ["Περού"]
+    cs: ["Peru"]
+  description:
+    en: Description for PE
+    el: Description for PE
+    cs: Description for PE
+  supported_by: api
+
+- canonical: PF
+  synonyms:
+    en: ["French Polynesia"]
+    el: ["Γαλλική Πολυνησία"]
+    cs: ["Francouzská Polynésie"]
+  description:
+    en: Description for PF
+    el: Description for PF
+    cs: Description for PF
+  supported_by: api
+
+- canonical: PG
+  synonyms:
+    en: ["Papua New Guinea"]
+    el: ["Παπούα Νέα Γουινέα"]
+    cs: ["Papua-Nová Guinea"]
+  description:
+    en: Description for PG
+    el: Description for PG
+    cs: Description for PG
+  supported_by: api
+
+- canonical: PH
+  synonyms:
+    en: ["Philippines"]
+    el: ["Φιλιππίνες"]
+    cs: ["Filipíny"]
+  description:
+    en: Description for PH
+    el: Description for PH
+    cs: Description for PH
+  supported_by: api
+
+- canonical: PK
+  synonyms:
+    en: ["Pakistan"]
+    el: ["Πακιστάν"]
+    cs: ["Pákistán"]
+  description:
+    en: Description for PK
+    el: Description for PK
+    cs: Description for PK
+  supported_by: api
+
+- canonical: PL
+  synonyms:
+    en: ["Poland"]
+    el: ["Πολωνία"]
+    cs: ["Polsko"]
+  description:
+    en: Description for PL
+    el: Description for PL
+    cs: Description for PL
+  supported_by: api
+
+- canonical: PM
+  synonyms:
+    en: ["St. Pierre & Miquelon"]
+    el: ["Σεν Πιερ και Μικελόν"]
+    cs: ["Saint-Pierre a Miquelon"]
+  description:
+    en: Description for PM
+    el: Description for PM
+    cs: Description for PM
+  supported_by: api
+
+- canonical: PN
+  synonyms:
+    en: ["Pitcairn Islands"]
+    el: ["Νήσοι Πίτκερν"]
+    cs: ["Pitcairnovy ostrovy"]
+  description:
+    en: Description for PN
+    el: Description for PN
+    cs: Description for PN
+  supported_by: api
+
+- canonical: PR
+  synonyms:
+    en: ["Puerto Rico"]
+    el: ["Πουέρτο Ρίκο"]
+    cs: ["Portoriko"]
+  description:
+    en: Description for PR
+    el: Description for PR
+    cs: Description for PR
+  supported_by: api
+
+- canonical: PS
+  synonyms:
+    en: ["Palestinian Territories"]
+    el: ["Παλαιστινιακά Εδάφη"]
+    cs: ["Palestinská území"]
+  description:
+    en: Description for PS
+    el: Description for PS
+    cs: Description for PS
+  supported_by: api
+
+- canonical: PT
+  synonyms:
+    en: ["Portugal"]
+    el: ["Πορτογαλία"]
+    cs: ["Portugalsko"]
+  description:
+    en: Description for PT
+    el: Description for PT
+    cs: Description for PT
+  supported_by: api
+
+- canonical: PW
+  synonyms:
+    en: ["Palau"]
+    el: ["Παλάου"]
+    cs: ["Palau"]
+  description:
+    en: Description for PW
+    el: Description for PW
+    cs: Description for PW
+  supported_by: api
+
+- canonical: PY
+  synonyms:
+    en: ["Paraguay"]
+    el: ["Παραγουάη"]
+    cs: ["Paraguay"]
+  description:
+    en: Description for PY
+    el: Description for PY
+    cs: Description for PY
+  supported_by: api
+
+- canonical: QA
+  synonyms:
+    en: ["Qatar"]
+    el: ["Κατάρ"]
+    cs: ["Katar"]
+  description:
+    en: Description for QA
+    el: Description for QA
+    cs: Description for QA
+  supported_by: api
+
+- canonical: RE
+  synonyms:
+    en: ["Réunion"]
+    el: ["Ρεϊνιόν"]
+    cs: ["Réunion"]
+  description:
+    en: Description for RE
+    el: Description for RE
+    cs: Description for RE
+  supported_by: api
+
+- canonical: RO
+  synonyms:
+    en: ["Romania"]
+    el: ["Ρουμανία"]
+    cs: ["Rumunsko"]
+  description:
+    en: Description for RO
+    el: Description for RO
+    cs: Description for RO
+  supported_by: api
+
+- canonical: RS
+  synonyms:
+    en: ["Serbia"]
+    el: ["Σερβία"]
+    cs: ["Srbsko"]
+  description:
+    en: Description for RS
+    el: Description for RS
+    cs: Description for RS
+  supported_by: api
+
+- canonical: RU
+  synonyms:
+    en: ["Russia"]
+    el: ["Ρωσία"]
+    cs: ["Rusko"]
+  description:
+    en: Description for RU
+    el: Description for RU
+    cs: Description for RU
+  supported_by: api
+
+- canonical: RW
+  synonyms:
+    en: ["Rwanda"]
+    el: ["Ρουάντα"]
+    cs: ["Rwanda"]
+  description:
+    en: Description for RW
+    el: Description for RW
+    cs: Description for RW
+  supported_by: api
+
+- canonical: SA
+  synonyms:
+    en: ["Saudi Arabia"]
+    el: ["Σαουδική Αραβία"]
+    cs: ["Saúdská Arábie"]
+  description:
+    en: Description for SA
+    el: Description for SA
+    cs: Description for SA
+  supported_by: api
+
+- canonical: SB
+  synonyms:
+    en: ["Solomon Islands"]
+    el: ["Νήσοι Σολομώντος"]
+    cs: ["Šalamounovy ostrovy"]
+  description:
+    en: Description for SB
+    el: Description for SB
+    cs: Description for SB
+  supported_by: api
+
+- canonical: SC
+  synonyms:
+    en: ["Seychelles"]
+    el: ["Σεϋχέλλες"]
+    cs: ["Seychely"]
+  description:
+    en: Description for SC
+    el: Description for SC
+    cs: Description for SC
+  supported_by: api
+
+- canonical: SD
+  synonyms:
+    en: ["Sudan"]
+    el: ["Σουδάν"]
+    cs: ["Súdán"]
+  description:
+    en: Description for SD
+    el: Description for SD
+    cs: Description for SD
+  supported_by: api
+
+- canonical: SE
+  synonyms:
+    en: ["Sweden"]
+    el: ["Σουηδία"]
+    cs: ["Švédsko"]
+  description:
+    en: Description for SE
+    el: Description for SE
+    cs: Description for SE
+  supported_by: api
+
+- canonical: SG
+  synonyms:
+    en: ["Singapore"]
+    el: ["Σιγκαπούρη"]
+    cs: ["Singapur"]
+  description:
+    en: Description for SG
+    el: Description for SG
+    cs: Description for SG
+  supported_by: api
+
+- canonical: SH
+  synonyms:
+    en: ["St. Helena"]
+    el: ["Αγία Ελένη"]
+    cs: ["Svatá Helena"]
+  description:
+    en: Description for SH
+    el: Description for SH
+    cs: Description for SH
+  supported_by: api
+
+- canonical: SI
+  synonyms:
+    en: ["Slovenia"]
+    el: ["Σλοβενία"]
+    cs: ["Slovinsko"]
+  description:
+    en: Description for SI
+    el: Description for SI
+    cs: Description for SI
+  supported_by: api
+
+- canonical: SJ
+  synonyms:
+    en: ["Svalbard & Jan Mayen"]
+    el: ["Σβάλμπαρντ και Γιαν Μαγιέν"]
+    cs: ["Špicberky a Jan Mayen"]
+  description:
+    en: Description for SJ
+    el: Description for SJ
+    cs: Description for SJ
+  supported_by: api
+
+- canonical: SK
+  synonyms:
+    en: ["Slovakia"]
+    el: ["Σλοβακία"]
+    cs: ["Slovensko"]
+  description:
+    en: Description for SK
+    el: Description for SK
+    cs: Description for SK
+  supported_by: api
+
+- canonical: SL
+  synonyms:
+    en: ["Sierra Leone"]
+    el: ["Σιέρα Λεόνε"]
+    cs: ["Sierra Leone"]
+  description:
+    en: Description for SL
+    el: Description for SL
+    cs: Description for SL
+  supported_by: api
+
+- canonical: SM
+  synonyms:
+    en: ["San Marino"]
+    el: ["Άγιος Μαρίνος"]
+    cs: ["San Marino"]
+  description:
+    en: Description for SM
+    el: Description for SM
+    cs: Description for SM
+  supported_by: api
+
+- canonical: SN
+  synonyms:
+    en: ["Senegal"]
+    el: ["Σενεγάλη"]
+    cs: ["Senegal"]
+  description:
+    en: Description for SN
+    el: Description for SN
+    cs: Description for SN
+  supported_by: api
+
+- canonical: SO
+  synonyms:
+    en: ["Somalia"]
+    el: ["Σομαλία"]
+    cs: ["Somálsko"]
+  description:
+    en: Description for SO
+    el: Description for SO
+    cs: Description for SO
+  supported_by: api
+
+- canonical: SR
+  synonyms:
+    en: ["Suriname"]
+    el: ["Σουρινάμ"]
+    cs: ["Surinam"]
+  description:
+    en: Description for SR
+    el: Description for SR
+    cs: Description for SR
+  supported_by: api
+
+- canonical: SS
+  synonyms:
+    en: ["South Sudan"]
+    el: ["Νότιο Σουδάν"]
+    cs: ["Jižní Súdán"]
+  description:
+    en: Description for SS
+    el: Description for SS
+    cs: Description for SS
+  supported_by: api
+
+- canonical: ST
+  synonyms:
+    en: ["São Tomé & Príncipe"]
+    el: ["Σάο Τομέ και Πρίνσιπε"]
+    cs: ["Svatý Tomáš a Princův ostrov"]
+  description:
+    en: Description for ST
+    el: Description for ST
+    cs: Description for ST
+  supported_by: api
+
+- canonical: SV
+  synonyms:
+    en: ["El Salvador"]
+    el: ["Ελ Σαλβαδόρ"]
+    cs: ["Salvador"]
+  description:
+    en: Description for SV
+    el: Description for SV
+    cs: Description for SV
+  supported_by: api
+
+- canonical: SX
+  synonyms:
+    en: ["Sint Maarten"]
+    el: ["Άγιος Μαρτίνος (Ολλανδικό τμήμα)"]
+    cs: ["Svatý Martin (Nizozemsko)"]
+  description:
+    en: Description for SX
+    el: Description for SX
+    cs: Description for SX
+  supported_by: api
+
+- canonical: SY
+  synonyms:
+    en: ["Syria"]
+    el: ["Συρία"]
+    cs: ["Sýrie"]
+  description:
+    en: Description for SY
+    el: Description for SY
+    cs: Description for SY
+  supported_by: api
+
+- canonical: SZ
+  synonyms:
+    en: ["Eswatini"]
+    el: ["Σουαζιλάνδη"]
+    cs: ["Svazijsko"]
+  description:
+    en: Description for SZ
+    el: Description for SZ
+    cs: Description for SZ
+  supported_by: api
+
+- canonical: TC
+  synonyms:
+    en: ["Turks & Caicos Islands"]
+    el: ["Νήσοι Τερκς και Κάικος"]
+    cs: ["Turks a Caicos"]
+  description:
+    en: Description for TC
+    el: Description for TC
+    cs: Description for TC
+  supported_by: api
+
+- canonical: TD
+  synonyms:
+    en: ["Chad"]
+    el: ["Τσαντ"]
+    cs: ["Čad"]
+  description:
+    en: Description for TD
+    el: Description for TD
+    cs: Description for TD
+  supported_by: api
+
+- canonical: TF
+  synonyms:
+    en: ["French Southern Territories"]
+    el: ["Γαλλικά Νότια Εδάφη"]
+    cs: ["Francouzská jižní území"]
+  description:
+    en: Description for TF
+    el: Description for TF
+    cs: Description for TF
+  supported_by: api
+
+- canonical: TG
+  synonyms:
+    en: ["Togo"]
+    el: ["Τόγκο"]
+    cs: ["Togo"]
+  description:
+    en: Description for TG
+    el: Description for TG
+    cs: Description for TG
+  supported_by: api
+
+- canonical: TH
+  synonyms:
+    en: ["Thailand"]
+    el: ["Ταϊλάνδη"]
+    cs: ["Thajsko"]
+  description:
+    en: Description for TH
+    el: Description for TH
+    cs: Description for TH
+  supported_by: api
+
+- canonical: TJ
+  synonyms:
+    en: ["Tajikistan"]
+    el: ["Τατζικιστάν"]
+    cs: ["Tádžikistán"]
+  description:
+    en: Description for TJ
+    el: Description for TJ
+    cs: Description for TJ
+  supported_by: api
+
+- canonical: TK
+  synonyms:
+    en: ["Tokelau"]
+    el: ["Τοκελάου"]
+    cs: ["Tokelau"]
+  description:
+    en: Description for TK
+    el: Description for TK
+    cs: Description for TK
+  supported_by: api
+
+- canonical: TL
+  synonyms:
+    en: ["Timor-Leste"]
+    el: ["Τιμόρ-Λέστε"]
+    cs: ["Východní Timor"]
+  description:
+    en: Description for TL
+    el: Description for TL
+    cs: Description for TL
+  supported_by: api
+
+- canonical: TM
+  synonyms:
+    en: ["Turkmenistan"]
+    el: ["Τουρκμενιστάν"]
+    cs: ["Turkmenistán"]
+  description:
+    en: Description for TM
+    el: Description for TM
+    cs: Description for TM
+  supported_by: api
+
+- canonical: TN
+  synonyms:
+    en: ["Tunisia"]
+    el: ["Τυνησία"]
+    cs: ["Tunisko"]
+  description:
+    en: Description for TN
+    el: Description for TN
+    cs: Description for TN
+  supported_by: api
+
+- canonical: TO
+  synonyms:
+    en: ["Tonga"]
+    el: ["Τόνγκα"]
+    cs: ["Tonga"]
+  description:
+    en: Description for TO
+    el: Description for TO
+    cs: Description for TO
+  supported_by: api
+
+- canonical: TR
+  synonyms:
+    en: ["Turkey"]
+    el: ["Τουρκία"]
+    cs: ["Turecko"]
+  description:
+    en: Description for TR
+    el: Description for TR
+    cs: Description for TR
+  supported_by: api
+
+- canonical: TT
+  synonyms:
+    en: ["Trinidad & Tobago"]
+    el: ["Τρινιντάντ και Τομπάγκο"]
+    cs: ["Trinidad a Tobago"]
+  description:
+    en: Description for TT
+    el: Description for TT
+    cs: Description for TT
+  supported_by: api
+
+- canonical: TV
+  synonyms:
+    en: ["Tuvalu"]
+    el: ["Τουβαλού"]
+    cs: ["Tuvalu"]
+  description:
+    en: Description for TV
+    el: Description for TV
+    cs: Description for TV
+  supported_by: api
+
+- canonical: TW
+  synonyms:
+    en: ["Taiwan"]
+    el: ["Ταϊβάν"]
+    cs: ["Tchaj-wan"]
+  description:
+    en: Description for TW
+    el: Description for TW
+    cs: Description for TW
+  supported_by: api
+
+- canonical: TZ
+  synonyms:
+    en: ["Tanzania"]
+    el: ["Τανζανία"]
+    cs: ["Tanzanie"]
+  description:
+    en: Description for TZ
+    el: Description for TZ
+    cs: Description for TZ
+  supported_by: api
+
+- canonical: UA
+  synonyms:
+    en: ["Ukraine"]
+    el: ["Ουκρανία"]
+    cs: ["Ukrajina"]
+  description:
+    en: Description for UA
+    el: Description for UA
+    cs: Description for UA
+  supported_by: api
+
+- canonical: UG
+  synonyms:
+    en: ["Uganda"]
+    el: ["Ουγκάντα"]
+    cs: ["Uganda"]
+  description:
+    en: Description for UG
+    el: Description for UG
+    cs: Description for UG
+  supported_by: api
+
+- canonical: UM
+  synonyms:
+    en: ["U.S. Outlying Islands"]
+    el: ["Απομακρυσμένες Νησίδες ΗΠΑ"]
+    cs: ["Menší odlehlé ostrovy USA"]
+  description:
+    en: Description for UM
+    el: Description for UM
+    cs: Description for UM
+  supported_by: api
+
+- canonical: US
+  synonyms:
+    en: ["United States", "USA", "U.S.A"]
+    el: ["Ηνωμένες Πολιτείες", "ΗΠΑ", "USA"]
+    cs: ["Spojené státy", "USA"]
+  description:
+    en: Description for US
+    el: Description for US
+    cs: Description for US
+  supported_by: api
+
+- canonical: UY
+  synonyms:
+    en: ["Uruguay"]
+    el: ["Ουρουγουάη"]
+    cs: ["Uruguay"]
+  description:
+    en: Description for UY
+    el: Description for UY
+    cs: Description for UY
+  supported_by: api
+
+- canonical: UZ
+  synonyms:
+    en: ["Uzbekistan"]
+    el: ["Ουζμπεκιστάν"]
+    cs: ["Uzbekistán"]
+  description:
+    en: Description for UZ
+    el: Description for UZ
+    cs: Description for UZ
+  supported_by: api
+
+- canonical: VA
+  synonyms:
+    en: ["Vatican City"]
+    el: ["Βατικανό"]
+    cs: ["Vatikán"]
+  description:
+    en: Description for VA
+    el: Description for VA
+    cs: Description for VA
+  supported_by: api
+
+- canonical: VC
+  synonyms:
+    en: ["St. Vincent & Grenadines"]
+    el: ["Άγιος Βικέντιος και Γρεναδίνες"]
+    cs: ["Svatý Vincenc a Grenadiny"]
+  description:
+    en: Description for VC
+    el: Description for VC
+    cs: Description for VC
+  supported_by: api
+
+- canonical: VE
+  synonyms:
+    en: ["Venezuela"]
+    el: ["Βενεζουέλα"]
+    cs: ["Venezuela"]
+  description:
+    en: Description for VE
+    el: Description for VE
+    cs: Description for VE
+  supported_by: api
+
+- canonical: VG
+  synonyms:
+    en: ["British Virgin Islands"]
+    el: ["Βρετανικές Παρθένες Νήσοι"]
+    cs: ["Britské Panenské ostrovy"]
+  description:
+    en: Description for VG
+    el: Description for VG
+    cs: Description for VG
+  supported_by: api
+
+- canonical: VI
+  synonyms:
+    en: ["U.S. Virgin Islands"]
+    el: ["Αμερικανικές Παρθένες Νήσοι"]
+    cs: ["Americké Panenské ostrovy"]
+  description:
+    en: Description for VI
+    el: Description for VI
+    cs: Description for VI
+  supported_by: api
+
+- canonical: VN
+  synonyms:
+    en: ["Vietnam"]
+    el: ["Βιετνάμ"]
+    cs: ["Vietnam"]
+  description:
+    en: Description for VN
+    el: Description for VN
+    cs: Description for VN
+  supported_by: api
+
+- canonical: VU
+  synonyms:
+    en: ["Vanuatu"]
+    el: ["Βανουάτου"]
+    cs: ["Vanuatu"]
+  description:
+    en: Description for VU
+    el: Description for VU
+    cs: Description for VU
+  supported_by: api
+
+- canonical: WF
+  synonyms:
+    en: ["Wallis & Futuna"]
+    el: ["Γουάλις και Φουτούνα"]
+    cs: ["Wallis a Futuna"]
+  description:
+    en: Description for WF
+    el: Description for WF
+    cs: Description for WF
+  supported_by: api
+
+- canonical: WS
+  synonyms:
+    en: ["Samoa"]
+    el: ["Σαμόα"]
+    cs: ["Samoa"]
+  description:
+    en: Description for WS
+    el: Description for WS
+    cs: Description for WS
+  supported_by: api
+
+- canonical: YE
+  synonyms:
+    en: ["Yemen"]
+    el: ["Υεμένη"]
+    cs: ["Jemen"]
+  description:
+    en: Description for YE
+    el: Description for YE
+    cs: Description for YE
+  supported_by: api
+
+- canonical: YT
+  synonyms:
+    en: ["Mayotte"]
+    el: ["Μαγιότ"]
+    cs: ["Mayotte"]
+  description:
+    en: Description for YT
+    el: Description for YT
+    cs: Description for YT
+  supported_by: api
+
+- canonical: ZA
+  synonyms:
+    en: ["South Africa"]
+    el: ["Νότια Αφρική"]
+    cs: ["Jihoafrická republika"]
+  description:
+    en: Description for ZA
+    el: Description for ZA
+    cs: Description for ZA
+  supported_by: api
+
+- canonical: ZM
+  synonyms:
+    en: ["Zambia"]
+    el: ["Ζάμπια"]
+    cs: ["Zambie"]
+  description:
+    en: Description for ZM
+    el: Description for ZM
+    cs: Description for ZM
+  supported_by: api
+
+- canonical: ZW
+  synonyms:
+    en: ["Zimbabwe"]
+    el: ["Ζιμπάμπουε"]
+    cs: ["Zimbabwe"]
+  description:
+    en: Description for ZW
+    el: Description for ZW
+    cs: Description for ZW
+  supported_by: api
