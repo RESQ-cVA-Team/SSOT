@@ -7,3 +7,4 @@
     en: A non-parametric test used to compare differences between two independent groups when the dependent variable is either ordinal or continuous, but not normally distributed.
     el: Ένα μη παραμετρικό τεστ που χρησιμοποιείται για να συγκρίνει τις διαφορές μεταξύ δύο ανεξάρτητων ομάδων όταν η εξαρτημένη μεταβλητή είναι είτε τακτική είτε συνεχής, αλλά δεν είναι κανονικά κατανεμημένη.
     cs: Neparametrický test používaný k porovnání rozdílů mezi dvěma nezávislými skupinami, když závislá proměnná je buď ordinální nebo kontinuální, ale není normálně rozdělená.
+  supported_by: api

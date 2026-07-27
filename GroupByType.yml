@@ -25,6 +25,7 @@
     en: Description for EMS_PRENOTIFICATION
     el: Περιγραφή για EMS_PRENOTIFICATION
     cs: Popis pro EMS_PRENOTIFICATION
+  supported_by: api
 
 - canonical: FIRST_CONTACT_PLACE
   synonyms:
@@ -53,6 +54,7 @@
     en: Description for FIRST_CONTACT_PLACE
     el: Περιγραφή για FIRST_CONTACT_PLACE
     cs: Popis pro FIRST_CONTACT_PLACE
+  supported_by: api
 
 - canonical: IVT_APPLICATION_DEPARTMENT
   synonyms:
@@ -75,6 +77,7 @@
     en: Description for IVT_APPLICATION_DEPARTMENT
     el: Περιγραφή για IVT_APPLICATION_DEPARTMENT
     cs: Popis pro IVT_APPLICATION_DEPARTMENT
+  supported_by: api
 
 - canonical: INR_MODE
   synonyms:
@@ -97,6 +100,7 @@
     en: Description for INR_MODE
     el: Περιγραφή για INR_MODE
     cs: Popis pro INR_MODE
+  supported_by: api
 
 - canonical: STROKE_TYPE
   synonyms:
@@ -107,6 +111,7 @@
     en: Description for STROKE_TYPE
     el: Περιγραφή για STROKE_TYPE
     cs: Popis pro STROKE_TYPE
+  supported_by: internal
 
 - canonical: SEX_TYPE
   synonyms:
@@ -117,6 +122,40 @@
     en: Description for SEX_TYPE
     el: Περιγραφή για SEX_TYPE
     cs: Popis pro SEX_TYPE
+  supported_by: internal
+
+- canonical: DAY
+  synonyms:
+    en: [day, calendar day, daily period]
+    el: [ημέρα, ημερολογιακή ημέρα, ημερήσια περίοδος]
+    cs: [den, kalendářní den, denní období]
+  description:
+    en: Description for DAY
+    el: Περιγραφή για DAY
+    cs: Popis pro DAY
+  supported_by: internal
+
+- canonical: WEEK
+  synonyms:
+    en: [week, calendar week, weekly period]
+    el: [εβδομάδα, ημερολογιακή εβδομάδα, εβδομαδιαία περίοδος]
+    cs: [týden, kalendářní týden, týdenní období]
+  description:
+    en: Description for WEEK
+    el: Περιγραφή για WEEK
+    cs: Popis pro WEEK
+  supported_by: internal
+
+- canonical: BIWEEK
+  synonyms:
+    en: [biweek, two-week period, fortnight]
+    el: [δεκαπενθήμερο, περίοδος δύο εβδομάδων]
+    cs: [dvoutýdenní období, čtrnáct dní]
+  description:
+    en: Description for BIWEEK
+    el: Περιγραφή για BIWEEK
+    cs: Popis pro BIWEEK
+  supported_by: internal
 
 - canonical: MONTH
   synonyms:
@@ -127,7 +166,8 @@
     en: Description for MONTH
     el: Περιγραφή για MONTH
     cs: Popis pro MONTH
-  
+  supported_by: internal
+
 - canonical: QUARTER
   synonyms:
     en: [quarter, fiscal quarter, quarter of the year, three-month period]
@@ -137,6 +177,7 @@
     en: Description for QUARTER
     el: Περιγραφή για QUARTER
     cs: Popis pro QUARTER
+  supported_by: internal
 
 - canonical: YEAR
   synonyms:
@@ -147,6 +188,7 @@
     en: Description for YEAR
     el: Περιγραφή για YEAR
     cs: Popis pro YEAR
+  supported_by: internal
 
 - canonical: HOSPITAL
   synonyms:
@@ -157,3 +199,246 @@
     en: Description for HOSPITAL
     el: Περιγραφή για HOSPITAL
     cs: Popis pro HOSPITAL
+  supported_by: internal
+
+- canonical: AGE
+  synonyms:
+    en: [age, age at stroke onset, split by age, age group, age bracket]
+    el: [ηλικία, age at stroke onset]
+    cs: [věk, age at stroke onset]
+  description:
+    en: Patient age at stroke onset, usable to split chart results into age ranges.
+    el: Ηλικία ασθενούς κατά την έναρξη του εγκεφαλικού επεισοδίου, χρησιμοποιήσιμη για διαχωρισμό αποτελεσμάτων σε ηλικιακές ομάδες.
+    cs: Věk pacienta v době vzniku cévní mozkové příhody, použitelný k rozdělení výsledků do věkových skupin.
+  supported_by: internal
+
+- canonical: NIHSS
+  synonyms:
+    en: [nihss, admission nihss, split by nihss, stroke severity, nihss score group]
+    el: [nihss, admission nihss]
+    cs: [nihss, admission nihss]
+  description:
+    en: NIH Stroke Scale score taken during admission, usable to split chart results into severity ranges.
+    el: Βαθμολογία NIH Stroke Scale κατά την εισαγωγή, χρησιμοποιήσιμη για διαχωρισμό αποτελεσμάτων σε ομάδες βαρύτητας.
+    cs: Hodnota NIH Stroke Scale zaznamenaná při přijetí, použitelná k rozdělení výsledků do skupin podle závažnosti.
+  supported_by: internal
+
+- canonical: THROMBECTOMY
+  synonyms:
+    en: [clot removal, mechanical thrombectomy, embolectomy]
+    el: [αφαίρεση θρόμβου, μηχανική θρομβεκτομή, εμβολεκτομή]
+    cs: [odstranění sraženiny, mechanická trombektomie]
+  description:
+    en: Whether mechanical thrombectomy was performed, usable to split chart results by treatment status.
+    el: Εάν πραγματοποιήθηκε μηχανική θρομβεκτομή, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά κατάσταση θεραπείας.
+    cs: Zda byla provedena mechanická trombektomie, použitelné k rozdělení výsledků podle stavu léčby.
+  supported_by: internal
+
+- canonical: THROMBOLYSIS
+  synonyms:
+    en: [tpa, alteplase, clot-busting drug, lysis treatment]
+    el: [tpa, alteplase, φάρμακο απόκλωσης θρόμβου, θεραπεία λύσης]
+    cs: [tpa, alteplase, léčba rozkladu sraženiny]
+  description:
+    en: Whether thrombolysis was performed, usable to split chart results by treatment status.
+    el: Εάν πραγματοποιήθηκε θρομβόλυση, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά κατάσταση θεραπείας.
+    cs: Zda byla provedena trombolýza, použitelné k rozdělení výsledků podle stavu léčby.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_CILOSTAZOL
+  synonyms:
+    en: [cilostazol before onset, split by cilostazol use]
+    el: [cilostazol πριν την έναρξη]
+    cs: [cilostazol před nástupem]
+  description:
+    en: Whether the patient was on cilostazol before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε cilostazol πριν την έναρξη του εγκεφαλικού, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval cilostazol před vznikem cévní mozkové příhody, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_CLOPIDOGREL
+  synonyms:
+    en: [plavix, clopidogrel before stroke, split by clopidogrel use]
+    el: [plavix, clopidogrel πριν το εγκεφαλικό]
+    cs: [plavix, clopidogrel před mrtvicí]
+  description:
+    en: Whether the patient was on clopidogrel before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε clopidogrel πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval klopidogrel před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_TICAGRELOR
+  synonyms:
+    en: [brilinta, ticagrelor pre-stroke, split by ticagrelor use]
+    el: [brilinta, ticagrelor πριν το εγκεφαλικό]
+    cs: [brilinta, ticagrelor před mrtvicí]
+  description:
+    en: Whether the patient was on ticagrelor before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε ticagrelor πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval tikagrelor před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_TICLOPIDINE
+  synonyms:
+    en: [ticlopidine before stroke, split by ticlopidine use]
+    el: [ticlopidine πριν το εγκεφαλικό]
+    cs: [ticlopidine před mrtvicí]
+  description:
+    en: Whether the patient was on ticlopidine before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε ticlopidine πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval tiklopidin před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_PRASUGREL
+  synonyms:
+    en: [prasugrel before stroke, split by prasugrel use]
+    el: [prasugrel πριν το εγκεφαλικό]
+    cs: [prasugrel před mrtvicí]
+  description:
+    en: Whether the patient was on prasugrel before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε prasugrel πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval prasugrel před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_DIPYRIDAMOLE
+  synonyms:
+    en: [dipyridamole pre-stroke, split by dipyridamole use]
+    el: [dipyridamole πριν το εγκεφαλικό]
+    cs: [dipyridamole před mrtvicí]
+  description:
+    en: Whether the patient was on dipyridamole before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε dipyridamole πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval dipyridamol před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_OTHER_ANTIPLATELET
+  synonyms:
+    en: [other antiplatelet used, unknown antiplatelet, split by other antiplatelet use]
+    el: [άλλο αντιαιμοπεταλιακό, άγνωστο αντιαιμοπεταλιακό]
+    cs: [jiný použitý antiplatelet, neznámý antiplatelet]
+  description:
+    en: Whether the patient was on another, unspecified antiplatelet before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε άλλο, μη προσδιορισμένο αντιαιμοπεταλιακό πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval jiný, blíže neurčený antiagregační lék před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_ANY_ANTIPLATELET
+  synonyms:
+    en: [on any antiplatelet, antiplatelet therapy, split by antiplatelet use]
+    el: [σε οποιοδήποτε αντιαιμοπεταλιακό, θεραπεία αντιαιμοπεταλιακή]
+    cs: [na jakémkoli antiplateletu, antiplateletová terapie]
+  description:
+    en: Whether the patient was on any antiplatelet medication before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε οποιοδήποτε αντιαιμοπεταλιακό φάρμακο πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval jakýkoli antiagregační lék před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_WARFARIN
+  synonyms:
+    en: [warfarin, coumadin, split by warfarin use]
+    el: [warfarin, coumadin]
+    cs: [warfarin, coumadin]
+  description:
+    en: Whether the patient was on warfarin before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε warfarin πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval warfarin před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_DABIGATRAN
+  synonyms:
+    en: [pradaxa, dabigatran before stroke, split by dabigatran use]
+    el: [pradaxa, dabigatran πριν το εγκεφαλικό]
+    cs: [pradaxa, dabigatran před mrtvicí]
+  description:
+    en: Whether the patient was on dabigatran before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε dabigatran πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval dabigatran před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_RIVAROXABAN
+  synonyms:
+    en: [xarelto, rivaroxaban pre-stroke, split by rivaroxaban use]
+    el: [xarelto, rivaroxaban πριν το εγκεφαλικό]
+    cs: [xarelto, rivaroxaban před mrtvicí]
+  description:
+    en: Whether the patient was on rivaroxaban before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε rivaroxaban πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval rivaroxaban před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_APIXABAN
+  synonyms:
+    en: [eliquis, apixaban before stroke, split by apixaban use]
+    el: [eliquis, apixaban πριν το εγκεφαλικό]
+    cs: [eliquis, apixaban před mrtvicí]
+  description:
+    en: Whether the patient was on apixaban before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε apixaban πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval apixaban před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_EDOXABAN
+  synonyms:
+    en: [lixiana, edoxaban pre-stroke, split by edoxaban use]
+    el: [lixiana, edoxaban πριν το εγκεφαλικό]
+    cs: [lixiana, edoxaban před mrtvicí]
+  description:
+    en: Whether the patient was on edoxaban before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε edoxaban πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval edoxaban před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_OTHER_ANTICOAGULANTANT
+  synonyms:
+    en: [other anticoagulant used, unknown blood thinner, split by other anticoagulant use]
+    el: [άλλο αντιπηκτικό, άγνωστο αντιπηκτικό]
+    cs: [jiný použitý anticoagulant, neznámý krevní zředění]
+  description:
+    en: Whether the patient was on another, unspecified anticoagulant before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε άλλο, μη προσδιορισμένο αντιπηκτικό πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval jiné, blíže neurčené antikoagulans před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_ANY_ANTICOAGULANT
+  synonyms:
+    en: [on any anticoagulant, any blood thinner, split by anticoagulant use]
+    el: [σε οποιοδήποτε αντιπηκτικό, οποιοδήποτε αντιπηκτικό]
+    cs: [na jakémkoli anticoagulanci, jakémkoli krevním zředění]
+  description:
+    en: Whether the patient was on any anticoagulant medication before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε οποιοδήποτε αντιπηκτικό φάρμακο πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval jakékoli antikoagulans před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_STATIN
+  synonyms:
+    en: [on statin, statin before stroke, lipid lowering, split by statin use]
+    el: [σε statin, statin πριν το εγκεφαλικό, μείωση λιπιδίων]
+    cs: [na statinu, statin před mrtvicí, snížení lipidů]
+  description:
+    en: Whether the patient was on a statin before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε statin πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval statin před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_HEPARIN
+  synonyms:
+    en: [on heparin, heparin before stroke, split by heparin use]
+    el: [σε heparin, heparin πριν το εγκεφαλικό]
+    cs: [na heparinu, heparin před mrtvicí]
+  description:
+    en: Whether the patient was on heparin before stroke onset, usable to split chart results by medication use.
+    el: Εάν ο ασθενής ελάμβανε heparin πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacient užíval heparin před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal
+
+- canonical: BEFORE_ONSET_CONTRACEPTION
+  synonyms:
+    en: [on birth control, hormonal contraception, contraceptives before stroke, split by contraception use]
+    el: [σε μεθόδους αντισύλληψης, ορμονική αντισύλληψη]
+    cs: [na antikoncepci, hormonální antikoncepce]
+  description:
+    en: Whether the patient was on hormonal contraception before stroke onset, usable to split chart results by medication use.
+    el: Εάν η ασθενής ελάμβανε ορμονική αντισύλληψη πριν το εγκεφαλικό, χρησιμοποιήσιμο για διαχωρισμό αποτελεσμάτων ανά χρήση φαρμάκου.
+    cs: Zda pacientka užívala hormonální antikoncepci před cévní mozkovou příhodou, použitelné k rozdělení výsledků podle užívání léku.
+  supported_by: internal

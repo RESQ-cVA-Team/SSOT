@@ -7,6 +7,7 @@
     en: Description for MALE
     el: Περιγραφή για ΑΡΡΑΣ
     cs: Popis pro MUŽ
+  supported_by: api
 
 - canonical: FEMALE
   synonyms:
@@ -17,6 +18,7 @@
     en: Description for FEMALE
     el: Περιγραφή για ΓΥΝΑΪΚΟ
     cs: Popis pro ŽENU
+  supported_by: api
 
 - canonical: OTHER
   synonyms:
@@ -27,6 +29,7 @@
     en: Description for OTHER
     el: Περιγραφή για ΑΛΛΟ
     cs: Popis pro JINÝ
+  supported_by: api
 
 - canonical: UNKNOWN
   synonyms:
@@ -37,3 +40,4 @@
     en: Description for UNKNOWN
     el: Περιγραφή για ΑΓΝΩΣΤΟ
     cs: Popis pro NEZNÁMÝ
+  supported_by: api

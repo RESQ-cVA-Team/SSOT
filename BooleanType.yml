@@ -7,6 +7,7 @@
     en: Description for THROMBECTOMY
     el: Περιγραφή για ΘΡΟΜΒΕΚΤΟΜΙΑ
     cs: Popis pro TROMBECTOMII
+  supported_by: api
 
 - canonical: THROMBOLYSIS
   synonyms:
@@ -17,6 +18,7 @@
     en: Description for THROMBOLYSIS
     el: Περιγραφή για ΘΡΟΜΒΟΛΥΣΗ
     cs: Popis pro TROMBOLÝZU
+  supported_by: api
 
 - canonical: BEFORE_ONSET_CILOSTAZOL
   synonyms:
@@ -27,6 +29,7 @@
     en: Description for BEFORE_ONSET_CILOSTAZOL
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_CILOSTAZOL
     cs: Popis pro PŘED_NÁSTUPEM_CILOSTAZOL
+  supported_by: api
 
 - canonical: BEFORE_ONSET_CLOPIDOGREL
   synonyms:
@@ -37,6 +40,7 @@
     en: Description for BEFORE_ONSET_CLOPIDOGREL
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_CLOPIDOGREL
     cs: Popis pro PŘED_NÁSTUPEM_CLOPIDOGREL
+  supported_by: api
 
 - canonical: BEFORE_ONSET_TICAGRELOR
   synonyms:
@@ -47,6 +51,7 @@
     en: Description for BEFORE_ONSET_TICAGRELOR
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_TICAGRELOR
     cs: Popis pro PŘED_NÁSTUPEM_TICAGRELOR
+  supported_by: api
 
 - canonical: BEFORE_ONSET_TICLOPIDINE
   synonyms:
@@ -57,6 +62,7 @@
     en: Description for BEFORE_ONSET_TICLOPIDINE
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_TICLOPIDINE
     cs: Popis pro PŘED_NÁSTUPEM_TICLOPIDINE
+  supported_by: api
 
 - canonical: BEFORE_ONSET_PRASUGREL
   synonyms:
@@ -67,6 +73,7 @@
     en: Description for BEFORE_ONSET_PRASUGREL
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_PRASUGREL
     cs: Popis pro PŘED_NÁSTUPEM_PRASUGREL
+  supported_by: api
 
 - canonical: BEFORE_ONSET_DIPYRIDAMOLE
   synonyms:
@@ -77,6 +84,7 @@
     en: Description for BEFORE_ONSET_DIPYRIDAMOLE
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_DIPYRIDAMOLE
     cs: Popis pro PŘED_NÁSTUPEM_DIPYRIDAMOLE
+  supported_by: api
 
 - canonical: BEFORE_ONSET_OTHER_ANTIPLATELET
   synonyms:
@@ -87,6 +95,7 @@
     en: Description for BEFORE_ONSET_OTHER_ANTIPLATELET
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_OTHER_ANTIPLATELET
     cs: Popis pro PŘED_NÁSTUPEM_OTHER_ANTIPLATELET
+  supported_by: api
 
 - canonical: BEFORE_ONSET_ANY_ANTIPLATELET
   synonyms:
@@ -97,16 +106,18 @@
     en: Description for BEFORE_ONSET_ANY_ANTIPLATELET
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_ANY_ANTIPLATELET
     cs: Popis pro PŘED_NÁSTUPEM_ANY_ANTIPLATELET
+  supported_by: api
 
-- canonical: BEFORE_ONSET_WARFARINS
+- canonical: BEFORE_ONSET_WARFARIN
   synonyms:
     en: [warfarin, coumadin]
     el: [warfarin, coumadin]
     cs: [warfarin, coumadin]
   description:
-    en: Description for BEFORE_ONSET_WARFARINS
-    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_WARFARINS
-    cs: Popis pro PŘED_NÁSTUPEM_WARFARINS
+    en: Description for BEFORE_ONSET_WARFARIN
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_WARFARIN
+    cs: Popis pro PŘED_NÁSTUPEM_WARFARIN
+  supported_by: api
 
 - canonical: BEFORE_ONSET_DABIGATRAN
   synonyms:
@@ -117,6 +128,7 @@
     en: Description for BEFORE_ONSET_DABIGATRAN
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_DABIGATRAN
     cs: Popis pro PŘED_NÁSTUPEM_DABIGATRAN
+  supported_by: api
 
 - canonical: BEFORE_ONSET_RIVAROXABAN
   synonyms:
@@ -127,6 +139,7 @@
     en: Description for BEFORE_ONSET_RIVAROXABAN
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_RIVAROXABAN
     cs: Popis pro PŘED_NÁSTUPEM_RIVAROXABAN
+  supported_by: api
 
 - canonical: BEFORE_ONSET_APIXABAN
   synonyms:
@@ -137,6 +150,7 @@
     en: Description for BEFORE_ONSET_APIXABAN
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_APIXABAN
     cs: Popis pro PŘED_NÁSTUPEM_APIXABAN
+  supported_by: api
 
 - canonical: BEFORE_ONSET_EDOXABAN
   synonyms:
@@ -147,16 +161,18 @@
     en: Description for BEFORE_ONSET_EDOXABAN
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_EDOXABAN
     cs: Popis pro PŘED_NÁSTUPEM_EDOXABAN
+  supported_by: api
 
-- canonical: BEFORE_ONSET_OTHER_ANTICOAGULANT
+- canonical: BEFORE_ONSET_OTHER_ANTICOAGULANTANT
   synonyms:
     en: [other anticoagulant used, unknown blood thinner]
     el: [άλλο αντιαιμοπεταλιακό, άγνωστο αντιαιμοπεταλιακό]
     cs: [jiný použitý anticoagulant, neznámý krevní zředění]
   description:
-    en: Description for BEFORE_ONSET_OTHER_ANTICOAGULANT
-    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_OTHER_ANTICOAGULANT
-    cs: Popis pro PŘED_NÁSTUPEM_OTHER_ANTICOAGULANT
+    en: Description for BEFORE_ONSET_OTHER_ANTICOAGULANTANT
+    el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_OTHER_ANTICOAGULANTANT
+    cs: Popis pro PŘED_NÁSTUPEM_OTHER_ANTICOAGULANTANT
+  supported_by: api
 
 - canonical: BEFORE_ONSET_ANY_ANTICOAGULANT
   synonyms:
@@ -167,6 +183,7 @@
     en: Description for BEFORE_ONSET_ANY_ANTICOAGULANT
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_ANY_ANTICOAGULANT
     cs: Popis pro PŘED_NÁSTUPEM_ANY_ANTICOAGULANT
+  supported_by: api
 
 - canonical: BEFORE_ONSET_STATIN
   synonyms:
@@ -177,6 +194,7 @@
     en: Description for BEFORE_ONSET_STATIN
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_STATIN
     cs: Popis pro PŘED_NÁSTUPEM_STATIN
+  supported_by: api
 
 - canonical: BEFORE_ONSET_HEPARIN
   synonyms:
@@ -187,6 +205,7 @@
     en: Description for BEFORE_ONSET_HEPARIN
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_HEPARIN
     cs: Popis pro PŘED_NÁSTUPEM_HEPARIN
+  supported_by: api
 
 - canonical: BEFORE_ONSET_CONTRACEPTION
   synonyms:
@@ -197,3 +216,4 @@
     en: Description for BEFORE_ONSET_CONTRACEPTION
     el: Περιγραφή για ΠΡΙΝ_ΤΗΝ_ΈΝΑΡΞΗ_CONTRACEPTION
     cs: Popis pro PŘED_NÁSTUPEM_CONTRACEPTION
+  supported_by: api
