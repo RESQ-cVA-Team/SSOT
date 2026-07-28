@@ -1,0 +1,52 @@
+- canonical: ALL
+  synonyms:
+    en: [all, all hospitals, all sites, all providers]
+    el: [όλα, όλα τα νοσοκομεία, όλες οι τοποθεσίες, όλοι οι πάροχοι]
+    cs: [všechny, všechny nemocnice, všechna místa, všichni poskytovatelé]
+  description:
+    en: Description for ALL
+    el: Description for ALL in Greek
+    cs: Description for ALL in Czech
+  supported_by: internal
+
+- canonical: MINE
+  synonyms:
+    en:
+      [
+        mine,
+        my,
+        my hospital,
+        my site,
+        my center,
+        my centre,
+        our hospital,
+        our site,
+        our center,
+        our centre,
+      ]
+    el:
+      [
+        δικό μου,
+        το νοσοκομείο μου,
+        ο χώρος μου,
+        το κέντρο μου,
+        το νοσοκομείο μας,
+        ο χώρος μας,
+        το κέντρο μας,
+      ]
+    cs:
+      [
+        moje,
+        můj,
+        moje nemocnice,
+        moje pracoviště,
+        moje centrum,
+        naše nemocnice,
+        naše pracoviště,
+        naše centrum,
+      ]
+  description:
+    en: Description for MINE
+    el: Description for MINE in Greek
+    cs: Description for MINE in Czech
+  supported_by: internal
