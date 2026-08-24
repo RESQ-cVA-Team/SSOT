@@ -97,9 +97,9 @@
 - canonical: AA_RECANALIZATION
   index: 70
   synonyms:
-    en: [recanalization (awards metric)]
-    el: [επανακαναλοποίηση (awards metric)]
-    cs: [rekanalizace (awards metric)]
+    en: [recanalization]
+    el: [επανακαναλοποίηση]
+    cs: [rekanalizace]
   descriptions:
     en: Undergoing recanalization treatment (thrombolysis and/or thrombectomy) for ischemic stroke cases (Angels Awards Metric).
     es: Sometimiento a tratamiento de recanalización (trombolisis y/o trombectomía) en casos de ictus isquémico (métrica de los premios Angels).
@@ -121,9 +121,9 @@
 - canonical: AA_IMAGING
   index: 0
   synonyms:
-    en: [imaging at first hospital (awards metric)]
-    el: [απεικόνιση at first hospital (awards metric)]
-    cs: [zobrazení at first hospital (awards metric)]
+    en: [imaging at first hospital]
+    el: [απεικόνιση at first hospital]
+    cs: [zobrazení at first hospital]
   descriptions:
     en: Undergoing CT/MR imaging at the first hospital (Angels Awards Metric).
     es: Realización de tomografía computarizada o resonancia magnética en el primer hospital (métrica de los premios Angels).
@@ -145,9 +145,9 @@
 - canonical: AA_SWALLOWING_SCREENING
   index: 72
   synonyms:
-    en: [swallowing screening (awards metric)]
-    el: [έλεγχος κατάποσης (awards metric)]
-    cs: [screening polykání (awards metric)]
+    en: [swallowing screening]
+    el: [έλεγχος κατάποσης]
+    cs: [screening polykání]
   descriptions:
     en: Undergoing swallowing screening (Angels Awards Metric).
     es: Realización de cribado de la deglución (métrica de los premios Angels).
@@ -169,9 +169,9 @@
 - canonical: AA_ANTICOAGULANTS
   index: 0
   synonyms:
-    en: [anticoagulants at discharge (awards metric)]
-    el: [αντιπηκτικά κατά το εξιτήριο (awards metric)]
-    cs: [antikoagulancia při propuštění (awards metric)]
+    en: [anticoagulants at discharge]
+    el: [αντιπηκτικά κατά το εξιτήριο]
+    cs: [antikoagulancia při propuštění]
   descriptions:
     en: Prescription of anticoagulants upon discharge for cases with atrial fibrillation (Angels Awards Metric).
     es: Prescripción de anticoagulantes al alta en casos con fibrilación auricular (métrica de los premios Angels).
@@ -193,9 +193,9 @@
 - canonical: AA_ANTITHROMBOTICS
   index: 0
   synonyms:
-    en: [antithrombotics at discharge (awards metric)]
-    el: [αντιθρομβωτικά κατά το εξιτήριο (awards metric)]
-    cs: [antitrombotika při propuštění (awards metric)]
+    en: [antithrombotics at discharge]
+    el: [αντιθρομβωτικά κατά το εξιτήριο]
+    cs: [antitrombotika při propuštění]
   descriptions:
     en: Prescription of antithrombotics upon discharge for cases without atrial fibrillation (Angels Awards Metric).
     es: Prescripción de antiagregantes/antitrombóticos al alta en casos sin fibrilación auricular (métrica de los premios Angels).
@@ -217,9 +217,9 @@
 - canonical: AA_STROKE_UNIT
   index: 75
   synonyms:
-    en: [stroke unit or intensive care (awards metric)]
-    el: [μονάδα εγκεφαλικών or εντατική θεραπεία (awards metric)]
-    cs: [iktová jednotka or intenzivní péče (awards metric)]
+    en: [stroke unit or intensive care]
+    el: [μονάδα εγκεφαλικών or εντατική θεραπεία]
+    cs: [iktová jednotka or intenzivní péče]
   descriptions:
     en: Hospitalization in a dedicated stroke unit or intensive care unit (Angels Awards Metric).
     es: Hospitalización en una unidad de ictus dedicada o en una unidad de cuidados intensivos (métrica de los premios Angels).
