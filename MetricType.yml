@@ -1,9 +1,27 @@
 - canonical: AA_DTN_LE60
   index: 66
   synonyms:
-    en: [thrombolysis ≤60 minutes, door-to-needle ≤60 minutes]
-    el: [θρομβόλυση ≤60 λεπτά, door-to-needle ≤60 λεπτά]
-    cs: [trombolýza ≤60 minut, door-to-needle ≤60 minut]
+    en:
+      [
+        angels awards thrombolysis ≤60 minutes,
+        aa thrombolysis ≤60 minutes,
+        aa door-to-needle ≤60 minutes,
+        angels awards door-to-needle ≤60 minutes,
+      ]
+    el:
+      [
+        angels awards θρομβόλυση ≤60 λεπτά,
+        aa θρομβόλυση ≤60 λεπτά,
+        aa door-to-needle ≤60 λεπτά,
+        angels awards door-to-needle ≤60 λεπτά,
+      ]
+    cs:
+      [
+        angels awards trombolýza ≤60 minut,
+        aa trombolýza ≤60 minut,
+        aa door-to-needle ≤60 minut,
+        angels awards door-to-needle ≤60 minut,
+      ]
   descriptions:
     en: Thrombolysis treatment with a Door-To-Needle time less than or equal to 60 minutes (Angels Awards Metric).
     es: Tratamiento trombolítico con un tiempo puerta-aguja menor o igual a 60 minutos (métrica de los premios Angels).
@@ -25,9 +43,27 @@
 - canonical: AA_DTN_LE45
   index: 67
   synonyms:
-    en: [thrombolysis ≤45 minutes, door-to-needle ≤45 minutes]
-    el: [θρομβόλυση ≤45 λεπτά, door-to-needle ≤45 λεπτά]
-    cs: [trombolýza ≤45 minut, door-to-needle ≤45 minut]
+    en:
+      [
+        angels awards thrombolysis ≤45 minutes,
+        aa thrombolysis ≤45 minutes,
+        aa door-to-needle ≤45 minutes,
+        angels awards door-to-needle ≤45 minutes,
+      ]
+    el:
+      [
+        angels awards θρομβόλυση ≤45 λεπτά,
+        aa θρομβόλυση ≤45 λεπτά,
+        aa door-to-needle ≤45 λεπτά,
+        angels awards door-to-needle ≤45 λεπτά,
+      ]
+    cs:
+      [
+        angels awards trombolýza ≤45 minut,
+        aa trombolýza ≤45 minut,
+        aa door-to-needle ≤45 minut,
+        angels awards door-to-needle ≤45 minut,
+      ]
   descriptions:
     en: Thrombolysis treatment with a Door-To-Needle time less than or equal to 45 minutes (Angels Awards Metric).
     es: Tratamiento trombolítico con un tiempo puerta-aguja menor o igual a 45 minutos (métrica de los premios Angels).
@@ -49,9 +85,27 @@
 - canonical: AA_DTG_LE120
   index: 68
   synonyms:
-    en: [thrombectomy ≤120 minutes, door-to-groin ≤120 minutes]
-    el: [θρομβεκτομή ≤120 λεπτά, door-to-groin ≤120 λεπτά]
-    cs: [trombektomie ≤120 minut, door-to-groin ≤120 minut]
+    en:
+      [
+        angels awards thrombectomy ≤120 minutes,
+        aa thrombectomy ≤120 minutes,
+        aa door-to-groin ≤120 minutes,
+        angels awards door-to-groin ≤120 minutes,
+      ]
+    el:
+      [
+        angels awards θρομβεκτομή ≤120 λεπτά,
+        aa θρομβεκτομή ≤120 λεπτά,
+        aa door-to-groin ≤120 λεπτά,
+        angels awards door-to-groin ≤120 λεπτά,
+      ]
+    cs:
+      [
+        angels awards trombektomie ≤120 minut,
+        aa trombektomie ≤120 minut,
+        aa door-to-groin ≤120 minut,
+        angels awards door-to-groin ≤120 minut,
+      ]
   descriptions:
     en: Thrombectomy treatment with a Door-To-Groin time less than or equal to 120 minutes (Angels Awards Metric).
     es: Tratamiento con trombectomía con un tiempo puerta-ingle menor o igual a 120 minutos (métrica de los premios Angels).
@@ -73,9 +127,27 @@
 - canonical: AA_DTG_LE90
   index: 69
   synonyms:
-    en: [thrombectomy ≤90 minutes, door-to-groin ≤90 minutes]
-    el: [θρομβεκτομή ≤90 λεπτά, door-to-groin ≤90 λεπτά]
-    cs: [trombektomie ≤90 minut, door-to-groin ≤90 minut]
+    en:
+      [
+        angels awards thrombectomy ≤90 minutes,
+        aa thrombectomy ≤90 minutes,
+        aa door-to-groin ≤90 minutes,
+        angels awards door-to-groin ≤90 minutes,
+      ]
+    el:
+      [
+        angels awards θρομβεκτομή ≤90 λεπτά,
+        aa θρομβεκτομή ≤90 λεπτά,
+        aa door-to-groin ≤90 λεπτά,
+        angels awards door-to-groin ≤90 λεπτά,
+      ]
+    cs:
+      [
+        angels awards trombektomie ≤90 minut,
+        aa trombektomie ≤90 minut,
+        aa door-to-groin ≤90 minut,
+        angels awards door-to-groin ≤90 minut,
+      ]
   descriptions:
     en: Thrombectomy treatment with a Door-To-Groin time less than or equal to 90 minutes (Angels Awards Metric).
     es: Tratamiento con trombectomía con un tiempo puerta-ingle menor o igual a 90 minutos (métrica de los premios Angels).
@@ -97,9 +169,27 @@
 - canonical: AA_RECANALIZATION
   index: 70
   synonyms:
-    en: [recanalization]
-    el: [επανακαναλοποίηση]
-    cs: [rekanalizace]
+    en:
+      [
+        angels awards recanalization,
+        aa recanalization,
+        aa recanalization metric,
+        angels recanalization,
+      ]
+    el:
+      [
+        angels awards επανακαναλοποίηση,
+        aa επανακαναλοποίηση,
+        aa δείκτης επανακαναλοποίησης,
+        angels επανακαναλοποίηση,
+      ]
+    cs:
+      [
+        angels awards rekanalizace,
+        aa rekanalizace,
+        aa metrika rekanalizace,
+        angels rekanalizace,
+      ]
   descriptions:
     en: Undergoing recanalization treatment (thrombolysis and/or thrombectomy) for ischemic stroke cases (Angels Awards Metric).
     es: Sometimiento a tratamiento de recanalización (trombolisis y/o trombectomía) en casos de ictus isquémico (métrica de los premios Angels).
@@ -121,9 +211,27 @@
 - canonical: AA_IMAGING
   index: 0
   synonyms:
-    en: [imaging at first hospital]
-    el: [απεικόνιση at first hospital]
-    cs: [zobrazení at first hospital]
+    en:
+      [
+        angels awards imaging at first hospital,
+        aa imaging at first hospital,
+        aa first hospital imaging,
+        angels awards first hospital imaging,
+      ]
+    el:
+      [
+        angels awards απεικόνιση at first hospital,
+        aa απεικόνιση at first hospital,
+        aa first hospital απεικόνιση,
+        angels awards first hospital απεικόνιση,
+      ]
+    cs:
+      [
+        angels awards zobrazení at first hospital,
+        aa zobrazení at first hospital,
+        aa first hospital zobrazení,
+        angels awards first hospital zobrazení,
+      ]
   descriptions:
     en: Undergoing CT/MR imaging at the first hospital (Angels Awards Metric).
     es: Realización de tomografía computarizada o resonancia magnética en el primer hospital (métrica de los premios Angels).
@@ -145,9 +253,27 @@
 - canonical: AA_SWALLOWING_SCREENING
   index: 72
   synonyms:
-    en: [swallowing screening]
-    el: [έλεγχος κατάποσης]
-    cs: [screening polykání]
+    en:
+      [
+        angels awards swallowing screening,
+        aa swallowing screening,
+        aa swallowing screening metric,
+        angels swallowing screening,
+      ]
+    el:
+      [
+        angels awards έλεγχος κατάποσης,
+        aa έλεγχος κατάποσης,
+        aa δείκτης ελέγχου κατάποσης,
+        angels έλεγχος κατάποσης,
+      ]
+    cs:
+      [
+        angels awards screening polykání,
+        aa screening polykání,
+        aa metrika screeningu polykání,
+        angels screening polykání,
+      ]
   descriptions:
     en: Undergoing swallowing screening (Angels Awards Metric).
     es: Realización de cribado de la deglución (métrica de los premios Angels).
@@ -169,9 +295,27 @@
 - canonical: AA_ANTICOAGULANTS
   index: 0
   synonyms:
-    en: [anticoagulants at discharge]
-    el: [αντιπηκτικά κατά το εξιτήριο]
-    cs: [antikoagulancia při propuštění]
+    en:
+      [
+        angels awards anticoagulants at discharge,
+        aa anticoagulants at discharge,
+        aa discharge anticoagulants,
+        angels awards discharge anticoagulants,
+      ]
+    el:
+      [
+        angels awards αντιπηκτικά κατά το εξιτήριο,
+        aa αντιπηκτικά κατά το εξιτήριο,
+        aa εξιτήριο αντιπηκτικά,
+        angels awards εξιτήριο αντιπηκτικά,
+      ]
+    cs:
+      [
+        angels awards antikoagulancia při propuštění,
+        aa antikoagulancia při propuštění,
+        aa propuštění antikoagulancia,
+        angels awards propuštění antikoagulancia,
+      ]
   descriptions:
     en: Prescription of anticoagulants upon discharge for cases with atrial fibrillation (Angels Awards Metric).
     es: Prescripción de anticoagulantes al alta en casos con fibrilación auricular (métrica de los premios Angels).
@@ -193,9 +337,27 @@
 - canonical: AA_ANTITHROMBOTICS
   index: 0
   synonyms:
-    en: [antithrombotics at discharge]
-    el: [αντιθρομβωτικά κατά το εξιτήριο]
-    cs: [antitrombotika při propuštění]
+    en:
+      [
+        angels awards antithrombotics at discharge,
+        aa antithrombotics at discharge,
+        aa discharge antithrombotics,
+        angels awards discharge antithrombotics,
+      ]
+    el:
+      [
+        angels awards αντιθρομβωτικά κατά το εξιτήριο,
+        aa αντιθρομβωτικά κατά το εξιτήριο,
+        aa εξιτήριο αντιθρομβωτικά,
+        angels awards εξιτήριο αντιθρομβωτικά,
+      ]
+    cs:
+      [
+        angels awards antitrombotika při propuštění,
+        aa antitrombotika při propuštění,
+        aa propuštění antitrombotika,
+        angels awards propuštění antitrombotika,
+      ]
   descriptions:
     en: Prescription of antithrombotics upon discharge for cases without atrial fibrillation (Angels Awards Metric).
     es: Prescripción de antiagregantes/antitrombóticos al alta en casos sin fibrilación auricular (métrica de los premios Angels).
@@ -217,9 +379,27 @@
 - canonical: AA_STROKE_UNIT
   index: 75
   synonyms:
-    en: [stroke unit or intensive care]
-    el: [μονάδα εγκεφαλικών or εντατική θεραπεία]
-    cs: [iktová jednotka or intenzivní péče]
+    en:
+      [
+        angels awards stroke unit or intensive care,
+        aa stroke unit or intensive care,
+        aa stroke unit intensive care,
+        angels awards stroke unit intensive care,
+      ]
+    el:
+      [
+        angels awards μονάδα εγκεφαλικών or εντατική θεραπεία,
+        aa μονάδα εγκεφαλικών or εντατική θεραπεία,
+        aa μονάδα εγκεφαλικών εντατική θεραπεία,
+        angels awards μονάδα εγκεφαλικών εντατική θεραπεία,
+      ]
+    cs:
+      [
+        angels awards iktová jednotka or intenzivní péče,
+        aa iktová jednotka or intenzivní péče,
+        aa iktová jednotka intenzivní péče,
+        angels awards iktová jednotka intenzivní péče,
+      ]
   descriptions:
     en: Hospitalization in a dedicated stroke unit or intensive care unit (Angels Awards Metric).
     es: Hospitalización en una unidad de ictus dedicada o en una unidad de cuidados intensivos (métrica de los premios Angels).
@@ -3881,16 +4061,16 @@
     cs: Dosažení systolického krevního tlaku pod 140 mmHg u pacientů s intracerebrálním krvácením.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: ANTICOAGULANT_REVERSAL_GIVEN
   synonyms:
@@ -3904,16 +4084,16 @@
     cs: Použití reverze k zablokování antikoagulační medikace.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: CRANIECTOMY_AGE_LE60
   synonyms:
@@ -3927,16 +4107,16 @@
     cs: Kraniektomie provedená u pacientů ve věku 60 let nebo mladších.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: DISCHARGE_HYPERGLYCEMIA
   synonyms:
@@ -3950,16 +4130,16 @@
     cs: Hyperglykemie diagnostikovaná sedmý den po přijetí nebo při propuštění, pokud nastane dříve.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: HYDROCEPHALUS
   synonyms:
@@ -3973,16 +4153,16 @@
     cs: Diagnóza hydrocefalu na zobrazení po neurochirurgickém výkonu pro intracerebrální krvácení.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: HYDROCEPHALUS_SHUNT_TREATMENT
   synonyms:
@@ -3996,16 +4176,16 @@
     cs: Léčba hydrocefalu pomocí zavedení zkratu.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: IV_ANTIHYPERTENSIVE
   synonyms:
@@ -4019,16 +4199,16 @@
     cs: Podání intravenózních antihypertenziv při systolickém krevním tlaku nad 140 mmHg.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: MTICI_SUCCESSFUL_REPERFUSION
   synonyms:
@@ -4042,16 +4222,16 @@
     cs: Úspěšná reperfuze po mechanické trombektomii, definovaná jako skóre mTICI 2b, 2c nebo 3.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: STROKE_MIMICS_IVT
   synonyms:
@@ -4065,16 +4245,16 @@
     cs: Podstoupení intravenózní trombolýzy u stavů napodobujících cévní mozkovou příhodu.
   data_type: Enum
   Enum:
-  - key: 'yes'
-    synonyms:
-      en: ['yes']
-      el: [ναι]
-      cs: [ano]
-  - key: 'no'
-    synonyms:
-      en: ['no']
-      el: [όχι]
-      cs: [ne]
+    - key: "yes"
+      synonyms:
+        en: ["yes"]
+        el: [ναι]
+        cs: [ano]
+    - key: "no"
+      synonyms:
+        en: ["no"]
+        el: [όχι]
+        cs: [ne]
   supported_by: api
 - canonical: DISCHARGE_SYSTOLIC_PRESSURE
   synonyms:
@@ -4318,41 +4498,41 @@
     cs: Cesty, kterými jsou pacienti s cévní mozkovou příhodou přijímáni do iktové péče v hlásící nemocnici.
   data_type: Enum
   Enum:
-  - key: ems_from_home_scene
-    synonyms:
-      en: [ems from home or scene]
-      el: [ems from home or scene]
-      cs: [ems from home or scene]
-  - key: private_transportation_from_home_scene
-    synonyms:
-      en: [private transport from home or scene]
-      el: [ιδιωτική μεταφορά from home or scene]
-      cs: [soukromá doprava from home or scene]
-  - key: stroke_center
-    synonyms:
-      en: [stroke center]
-      el: [κέντρο εγκεφαλικών]
-      cs: [iktové centrum]
-  - key: another_hospital
-    synonyms:
-      en: [another hospital]
-      el: [another hospital]
-      cs: [another hospital]
-  - key: ems_from_gp
-    synonyms:
-      en: [ems from general practitioner]
-      el: [ems from γενικός ιατρός]
-      cs: [ems from praktický lékař]
-  - key: private_transportation_from_gp
-    synonyms:
-      en: [private transport from general practitioner]
-      el: [ιδιωτική μεταφορά from γενικός ιατρός]
-      cs: [soukromá doprava from praktický lékař]
-  - key: in_hospital_stroke
-    synonyms:
-      en: [in-hospital stroke]
-      el: [ενδονοσοκομειακό εγκεφαλικό]
-      cs: [iktus vzniklý během hospitalizace]
+    - key: ems_from_home_scene
+      synonyms:
+        en: [ems from home or scene]
+        el: [ems from home or scene]
+        cs: [ems from home or scene]
+    - key: private_transportation_from_home_scene
+      synonyms:
+        en: [private transport from home or scene]
+        el: [ιδιωτική μεταφορά from home or scene]
+        cs: [soukromá doprava from home or scene]
+    - key: stroke_center
+      synonyms:
+        en: [stroke center]
+        el: [κέντρο εγκεφαλικών]
+        cs: [iktové centrum]
+    - key: another_hospital
+      synonyms:
+        en: [another hospital]
+        el: [another hospital]
+        cs: [another hospital]
+    - key: ems_from_gp
+      synonyms:
+        en: [ems from general practitioner]
+        el: [ems from γενικός ιατρός]
+        cs: [ems from praktický lékař]
+    - key: private_transportation_from_gp
+      synonyms:
+        en: [private transport from general practitioner]
+        el: [ιδιωτική μεταφορά from γενικός ιατρός]
+        cs: [soukromá doprava from praktický lékař]
+    - key: in_hospital_stroke
+      synonyms:
+        en: [in-hospital stroke]
+        el: [ενδονοσοκομειακό εγκεφαλικό]
+        cs: [iktus vzniklý během hospitalizace]
   supported_by: api
 - canonical: ANTICOAGULANT_REVERSAL
   synonyms:
@@ -4366,61 +4546,61 @@
     cs: Typ reverzního přípravku použitého k zablokování antikoagulační medikace.
   data_type: Enum
   Enum:
-  - key: andexanet
-    synonyms:
-      en: [andexanet]
-      el: [andexanet]
-      cs: [andexanet]
-  - key: idarucizumab
-    synonyms:
-      en: [idarucizumab]
-      el: [idarucizumab]
-      cs: [idarucizumab]
-  - key: frozen_plasma
-    synonyms:
-      en: [frozen plasma]
-      el: [κατεψυγμένο πλάσμα]
-      cs: [zmrazená plazma]
-  - key: prothrombin
-    synonyms:
-      en: [prothrombin, prothrombin complex concentrate]
-      el: [προθρομβίνη]
-      cs: [protrombinový komplex]
-  - key: other
-    synonyms:
-      en: [other]
-      el: [άλλο]
-      cs: [jiné]
-  - key: none
-    synonyms:
-      en: [none]
-      el: [κανένα]
-      cs: [žádné]
-  - key: vitamin_k
-    synonyms:
-      en: [vitamin k]
-      el: [βιταμίνη k]
-      cs: [vitamin k]
-  - key: protamine_sulfate
-    synonyms:
-      en: [protamine sulfate]
-      el: [θειική πρωταμίνη]
-      cs: [protamin sulfát]
-  - key: tranexamic_acid
-    synonyms:
-      en: [tranexamic acid]
-      el: [τρανεξαμικό οξύ]
-      cs: [kyselina tranexamová]
-  - key: aminocaproic_acid
-    synonyms:
-      en: [aminocaproic acid]
-      el: [αμινοκαπροϊκό οξύ]
-      cs: [kyselina aminokapronová]
-  - key: ciraparantag
-    synonyms:
-      en: [ciraparantag]
-      el: [ciraparantag]
-      cs: [ciraparantag]
+    - key: andexanet
+      synonyms:
+        en: [andexanet]
+        el: [andexanet]
+        cs: [andexanet]
+    - key: idarucizumab
+      synonyms:
+        en: [idarucizumab]
+        el: [idarucizumab]
+        cs: [idarucizumab]
+    - key: frozen_plasma
+      synonyms:
+        en: [frozen plasma]
+        el: [κατεψυγμένο πλάσμα]
+        cs: [zmrazená plazma]
+    - key: prothrombin
+      synonyms:
+        en: [prothrombin, prothrombin complex concentrate]
+        el: [προθρομβίνη]
+        cs: [protrombinový komplex]
+    - key: other
+      synonyms:
+        en: [other]
+        el: [άλλο]
+        cs: [jiné]
+    - key: none
+      synonyms:
+        en: [none]
+        el: [κανένα]
+        cs: [žádné]
+    - key: vitamin_k
+      synonyms:
+        en: [vitamin k]
+        el: [βιταμίνη k]
+        cs: [vitamin k]
+    - key: protamine_sulfate
+      synonyms:
+        en: [protamine sulfate]
+        el: [θειική πρωταμίνη]
+        cs: [protamin sulfát]
+    - key: tranexamic_acid
+      synonyms:
+        en: [tranexamic acid]
+        el: [τρανεξαμικό οξύ]
+        cs: [kyselina tranexamová]
+    - key: aminocaproic_acid
+      synonyms:
+        en: [aminocaproic acid]
+        el: [αμινοκαπροϊκό οξύ]
+        cs: [kyselina aminokapronová]
+    - key: ciraparantag
+      synonyms:
+        en: [ciraparantag]
+        el: [ciraparantag]
+        cs: [ciraparantag]
   supported_by: api
 - canonical: HEMORRHAGIC_TRANSFORMATION_IVT
   synonyms:
@@ -4434,26 +4614,26 @@
     cs: Typy hemoragické transformace zjištěné u případů ischemické cévní mozkové příhody po intravenózní trombolýze během postakutní léčby.
   data_type: Enum
   Enum:
-  - key: hi_type_1
-    synonyms:
-      en: [hi type 1, hemorrhagic infarction type 1]
-      el: [hi τύπος 1]
-      cs: [hi typ 1]
-  - key: hi_type_2
-    synonyms:
-      en: [hi type 2, hemorrhagic infarction type 2]
-      el: [hi τύπος 2]
-      cs: [hi typ 2]
-  - key: ph_type_1
-    synonyms:
-      en: [ph type 1, parenchymal hematoma type 1]
-      el: [ph τύπος 1]
-      cs: [ph typ 1]
-  - key: ph_type_2
-    synonyms:
-      en: [ph type 2, parenchymal hematoma type 2]
-      el: [ph τύπος 2]
-      cs: [ph typ 2]
+    - key: hi_type_1
+      synonyms:
+        en: [hi type 1, hemorrhagic infarction type 1]
+        el: [hi τύπος 1]
+        cs: [hi typ 1]
+    - key: hi_type_2
+      synonyms:
+        en: [hi type 2, hemorrhagic infarction type 2]
+        el: [hi τύπος 2]
+        cs: [hi typ 2]
+    - key: ph_type_1
+      synonyms:
+        en: [ph type 1, parenchymal hematoma type 1]
+        el: [ph τύπος 1]
+        cs: [ph typ 1]
+    - key: ph_type_2
+      synonyms:
+        en: [ph type 2, parenchymal hematoma type 2]
+        el: [ph τύπος 2]
+        cs: [ph typ 2]
   supported_by: api
 - canonical: ICH_TREATMENT_EVACUATION_TYPE
   synonyms:
@@ -4467,21 +4647,21 @@
     cs: Typ léčby evakuace hematomu při intracerebrálním krvácení.
   data_type: Enum
   Enum:
-  - key: min_invasive_evacuation
-    synonyms:
-      en: [minimally invasive evacuation]
-      el: [ελάχιστα επεμβατική εκκένωση]
-      cs: [minimálně invazivní evakuace]
-  - key: open_craniectomy_evacuation
-    synonyms:
-      en: [open craniectomy evacuation]
-      el: [ανοιχτή κρανιεκτομή εκκένωσης]
-      cs: [evakuace otevřenou kraniektomií]
-  - key: stereotactic_aspiration
-    synonyms:
-      en: [stereotactic aspiration]
-      el: [στερεοτακτική αναρρόφηση]
-      cs: [stereotaktická aspirace]
+    - key: min_invasive_evacuation
+      synonyms:
+        en: [minimally invasive evacuation]
+        el: [ελάχιστα επεμβατική εκκένωση]
+        cs: [minimálně invazivní evakuace]
+    - key: open_craniectomy_evacuation
+      synonyms:
+        en: [open craniectomy evacuation]
+        el: [ανοιχτή κρανιεκτομή εκκένωσης]
+        cs: [evakuace otevřenou kraniektomií]
+    - key: stereotactic_aspiration
+      synonyms:
+        en: [stereotactic aspiration]
+        el: [στερεοτακτική αναρρόφηση]
+        cs: [stereotaktická aspirace]
   supported_by: api
 - canonical: ICH_TREATMENT_TYPE_EXTENDED
   synonyms:
@@ -4495,31 +4675,31 @@
     cs: Typy provedené léčby intracerebrálního krvácení s jednotlivými kategoriemi evakuace hematomu uvedenými samostatně.
   data_type: Enum
   Enum:
-  - key: min_invasive_evacuation
-    synonyms:
-      en: [minimally invasive evacuation]
-      el: [ελάχιστα επεμβατική εκκένωση]
-      cs: [minimálně invazivní evakuace]
-  - key: open_craniectomy_evacuation
-    synonyms:
-      en: [open craniectomy evacuation]
-      el: [ανοιχτή κρανιεκτομή εκκένωσης]
-      cs: [evakuace otevřenou kraniektomií]
-  - key: stereotactic_aspiration
-    synonyms:
-      en: [stereotactic aspiration]
-      el: [στερεοτακτική αναρρόφηση]
-      cs: [stereotaktická aspirace]
-  - key: ventricular_drainage
-    synonyms:
-      en: [ventricular drainage]
-      el: [κοιλιακή παροχέτευση]
-      cs: [komorová drenáž]
-  - key: craniectomy
-    synonyms:
-      en: [craniectomy]
-      el: [κρανιεκτομή]
-      cs: [kraniektomie]
+    - key: min_invasive_evacuation
+      synonyms:
+        en: [minimally invasive evacuation]
+        el: [ελάχιστα επεμβατική εκκένωση]
+        cs: [minimálně invazivní evakuace]
+    - key: open_craniectomy_evacuation
+      synonyms:
+        en: [open craniectomy evacuation]
+        el: [ανοιχτή κρανιεκτομή εκκένωσης]
+        cs: [evakuace otevřenou kraniektomií]
+    - key: stereotactic_aspiration
+      synonyms:
+        en: [stereotactic aspiration]
+        el: [στερεοτακτική αναρρόφηση]
+        cs: [stereotaktická aspirace]
+    - key: ventricular_drainage
+      synonyms:
+        en: [ventricular drainage]
+        el: [κοιλιακή παροχέτευση]
+        cs: [komorová drenáž]
+    - key: craniectomy
+      synonyms:
+        en: [craniectomy]
+        el: [κρανιεκτομή]
+        cs: [kraniektomie]
   supported_by: api
 - canonical: NO_ANTICOAGULATION_REVERSAL_REASON
   synonyms:
@@ -4533,41 +4713,41 @@
     cs: Důvod nezahájení reverze antikoagulace při intracerebrálním krvácení.
   data_type: Enum
   Enum:
-  - key: consent
-    synonyms:
-      en: [consent]
-      el: [συναίνεση]
-      cs: [souhlas]
-  - key: cost_of_drug
-    synonyms:
-      en: [cost of drug]
-      el: [κόστος φαρμάκου]
-      cs: [cena léku]
-  - key: not_available
-    synonyms:
-      en: [not available]
-      el: [μη διαθέσιμο]
-      cs: [nedostupné]
-  - key: no_licence
-    synonyms:
-      en: [no licence]
-      el: [χωρίς άδεια]
-      cs: [bez licence]
-  - key: criteria_not_met
-    synonyms:
-      en: [criteria not met]
-      el: [μη πλήρωση κριτηρίων]
-      cs: [nesplněná kritéria]
-  - key: missed_anticoagulation_dose
-    synonyms:
-      en: [missed anticoagulation dose]
-      el: [παράλειψη δόσης αντιπηκτικού]
-      cs: [vynechaná dávka antikoagulace]
-  - key: not_reported
-    synonyms:
-      en: [not reported]
-      el: [μη αναφερθέν]
-      cs: [nehlášeno]
+    - key: consent
+      synonyms:
+        en: [consent]
+        el: [συναίνεση]
+        cs: [souhlas]
+    - key: cost_of_drug
+      synonyms:
+        en: [cost of drug]
+        el: [κόστος φαρμάκου]
+        cs: [cena léku]
+    - key: not_available
+      synonyms:
+        en: [not available]
+        el: [μη διαθέσιμο]
+        cs: [nedostupné]
+    - key: no_licence
+      synonyms:
+        en: [no licence]
+        el: [χωρίς άδεια]
+        cs: [bez licence]
+    - key: criteria_not_met
+      synonyms:
+        en: [criteria not met]
+        el: [μη πλήρωση κριτηρίων]
+        cs: [nesplněná kritéria]
+    - key: missed_anticoagulation_dose
+      synonyms:
+        en: [missed anticoagulation dose]
+        el: [παράλειψη δόσης αντιπηκτικού]
+        cs: [vynechaná dávka antikoagulace]
+    - key: not_reported
+      synonyms:
+        en: [not reported]
+        el: [μη αναφερθέν]
+        cs: [nehlášeno]
   supported_by: api
 - canonical: NO_ICH_TREATMENT_REASON
   synonyms:
@@ -4581,51 +4761,51 @@
     cs: Důvod, proč intracerebrální krvácení nebylo léčeno neurochirurgicky.
   data_type: Enum
   Enum:
-  - key: size_contraindication
-    synonyms:
-      en: [size contraindication]
-      el: [αντένδειξη μεγέθους]
-      cs: [kontraindikace velikosti]
-  - key: location_contraindication
-    synonyms:
-      en: [location contraindication]
-      el: [αντένδειξη εντόπισης]
-      cs: [kontraindikace lokalizace]
-  - key: consent
-    synonyms:
-      en: [consent]
-      el: [συναίνεση]
-      cs: [souhlas]
-  - key: cost_of_procedure
-    synonyms:
-      en: [cost of procedure]
-      el: [κόστος διαδικασίας]
-      cs: [cena výkonu]
-  - key: no_neurosurgery_facility
-    synonyms:
-      en: [no neurosurgery facility]
-      el: [χωρίς νευροχειρουργική μονάδα]
-      cs: [chybějící neurochirurgické pracoviště]
-  - key: no_specialist
-    synonyms:
-      en: [no specialist]
-      el: [χωρίς ειδικό ιατρό]
-      cs: [chybějící specialista]
-  - key: poor_prognosis
-    synonyms:
-      en: [poor prognosis]
-      el: [κακή πρόγνωση]
-      cs: [špatná prognóza]
-  - key: other
-    synonyms:
-      en: [other]
-      el: [άλλο]
-      cs: [jiné]
-  - key: not_reported
-    synonyms:
-      en: [not reported]
-      el: [μη αναφερθέν]
-      cs: [nehlášeno]
+    - key: size_contraindication
+      synonyms:
+        en: [size contraindication]
+        el: [αντένδειξη μεγέθους]
+        cs: [kontraindikace velikosti]
+    - key: location_contraindication
+      synonyms:
+        en: [location contraindication]
+        el: [αντένδειξη εντόπισης]
+        cs: [kontraindikace lokalizace]
+    - key: consent
+      synonyms:
+        en: [consent]
+        el: [συναίνεση]
+        cs: [souhlas]
+    - key: cost_of_procedure
+      synonyms:
+        en: [cost of procedure]
+        el: [κόστος διαδικασίας]
+        cs: [cena výkonu]
+    - key: no_neurosurgery_facility
+      synonyms:
+        en: [no neurosurgery facility]
+        el: [χωρίς νευροχειρουργική μονάδα]
+        cs: [chybějící neurochirurgické pracoviště]
+    - key: no_specialist
+      synonyms:
+        en: [no specialist]
+        el: [χωρίς ειδικό ιατρό]
+        cs: [chybějící specialista]
+    - key: poor_prognosis
+      synonyms:
+        en: [poor prognosis]
+        el: [κακή πρόγνωση]
+        cs: [špatná prognóza]
+    - key: other
+      synonyms:
+        en: [other]
+        el: [άλλο]
+        cs: [jiné]
+    - key: not_reported
+      synonyms:
+        en: [not reported]
+        el: [μη αναφερθέν]
+        cs: [nehlášeno]
   supported_by: api
 - canonical: STROKE_ETIOLOGY_RARE_TYPE_AIS_TIA
   synonyms:
@@ -4639,81 +4819,81 @@
     cs: Vzácné typy určených etiologií, jinak klasifikované jako 'jiné' v hlavní kategorizaci.
   data_type: Enum
   Enum:
-  - key: vasculitis
-    synonyms:
-      en: [vasculitis]
-      el: [αγγειίτιδα]
-      cs: [vaskulitida]
-  - key: dissection
-    synonyms:
-      en: [dissection]
-      el: [διαχωρισμός]
-      cs: [disekce]
-  - key: coagulation_system_disorders
-    synonyms:
-      en: [coagulation system disorders]
-      el: [διαταραχές πηκτικού συστήματος]
-      cs: [poruchy koagulačního systému]
-  - key: hematological_disorders
-    synonyms:
-      en: [hematological disorders]
-      el: [αιματολογικές διαταραχές]
-      cs: [hematologické poruchy]
-  - key: fibromuscular_dysplasia
-    synonyms:
-      en: [fibromuscular dysplasia]
-      el: [ινομυϊκή δυσπλασία]
-      cs: [fibromuskulární dysplazie]
-  - key: reversible_cerebral_vasoconstriction_syndromes
-    synonyms:
-      en: [reversible cerebral vasoconstriction syndrome]
-      el: [αναστρέψιμο σύνδρομο εγκεφαλικής αγγειοσύσπασης]
-      cs: [syndrom reverzibilní cerebrální vazokonstrikce]
-  - key: radiation_induced_vasculopathy
-    synonyms:
-      en: [radiation induced vasculopathy]
-      el: [ακτινική αγγειοπάθεια]
-      cs: [radiací indukovaná vaskulopatie]
-  - key: moyamoya_disease
-    synonyms:
-      en: [moyamoya disease]
-      el: [νόσος moyamoya]
-      cs: [moyamoya nemoc]
-  - key: fabry_disease
-    synonyms:
-      en: [fabry disease]
-      el: [νόσος fabry]
-      cs: [fabryho nemoc]
-  - key: cadasil
-    synonyms:
-      en: [cadasil]
-      el: [cadasil]
-      cs: [cadasil]
-  - key: giant_cell_arteritis
-    synonyms:
-      en: [giant cell arteritis]
-      el: [αρτηρίτιδα γιγαντοκυττάρων]
-      cs: [obrovskobuněčná arteritida]
-  - key: antiphospholipid_syndrome
-    synonyms:
-      en: [antiphospholipid syndrome]
-      el: [αντιφωσφολιπιδικό σύνδρομο]
-      cs: [antifosfolipidový syndrom]
-  - key: sickle_cell_anemia
-    synonyms:
-      en: [sickle cell anemia]
-      el: [δρεπανοκυτταρική αναιμία]
-      cs: [srpkovitá anémie]
-  - key: migrainous_stroke
-    synonyms:
-      en: [migrainous stroke]
-      el: [ημικρανιακό εγκεφαλικό]
-      cs: [migrenózní cévní mozková příhoda]
-  - key: cerebral_venous_sinus_thrombosis
-    synonyms:
-      en: [cerebral venous sinus thrombosis]
-      el: [θρόμβωση φλεβώδους κόλπου εγκεφάλου]
-      cs: [trombóza mozkových žilních splavů]
+    - key: vasculitis
+      synonyms:
+        en: [vasculitis]
+        el: [αγγειίτιδα]
+        cs: [vaskulitida]
+    - key: dissection
+      synonyms:
+        en: [dissection]
+        el: [διαχωρισμός]
+        cs: [disekce]
+    - key: coagulation_system_disorders
+      synonyms:
+        en: [coagulation system disorders]
+        el: [διαταραχές πηκτικού συστήματος]
+        cs: [poruchy koagulačního systému]
+    - key: hematological_disorders
+      synonyms:
+        en: [hematological disorders]
+        el: [αιματολογικές διαταραχές]
+        cs: [hematologické poruchy]
+    - key: fibromuscular_dysplasia
+      synonyms:
+        en: [fibromuscular dysplasia]
+        el: [ινομυϊκή δυσπλασία]
+        cs: [fibromuskulární dysplazie]
+    - key: reversible_cerebral_vasoconstriction_syndromes
+      synonyms:
+        en: [reversible cerebral vasoconstriction syndrome]
+        el: [αναστρέψιμο σύνδρομο εγκεφαλικής αγγειοσύσπασης]
+        cs: [syndrom reverzibilní cerebrální vazokonstrikce]
+    - key: radiation_induced_vasculopathy
+      synonyms:
+        en: [radiation induced vasculopathy]
+        el: [ακτινική αγγειοπάθεια]
+        cs: [radiací indukovaná vaskulopatie]
+    - key: moyamoya_disease
+      synonyms:
+        en: [moyamoya disease]
+        el: [νόσος moyamoya]
+        cs: [moyamoya nemoc]
+    - key: fabry_disease
+      synonyms:
+        en: [fabry disease]
+        el: [νόσος fabry]
+        cs: [fabryho nemoc]
+    - key: cadasil
+      synonyms:
+        en: [cadasil]
+        el: [cadasil]
+        cs: [cadasil]
+    - key: giant_cell_arteritis
+      synonyms:
+        en: [giant cell arteritis]
+        el: [αρτηρίτιδα γιγαντοκυττάρων]
+        cs: [obrovskobuněčná arteritida]
+    - key: antiphospholipid_syndrome
+      synonyms:
+        en: [antiphospholipid syndrome]
+        el: [αντιφωσφολιπιδικό σύνδρομο]
+        cs: [antifosfolipidový syndrom]
+    - key: sickle_cell_anemia
+      synonyms:
+        en: [sickle cell anemia]
+        el: [δρεπανοκυτταρική αναιμία]
+        cs: [srpkovitá anémie]
+    - key: migrainous_stroke
+      synonyms:
+        en: [migrainous stroke]
+        el: [ημικρανιακό εγκεφαλικό]
+        cs: [migrenózní cévní mozková příhoda]
+    - key: cerebral_venous_sinus_thrombosis
+      synonyms:
+        en: [cerebral venous sinus thrombosis]
+        el: [θρόμβωση φλεβώδους κόλπου εγκεφάλου]
+        cs: [trombóza mozkových žilních splavů]
   supported_by: api
 - canonical: TENECTEPLASE_BRANDS
   synonyms:
@@ -4727,49 +4907,49 @@
     cs: Obchodní názvy trombolytických léků tenekteplázy.
   data_type: Enum
   Enum:
-  - key: metalyse
-    synonyms:
-      en: [metalyse]
-      el: [metalyse]
-      cs: [metalyse]
-  - key: tenectase
-    synonyms:
-      en: [tenectase]
-      el: [tenectase]
-      cs: [tenectase]
-  - key: tnkase
-    synonyms:
-      en: [tnkase]
-      el: [tnkase]
-      cs: [tnkase]
-  - key: supraplase
-    synonyms:
-      en: [supraplase]
-      el: [supraplase]
-      cs: [supraplase]
-  - key: velix
-    synonyms:
-      en: [velix]
-      el: [velix]
-      cs: [velix]
-  - key: tenectelex
-    synonyms:
-      en: [tenectelex]
-      el: [tenectelex]
-      cs: [tenectelex]
-  - key: telyse
-    synonyms:
-      en: [telyse]
-      el: [telyse]
-      cs: [telyse]
-  - key: tenepact
-    synonyms:
-      en: [tenepact]
-      el: [tenepact]
-      cs: [tenepact]
-  - key: other
-    synonyms:
-      en: [other]
-      el: [άλλο]
-      cs: [jiné]
+    - key: metalyse
+      synonyms:
+        en: [metalyse]
+        el: [metalyse]
+        cs: [metalyse]
+    - key: tenectase
+      synonyms:
+        en: [tenectase]
+        el: [tenectase]
+        cs: [tenectase]
+    - key: tnkase
+      synonyms:
+        en: [tnkase]
+        el: [tnkase]
+        cs: [tnkase]
+    - key: supraplase
+      synonyms:
+        en: [supraplase]
+        el: [supraplase]
+        cs: [supraplase]
+    - key: velix
+      synonyms:
+        en: [velix]
+        el: [velix]
+        cs: [velix]
+    - key: tenectelex
+      synonyms:
+        en: [tenectelex]
+        el: [tenectelex]
+        cs: [tenectelex]
+    - key: telyse
+      synonyms:
+        en: [telyse]
+        el: [telyse]
+        cs: [telyse]
+    - key: tenepact
+      synonyms:
+        en: [tenepact]
+        el: [tenepact]
+        cs: [tenepact]
+    - key: other
+      synonyms:
+        en: [other]
+        el: [άλλο]
+        cs: [jiné]
   supported_by: api
