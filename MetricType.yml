@@ -3989,7 +3989,7 @@
   Numeric:
     unit: days
     range_min: 0
-    range_max: 365
+    range_max: 100
     default_buckets: 20
   supported_by: api
 - canonical: DISCHARGE_NIHSS
