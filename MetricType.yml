@@ -4365,9 +4365,9 @@
   supported_by: api
 - canonical: DTG_NO_FILTER
   synonyms:
-    en: [door to groin no filter, dtg no filter]
-    el: [door-to-groin χωρίς φίλτρο]
-    cs: [door-to-groin bez filtru]
+    en: []
+    el: []
+    cs: []
   descriptions:
     en: Door-To-Groin time in minutes without implicit filters, including only patients with a known DTG value.
     es: Tiempo puerta-ingle en minutos sin filtros implícitos, incluyendo solo pacientes con valor de DTG conocido.
@@ -4382,9 +4382,9 @@
   supported_by: api
 - canonical: DTN_NO_FILTER
   synonyms:
-    en: [door to needle no filter, dtn no filter]
-    el: [door-to-needle χωρίς φίλτρο]
-    cs: [door-to-needle bez filtru]
+    en: []
+    el: []
+    cs: []
   descriptions:
     en: Door-To-Needle time in minutes without implicit filters, including only patients with a known DTN value.
     es: Tiempo puerta-aguja en minutos sin filtros implícitos, incluyendo solo pacientes con valor de DTN conocido.
