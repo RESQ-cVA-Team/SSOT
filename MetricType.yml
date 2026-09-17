@@ -809,7 +809,7 @@
 - canonical: BEFORE_ONSET_MEDICATION_AIS_TIA
   index: 0
   synonyms:
-    en: [medication before onset in ais or tia]
+    en: [medication before onset for AIS or TIA,medication before onset in ais or tia, medication before onset for acute ischemic stroke or transient ischemic attack]
     el: [φαρμακευτική αγωγή πριν από την έναρξη in ais or tia]
     cs: [medikace před vznikem in ais or tia]
   descriptions:
