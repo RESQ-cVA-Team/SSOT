@@ -4751,7 +4751,7 @@
   supported_by: api
 - canonical: NO_ICH_TREATMENT_REASON
   synonyms:
-    en: [reason for no ich treatment, no neurosurgery reason]
+    en: [reason for no ich treatment, reason for no neurosurgery]
     el: [λόγος μη θεραπείας ενδοεγκεφαλικής αιμορραγίας]
     cs: [důvod neprovedení léčby intracerebrálního krvácení]
   descriptions:
