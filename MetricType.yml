@@ -3734,7 +3734,7 @@
 - canonical: DISCHARGE_ANTICOAGULANTS_AFIB
   index: 74
   synonyms:
-    en: [anticoagulants at discharge in atrial fibrillation]
+    en: [anticoagulants for atrial fibrillation at discharge]
     el: [αντιπηκτικά κατά το εξιτήριο in κολπική μαρμαρυγή]
     cs: [antikoagulancia při propuštění in fibrilace síní]
   descriptions:
@@ -3989,7 +3989,7 @@
   Numeric:
     unit: days
     range_min: 0
-    range_max: 100
+    range_max: 60
     default_buckets: 20
   supported_by: api
 - canonical: DISCHARGE_NIHSS
