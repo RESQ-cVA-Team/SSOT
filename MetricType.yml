@@ -809,7 +809,7 @@
 - canonical: BEFORE_ONSET_MEDICATION_AIS_TIA
   index: 0
   synonyms:
-    en: [medication before onset for AIS or TIA,medication before onset in ais or tia, medication before onset for acute ischemic stroke or transient ischemic attack]
+    en: [medication before onset for AIS or TIA, medication before onset in ais or tia, medication before onset for acute ischemic stroke or transient ischemic attack]
     el: [φαρμακευτική αγωγή πριν από την έναρξη in ais or tia]
     cs: [medikace před vznikem in ais or tia]
   descriptions:
@@ -4365,9 +4365,9 @@
   supported_by: api
 - canonical: DTG_NO_FILTER
   synonyms:
-    en: []
-    el: []
-    cs: []
+    en: [unfiltered door to groin, unfiltered dtg]
+    el: [ανεπιφυλάκτος χρόνος door-to-groin]
+    cs: [nefiltrovaný door-to-groin]
   descriptions:
     en: Door-To-Groin time in minutes without implicit filters, including only patients with a known DTG value.
     es: Tiempo puerta-ingle en minutos sin filtros implícitos, incluyendo solo pacientes con valor de DTG conocido.
@@ -4382,9 +4382,9 @@
   supported_by: api
 - canonical: DTN_NO_FILTER
   synonyms:
-    en: []
-    el: []
-    cs: []
+    en: [unfiltered door to needle, unfiltered dtn]
+    el: [ανεπιφυλάκτος χρόνος door-to-needle]
+    cs: [nefiltrovaný door-to-needle]
   descriptions:
     en: Door-To-Needle time in minutes without implicit filters, including only patients with a known DTN value.
     es: Tiempo puerta-aguja en minutos sin filtros implícitos, incluyendo solo pacientes con valor de DTN conocido.
