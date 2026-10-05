@@ -2709,9 +2709,9 @@
 - canonical: CRANIECTOMY_AGE_GT60
   index: 49
   synonyms:
-    en: [decompressive craniectomy age 60 or above]
-    el: [decompressive craniectomy age ≥60]
-    cs: [decompressive craniectomy age ≥60]
+    en: [craniectomy age 60 or above, decompressive craniectomy age 60 or older]
+    el: [craniectomy age 60 or above, decompressive craniectomy age 60 or older]
+    cs: [craniectomy age 60 or above, decompressive craniectomy age 60 or older]
   descriptions:
     en: Performance of decompressive craniectomy among patients who are 60 years old or older.
     es: Realización de craniectomía descompresiva en pacientes de 60 años o más.
