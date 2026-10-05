@@ -2709,7 +2709,7 @@
 - canonical: CRANIECTOMY_AGE_GT60
   index: 49
   synonyms:
-    en: [decompressive craniectomy age ≥60]
+    en: [decompressive craniectomy age 60 or above]
     el: [decompressive craniectomy age ≥60]
     cs: [decompressive craniectomy age ≥60]
   descriptions:
@@ -2897,9 +2897,9 @@
 - canonical: STROKE_ETIOLOGY_KNOWN_AIS
   index: 0
   synonyms:
-    en: [stroke etiology known (ais)]
-    el: [stroke etiology known (ais)]
-    cs: [stroke etiology known (ais)]
+    en: [etiology of AIS known, cause of AIS known]
+    el: [etiology of AIS known, cause of AIS known]
+    cs: [etiology of AIS known, cause of AIS known]
   descriptions:
     en: Determination of etiology of acute ischemic stroke.
     es: Determinación de la etiología del ictus isquémico agudo.
@@ -2921,9 +2921,9 @@
 - canonical: STROKE_ETIOLOGY_TYPE_AIS
   index: 19
   synonyms:
-    en: [stroke etiology type (ais)]
-    el: [stroke etiology type (ais)]
-    cs: [stroke etiology type (ais)]
+    en: [AIS etiology type, type of AIS etiology]
+    el: [AIS etiology type, type of AIS etiology]
+    cs: [AIS etiology type, type of AIS etiology]
   descriptions:
     en: Types of determined etiologies among acute ischemic stroke patients.
     es: Tipos de etiologías establecidas entre los pacientes con ictus isquémico agudo.
@@ -2960,9 +2960,9 @@
 - canonical: STROKE_ETIOLOGY_KNOWN_AIS_TIA
   index: 0
   synonyms:
-    en: [stroke etiology known (ais or tia)]
-    el: [stroke etiology known (ais or tia)]
-    cs: [stroke etiology known (ais or tia)]
+    en: [AIS or TIA etiology known, cause of AIS or TIA known]
+    el: [AIS or TIA etiology known, cause of AIS or TIA known]
+    cs: [AIS or TIA etiology known, cause of AIS or TIA known]
   descriptions:
     en: Determination of etiology of acute ischemic stroke or transient ischemic attack.
     es: Determinación de la etiología del ictus isquémico agudo o del ataque isquémico transitorio.
@@ -2984,9 +2984,9 @@
 - canonical: STROKE_ETIOLOGY_TYPE_AIS_TIA
   index: 0
   synonyms:
-    en: [stroke etiology type (ais or tia)]
-    el: [stroke etiology type (ais or tia)]
-    cs: [stroke etiology type (ais or tia)]
+    en: [AIS or TIA etiology type, type of AIS or TIA etiology]
+    el: [AIS or TIA etiology type, type of AIS or TIA etiology]
+    cs: [AIS or TIA etiology type, type of AIS or TIA etiology]
   descriptions:
     en: Types of determined etiologies among acute ischemic stroke or transient ischemic attack patients.
     es: Tipos de etiologías establecidas entre pacientes con ictus isquémico agudo o ataque isquémico transitorio.
