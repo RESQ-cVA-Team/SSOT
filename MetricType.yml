@@ -2815,9 +2815,9 @@
 - canonical: CAROTID_ENDARTERECTOMY
   index: 0
   synonyms:
-    en: [carotid endarterectomy or stenting within two weeks]
-    el: [carotid endarterectomy or stenting within two weeks]
-    cs: [carotid endarterectomy or stenting within two weeks]
+    en: [carotid endarterectomy, carotid artery stenting, stenting, stenting within two weeks]
+    el: [carotid endarterectomy, carotid artery stenting, stenting, stenting within two weeks]
+    cs: [carotid endarterectomy, carotid artery stenting, stenting, stenting within two weeks]
   descriptions:
     en: Treatment of carotid stenosis using carotid endarterectomy or stenting within two weeks after stroke onset.
     es: Tratamiento de la estenosis carotídea mediante endarterectomía o colocación de stent dentro de las dos semanas posteriores al inicio del ictus.
