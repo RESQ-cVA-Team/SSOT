@@ -4470,7 +4470,7 @@
   supported_by: api
 - canonical: IV_ANTIHYPERTENSIVE_TO_SYS_BP_LT140
   synonyms:
-    en: [iv antihypertensive to systolic bp below 140]
+    en: [iv antihypertensive to systolic bp, iv antihypertensive to systolic blood pressure, iv antihypertensive to bp pressure below 140]
     el: [χρόνος από ενδοφλέβια αντιυπερτασικά έως συστολική πίεση κάτω από 140]
     cs: [čas od intravenózních antihypertenziv do systolického tlaku pod 140]
   descriptions:
