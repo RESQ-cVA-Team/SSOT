@@ -809,7 +809,12 @@
 - canonical: BEFORE_ONSET_MEDICATION_AIS_TIA
   index: 0
   synonyms:
-    en: [medication before onset for AIS or TIA, medication before onset in ais or tia, medication before onset for acute ischemic stroke or transient ischemic attack]
+    en:
+      [
+        medication before onset for AIS or TIA,
+        medication before onset in ais or tia,
+        medication before onset for acute ischemic stroke or transient ischemic attack,
+      ]
     el: [φαρμακευτική αγωγή πριν από την έναρξη in ais or tia]
     cs: [medikace před vznikem in ais or tia]
   descriptions:
@@ -2815,9 +2820,27 @@
 - canonical: CAROTID_ENDARTERECTOMY
   index: 0
   synonyms:
-    en: [carotid endarterectomy or stenting within two weeks]
-    el: [carotid endarterectomy, carotid artery stenting, stenting, stenting within two weeks]
-    cs: [carotid endarterectomy, carotid artery stenting, stenting, stenting within two weeks]
+    en:
+      [
+        carotid endarterectomy or stenting within two weeks,
+        carotid endarterectomy or stenting within 14 days,
+        carotid endarectomy,
+        carotid stenting,
+      ]
+    el:
+      [
+        καρωτιδική ενδαρτηρεκτομή ή τοποθέτηση stent εντός δύο εβδομάδων,
+        καρωτιδική ενδαρτηρεκτομή ή τοποθέτηση stent εντός 14 ημερών,
+        καρωτιδική ενδαρτηρεκτομή,
+        καρωτιδικό stent,
+      ]
+    cs:
+      [
+        karotická endarterektomie nebo zavedení stentu do dvou týdnů,
+        karotická endarterektomie nebo zavedení stentu do 14 dnů,
+        karotická endarterektomie,
+        karotické stentování,
+      ]
   descriptions:
     en: Treatment of carotid stenosis using carotid endarterectomy or stenting within two weeks after stroke onset.
     es: Tratamiento de la estenosis carotídea mediante endarterectomía o colocación de stent dentro de las dos semanas posteriores al inicio del ictus.
@@ -4470,7 +4493,12 @@
   supported_by: api
 - canonical: IV_ANTIHYPERTENSIVE_TO_SYS_BP_LT140
   synonyms:
-    en: [iv antihypertensive to systolic bp, iv antihypertensive to systolic blood pressure, iv antihypertensive to bp below 140]
+    en:
+      [
+        iv antihypertensive to systolic bp,
+        iv antihypertensive to systolic blood pressure,
+        iv antihypertensive to bp below 140,
+      ]
     el: [χρόνος από ενδοφλέβια αντιυπερτασικά έως συστολική πίεση κάτω από 140]
     cs: [čas od intravenózních antihypertenziv do systolického tlaku pod 140]
   descriptions:
