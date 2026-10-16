@@ -3995,9 +3995,9 @@
 - canonical: DISCHARGE_NIHSS
   index: 65
   synonyms:
-    en: [discharge NIH Stroke Scale, discharge NIHSS]
-    el: [discharge nih stroke scale, nihss εξιτηρίου]
-    cs: [discharge nih stroke scale, nihss při propuštění]
+    en: [discharge nihss, nihss at discharge]
+    el: [nihss εξόδου, nihss κατά την έξοδο]
+    cs: [výstupní nihss, nihss při propuštění]
   descriptions:
     en: NIH Stroke Scale scores taken at discharge.
     es: Puntuaciones de la NIH Stroke Scale registradas al alta.
