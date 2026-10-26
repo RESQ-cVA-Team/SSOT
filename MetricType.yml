@@ -28,6 +28,10 @@
     el: Θρομβολυτική θεραπεία με χρόνο door-to-needle μικρότερο ή ίσο με 60 λεπτά (δείκτης βραβείων Angels).
     cs: Trombolytická léčba s door-to-needle časem kratším nebo rovným 60 minutám (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    gold: 50
+    platinum: 75
+    diamond: 75
   Enum:
     - key: "yes"
       synonyms:
@@ -70,6 +74,9 @@
     el: Θρομβολυτική θεραπεία με χρόνο door-to-needle μικρότερο ή ίσο με 45 λεπτά (δείκτης βραβείων Angels).
     cs: Trombolytická léčba s door-to-needle časem kratším nebo rovným 45 minutám (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    platinum: {lt: 50}
+    diamond: 50
   Enum:
     - key: "yes"
       synonyms:
@@ -112,6 +119,10 @@
     el: Θεραπεία θρομβεκτομής με χρόνο door-to-groin μικρότερο ή ίσο με 120 λεπτά (δείκτης βραβείων Angels).
     cs: Trombektomická léčba s door-to-groin časem kratším nebo rovným 120 minutám (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    gold: 50
+    platinum: 75
+    diamond: 75
   Enum:
     - key: "yes"
       synonyms:
@@ -154,6 +165,9 @@
     el: Θεραπεία θρομβεκτομής με χρόνο door-to-groin μικρότερο ή ίσο με 90 λεπτά (δείκτης βραβείων Angels).
     cs: Trombektomická léčba s door-to-groin časem kratším nebo rovným 90 minutám (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    platinum: {lt: 50}
+    diamond: 50
   Enum:
     - key: "yes"
       synonyms:
@@ -196,6 +210,10 @@
     el: Υποβολή σε θεραπεία επανακαναλοποίησης (θρομβόλυση και/ή θρομβεκτομή) σε περιστατικά ισχαιμικού εγκεφαλικού (δείκτης βραβείων Angels).
     cs: Podstoupení rekanalizační léčby (trombolýza a/nebo trombektomie) u případů ischemické cévní mozkové příhody (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    gold: 5
+    platinum: 15
+    diamond: 25
   Enum:
     - key: "yes"
       synonyms:
@@ -238,6 +256,10 @@
     el: Διενέργεια απεικόνισης με CT/MR στο πρώτο νοσοκομείο (δείκτης βραβείων Angels).
     cs: Podstoupení CT/MR vyšetření v první nemocnici (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    gold: 80
+    platinum: 85
+    diamond: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -280,6 +302,10 @@
     el: Διενέργεια ελέγχου κατάποσης (δείκτης βραβείων Angels).
     cs: Podstoupení screeningu polykání (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    gold: 80
+    platinum: 85
+    diamond: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -322,6 +348,10 @@
     el: Χορήγηση αντιπηκτικών κατά το εξιτήριο σε ασθενείς με κολπική μαρμαρυγή (δείκτης βραβείων Angels).
     cs: Předepsání antikoagulancií při propuštění u pacientů s fibrilací síní (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    gold: 80
+    platinum: 85
+    diamond: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -364,6 +394,10 @@
     el: Χορήγηση αντιθρομβωτικών κατά το εξιτήριο σε ασθενείς χωρίς κολπική μαρμαρυγή (δείκτης βραβείων Angels).
     cs: Předepsání antitrombotik při propuštění u pacientů bez fibrilace síní (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    gold: 80
+    platinum: 85
+    diamond: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -406,6 +440,8 @@
     el: Νοσηλεία σε εξειδικευμένη μονάδα αγγειακών εγκεφαλικών επεισοδίων ή σε μονάδα εντατικής θεραπείας (δείκτης βραβείων Angels).
     cs: Hospitalizace na specializované iktové jednotce nebo jednotce intenzivní péče (indikátor Angels Awards).
   data_type: Enum
+  angels_awards:
+    diamond: {gt: 0}
   Enum:
     - key: "yes"
       synonyms:
