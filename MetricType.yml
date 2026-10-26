@@ -75,7 +75,7 @@
     cs: Trombolytická léčba s door-to-needle časem kratším nebo rovným 45 minutám (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    platinum: 50
+    platinum: {lt: 50}
     diamond: 50
   Enum:
     - key: "yes"
@@ -166,7 +166,7 @@
     cs: Trombektomická léčba s door-to-groin časem kratším nebo rovným 90 minutám (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    platinum: 50
+    platinum: {lt: 50}
     diamond: 50
   Enum:
     - key: "yes"
@@ -441,7 +441,7 @@
     cs: Hospitalizace na specializované iktové jednotce nebo jednotce intenzivní péče (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    diamond: 100
+    diamond: {gt: 0}
   Enum:
     - key: "yes"
       synonyms:
