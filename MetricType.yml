@@ -29,9 +29,12 @@
     cs: Trombolytická léčba s door-to-needle časem kratším nebo rovným 60 minutám (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    gold: 50
-    platinum: 75
-    diamond: 75
+    gold:
+      min_percent: 50
+    platinum:
+      min_percent: 75
+    diamond:
+      min_percent: 75
   Enum:
     - key: "yes"
       synonyms:
@@ -75,8 +78,8 @@
     cs: Trombolytická léčba s door-to-needle časem kratším nebo rovným 45 minutám (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    platinum: {lt: 50}
-    diamond: 50
+    diamond:
+      min_percent: 50
   Enum:
     - key: "yes"
       synonyms:
@@ -120,9 +123,12 @@
     cs: Trombektomická léčba s door-to-groin časem kratším nebo rovným 120 minutám (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    gold: 50
-    platinum: 75
-    diamond: 75
+    gold:
+      min_percent: 50
+    platinum:
+      min_percent: 75
+    diamond:
+      min_percent: 75
   Enum:
     - key: "yes"
       synonyms:
@@ -166,8 +172,8 @@
     cs: Trombektomická léčba s door-to-groin časem kratším nebo rovným 90 minutám (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    platinum: {lt: 50}
-    diamond: 50
+    diamond:
+      min_percent: 50
   Enum:
     - key: "yes"
       synonyms:
@@ -211,9 +217,12 @@
     cs: Podstoupení rekanalizační léčby (trombolýza a/nebo trombektomie) u případů ischemické cévní mozkové příhody (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    gold: 5
-    platinum: 15
-    diamond: 25
+    gold:
+      min_percent: 5
+    platinum:
+      min_percent: 15
+    diamond:
+      min_percent: 25
   Enum:
     - key: "yes"
       synonyms:
@@ -257,9 +266,12 @@
     cs: Podstoupení CT/MR vyšetření v první nemocnici (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    gold: 80
-    platinum: 85
-    diamond: 90
+    gold:
+      min_percent: 80
+    platinum:
+      min_percent: 85
+    diamond:
+      min_percent: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -303,9 +315,12 @@
     cs: Podstoupení screeningu polykání (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    gold: 80
-    platinum: 85
-    diamond: 90
+    gold:
+      min_percent: 80
+    platinum:
+      min_percent: 85
+    diamond:
+      min_percent: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -349,9 +364,12 @@
     cs: Předepsání antikoagulancií při propuštění u pacientů s fibrilací síní (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    gold: 80
-    platinum: 85
-    diamond: 90
+    gold:
+      min_percent: 80
+    platinum:
+      min_percent: 85
+    diamond:
+      min_percent: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -395,9 +413,12 @@
     cs: Předepsání antitrombotik při propuštění u pacientů bez fibrilace síní (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    gold: 80
-    platinum: 85
-    diamond: 90
+    gold:
+      min_percent: 80
+    platinum:
+      min_percent: 85
+    diamond:
+      min_percent: 90
   Enum:
     - key: "yes"
       synonyms:
@@ -441,7 +462,8 @@
     cs: Hospitalizace na specializované iktové jednotce nebo jednotce intenzivní péče (indikátor Angels Awards).
   data_type: Enum
   angels_awards:
-    diamond: {gt: 0}
+    diamond:
+      required: true
   Enum:
     - key: "yes"
       synonyms:
