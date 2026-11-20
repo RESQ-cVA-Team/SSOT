@@ -342,6 +342,7 @@
         aa anticoagulants at discharge,
         aa discharge anticoagulants,
         angels awards discharge anticoagulants,
+        anticoagulants at discharge,
       ]
     el:
       [
@@ -349,6 +350,7 @@
         aa αντιπηκτικά κατά το εξιτήριο,
         aa εξιτήριο αντιπηκτικά,
         angels awards εξιτήριο αντιπηκτικά,
+        αντιπηκτικά κατά το εξιτήριο,
       ]
     cs:
       [
@@ -356,6 +358,7 @@
         aa antikoagulancia při propuštění,
         aa propuštění antikoagulancia,
         angels awards propuštění antikoagulancia,
+        antikoagulancia při propuštění,
       ]
   descriptions:
     en: Prescription of anticoagulants upon discharge for cases with atrial fibrillation (Angels Awards Metric).
@@ -440,6 +443,7 @@
         aa stroke unit or intensive care,
         aa stroke unit intensive care,
         angels awards stroke unit intensive care,
+        stroke unit or intensive care,
       ]
     el:
       [
@@ -447,6 +451,7 @@
         aa μονάδα εγκεφαλικών or εντατική θεραπεία,
         aa μονάδα εγκεφαλικών εντατική θεραπεία,
         angels awards μονάδα εγκεφαλικών εντατική θεραπεία,
+        μονάδα εγκεφαλικών ή εντατική θεραπεία,
       ]
     cs:
       [
@@ -454,6 +459,7 @@
         aa iktová jednotka or intenzivní péče,
         aa iktová jednotka intenzivní péče,
         angels awards iktová jednotka intenzivní péče,
+        iktová jednotka nebo intenzivní péče,
       ]
   descriptions:
     en: Hospitalization in a dedicated stroke unit or intensive care unit (Angels Awards Metric).
@@ -562,9 +568,9 @@
   Enum:
     - key: ems_from_home_scene
       synonyms:
-        en: [ems from home or scene]
-        el: [ems from home or scene]
-        cs: [ems from home or scene]
+        en: [ems from home or scene, ambulance, ems]
+        el: [ems from home or scene, ασθενοφόρο, ΕΚΑΒ]
+        cs: [ems from home or scene, sanitka, záchranná služba]
     - key: private_transportation_from_home_scene
       synonyms:
         en: [private transport from home or scene]
@@ -582,9 +588,9 @@
         cs: [another hospital]
     - key: ems_from_gp
       synonyms:
-        en: [ems from general practitioner]
-        el: [ems from γενικός ιατρός]
-        cs: [ems from praktický lékař]
+        en: [ems from general practitioner, ambulance, ems]
+        el: [ems from γενικός ιατρός, ασθενοφόρο, ΕΚΑΒ]
+        cs: [ems from praktický lékař, sanitka, záchranná služba]
     - key: private_transportation_from_gp
       synonyms:
         en: [private transport from general practitioner]
@@ -732,14 +738,14 @@
   Enum:
     - key: male
       synonyms:
-        en: [male]
-        el: [male]
-        cs: [male]
+        en: [male, man, men]
+        el: [male, άνδρας, άνδρες]
+        cs: [male, muž, muži]
     - key: female
       synonyms:
-        en: [female]
-        el: [female]
-        cs: [female]
+        en: [female, woman, women]
+        el: [female, γυναίκα, γυναίκες]
+        cs: [female, žena, ženy]
     - key: unknown_other
       synonyms:
         en: [unknown or other]
@@ -761,19 +767,19 @@
   Enum:
     - key: risk_hypertension
       synonyms:
-        en: [risk hypertension, history of hypertension]
-        el: [risk hypertension, history of hypertension]
-        cs: [risk hypertension, history of hypertension]
+        en: [risk hypertension, history of hypertension, hypertension, high blood pressure]
+        el: [risk hypertension, history of hypertension, υπέρταση]
+        cs: [risk hypertension, history of hypertension, hypertenze, vysoký krevní tlak]
     - key: risk_diabetes
       synonyms:
-        en: [risk diabetes, history of diabetes]
-        el: [risk diabetes, history of diabetes]
-        cs: [risk diabetes, history of diabetes]
+        en: [risk diabetes, history of diabetes, diabetes]
+        el: [risk diabetes, history of diabetes, διαβήτης, σακχαρώδης διαβήτης]
+        cs: [risk diabetes, history of diabetes, diabetes, cukrovka]
     - key: risk_hyperlipidemia
       synonyms:
-        en: [risk hyperlipidemia, history of hyperlipidemia]
-        el: [risk hyperlipidemia, history of hyperlipidemia]
-        cs: [risk hyperlipidemia, history of hyperlipidemia]
+        en: [risk hyperlipidemia, history of hyperlipidemia, hyperlipidemia, high cholesterol]
+        el: [risk hyperlipidemia, history of hyperlipidemia, υπερλιπιδαιμία]
+        cs: [risk hyperlipidemia, history of hyperlipidemia, hyperlipidémie, vysoký cholesterol]
     - key: risk_atrial_fibrillation
       synonyms:
         en: [risk atrial fibrillation, history of atrial fibrillation]
@@ -781,14 +787,14 @@
         cs: [risk fibrilace síní, history of fibrilace síní]
     - key: risk_congestive_heart_failure
       synonyms:
-        en: [risk heart failure, history of congestive heart failure]
-        el: [risk heart failure, history of congestive heart failure]
-        cs: [risk heart failure, history of congestive heart failure]
+        en: [risk heart failure, history of congestive heart failure, heart failure]
+        el: [risk heart failure, history of congestive heart failure, καρδιακή ανεπάρκεια]
+        cs: [risk heart failure, history of congestive heart failure, srdeční selhání]
     - key: risk_smoker
       synonyms:
-        en: [risk smoker, smoking history]
-        el: [risk smoker, smoking history]
-        cs: [risk smoker, smoking history]
+        en: [risk smoker, smoking history, smoker, smoking]
+        el: [risk smoker, smoking history, καπνιστής, κάπνισμα]
+        cs: [risk smoker, smoking history, kuřák, kouření]
     - key: risk_vte
       synonyms:
         en: [risk vte, history of venous thromboembolism]
@@ -796,9 +802,9 @@
         cs: [risk vte, anamnéza žilní tromboembolie]
     - key: risk_previous_stroke
       synonyms:
-        en: [risk previous stroke, history of stroke]
-        el: [risk previous stroke, history of stroke]
-        cs: [risk previous stroke, history of stroke]
+        en: [risk previous stroke, history of stroke, previous stroke]
+        el: [risk previous stroke, history of stroke, προηγούμενο εγκεφαλικό]
+        cs: [risk previous stroke, history of stroke, předchozí iktus]
     - key: risk_coronary_artery_disease_or_myocardial_infarction
       synonyms:
         en: [risk coronary artery disease or myocardial infarction]
@@ -1247,34 +1253,34 @@
   Enum:
     - key: ct
       synonyms:
-        en: [ct]
-        el: [ct]
-        cs: [ct]
+        en: [ct, ct imaging, ct scan, computed tomography]
+        el: [ct, αξονική τομογραφία]
+        cs: [ct, CT vyšetření, výpočetní tomografie]
     - key: ct_cta
       synonyms:
-        en: [ct with cta]
-        el: [ct with cta]
-        cs: [ct with cta]
+        en: [ct with cta, ct imaging, ct scan, computed tomography]
+        el: [ct with cta, αξονική τομογραφία]
+        cs: [ct with cta, CT vyšetření, výpočetní tomografie]
     - key: ct_cta_perfusion
       synonyms:
-        en: [ct with cta and perfusion]
-        el: [ct with cta and perfusion]
-        cs: [ct with cta and perfusion]
+        en: [ct with cta and perfusion, ct imaging, ct scan, computed tomography]
+        el: [ct with cta and perfusion, αξονική τομογραφία]
+        cs: [ct with cta and perfusion, CT vyšetření, výpočetní tomografie]
     - key: mr_dwi_flair
       synonyms:
-        en: [mr dwi or flair]
-        el: [mr dwi or flair]
-        cs: [mr dwi or flair]
+        en: [mr dwi or flair, mri, mr imaging, magnetic resonance]
+        el: [mr dwi or flair, μαγνητική τομογραφία]
+        cs: [mr dwi or flair, magnetická rezonance]
     - key: mr_dwi_flair_mra
       synonyms:
-        en: [mr dwi or flair with mra]
-        el: [mr dwi or flair with mra]
-        cs: [mr dwi or flair with mra]
+        en: [mr dwi or flair with mra, mri, mr imaging, magnetic resonance]
+        el: [mr dwi or flair with mra, μαγνητική τομογραφία]
+        cs: [mr dwi or flair with mra, magnetická rezonance]
     - key: mr_dwi_flair_mra_perfusion
       synonyms:
-        en: [mr dwi or flair with mra and perfusion]
-        el: [mr dwi or flair with mra and perfusion]
-        cs: [mr dwi or flair with mra and perfusion]
+        en: [mr dwi or flair with mra and perfusion, mri, mr imaging, magnetic resonance]
+        el: [mr dwi or flair with mra and perfusion, μαγνητική τομογραφία]
+        cs: [mr dwi or flair with mra and perfusion, magnetická rezonance]
   supported_by: api
 - canonical: OCCLUSION_FOUND
   index: 0
@@ -1499,27 +1505,27 @@
   Enum:
     - key: ischemic
       synonyms:
-        en: [ischemic stroke]
+        en: [ischemic stroke, ischemic]
         el: [ισχαιμικό εγκεφαλικό επεισόδιο]
         cs: [ischemický iktus]
     - key: intracerebral_hemorrhage
       synonyms:
-        en: [intracerebral hemorrhage]
+        en: [intracerebral hemorrhage, ich]
         el: [ενδοεγκεφαλική αιμορραγία]
         cs: [intracerebrální krvácení]
     - key: transient_ischemic
       synonyms:
-        en: [transient ischemic attack]
+        en: [transient ischemic attack, tia]
         el: [παροδικό ισχαιμικό επεισόδιο]
         cs: [tranzitorní ischemická ataka]
     - key: subarachnoid_hemorrhage
       synonyms:
-        en: [subarachnoid hemorrhage]
+        en: [subarachnoid hemorrhage, sah]
         el: [υπαραχνοειδής αιμορραγία]
         cs: [subarachnoidální krvácení]
     - key: cerebral_venous_thrombosis
       synonyms:
-        en: [cerebral venous thrombosis]
+        en: [cerebral venous thrombosis, cvt]
         el: [φλεβική θρόμβωση εγκεφάλου]
         cs: [cerebrální žilní trombóza]
     - key: stroke_mimics
